@@ -107,7 +107,7 @@ function parseData(priceRows, metadataRows) {
     if (!r.year || !Number.isInteger(year) || year < 1800 || year > 2100) {
       throw new Error(`price_indexes.csv: row ${i + 2} has invalid year: ${r.year}`);
     }
-    if (!r.index || !Number.isFinite(index) || index <= 0) {
+    if (r.index === '' || !Number.isFinite(index)) {
       throw new Error(`price_indexes.csv: row ${i + 2} has invalid index: ${r.index}`);
     }
     if (!state.data.has(id)) state.data.set(id, { values: new Map(), years: [] });
@@ -186,17 +186,28 @@ const plotConfig = { responsive: true, displaylogo: false, modeBarButtonsToRemov
 function densePoints(item, measure, baseYear) {
   const xs = [], ys = [];
   const start = item.years[0], end = item.years.at(-1);
-  const divisor = item.values.get(baseYear);
+  const baseLog = item.values.get(baseYear);
+
   for (let y = start; y <= end; y++) {
     const current = item.values.get(y);
     const previous = item.values.get(y - 1);
     xs.push(y);
+
     if (measure === 'inflation') {
-      ys.push(current != null && previous != null ? 100 * Math.log(current / previous) : null);
+      ys.push(
+        current != null && previous != null
+          ? 100 * (current - previous)
+          : null
+      );
     } else {
-      ys.push(current != null ? 100 * current / divisor : null);
+      ys.push(
+        current != null
+          ? 100 * Math.exp(current - baseLog)
+          : null
+      );
     }
   }
+
   return { xs, ys };
 }
 
