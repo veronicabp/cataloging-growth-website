@@ -114,13 +114,18 @@ good_Air conditioners,1983,0.40125853805775213
 good_Air conditioners,1984,0.4588825354824224
 good_Air conditioners,1985,0.5377405384988192
 good_Air conditioners,1986,0.3390682387597722
+good_Air conditioners,1987,0.3390682387597722
 good_Air conditioners,1988,0.2776149863968371
 good_Air conditioners,1989,0.30044771695954214
+good_Air conditioners,1990,0.30044771695954214
+good_Air conditioners,1991,0.30044771695954214
 good_Air conditioners,1992,0.3063442459503733
 good_Arm chairs,1902,0.13041440768724502
 good_Arm chairs,1903,0.2331214898663228
+good_Arm chairs,1904,0.2331214898663228
 good_Arm chairs,1905,-0.20326980591095933
 good_Arm chairs,1906,-0.2388528317793825
+good_Arm chairs,1908,-0.2388528317793825
 good_Arm chairs,1909,-0.3663299449122131
 good_Arm chairs,1910,-0.315130848001574
 good_Arm chairs,1911,-0.0838595770097918
@@ -157,6 +162,8 @@ good_Arm chairs,1941,-1.624015241165746
 good_Arm chairs,1942,-1.4046055551507783
 good_Arm chairs,1943,-1.5183986921196748
 good_Arm chairs,1944,-1.5529590230259167
+good_Arm chairs,1945,-1.5529590230259167
+good_Arm chairs,1946,-1.5529590230259167
 good_Arm chairs,1947,-1.651331359212715
 good_Arm chairs,1948,-1.7240310657085742
 good_Arm chairs,1949,-1.884892666456421
@@ -197,12 +204,14 @@ good_Arm chairs,1983,-0.10665491216109022
 good_Arm chairs,1984,-0.2332789780502366
 good_Arm chairs,1985,-0.30754967899202557
 good_Arm chairs,1986,-0.2745666637060529
+good_Arm chairs,1987,-0.2745666637060529
 good_Arm chairs,1988,-0.14159505411078543
 good_Arm chairs,1989,-0.10060704693181641
 good_Arm chairs,1990,-0.03119873295578776
 good_Arm chairs,1991,0.05957706340731919
 good_Arm chairs,1992,0.1088932796922426
 good_Awnings,1908,-0.7563332824329974
+good_Awnings,1909,-0.7563332824329974
 good_Awnings,1910,-1.0184004184036417
 good_Awnings,1911,-0.6478237503215649
 good_Awnings,1912,-0.3019222724756099
@@ -214,9 +223,12 @@ good_Awnings,1917,-0.17886458620211249
 good_Awnings,1918,0.37971479088149124
 good_Awnings,1919,0.42985728090375885
 good_Awnings,1920,0.9465300281754043
+good_Awnings,1921,0.9465300281754043
+good_Awnings,1922,0.9465300281754043
 good_Awnings,1923,0.22534039610095558
 good_Awnings,1924,0.1282852768472551
 good_Awnings,1925,-0.4254145666944553
+good_Awnings,1926,-0.4254145666944553
 good_Awnings,1927,0.695408712863375
 good_Awnings,1928,1.01013716050754
 good_Awnings,1929,1.1133843613757302
@@ -235,11 +247,15 @@ good_Awnings,1941,1.2888626455956764
 good_Awnings,1942,1.6087759739930942
 good_Awnings,1943,1.8103554457200286
 good_Awnings,1944,1.7779358952632727
+good_Awnings,1945,1.7779358952632727
+good_Awnings,1946,1.7779358952632727
+good_Awnings,1947,1.7779358952632727
 good_Awnings,1948,3.0800220779554683
 good_Awnings,1949,3.047143058223471
 good_Awnings,1950,2.970561033333009
 good_Awnings,1951,3.4062879998934616
 good_Awnings,1952,2.9071819178029337
+good_Awnings,1953,2.9071819178029337
 good_Awnings,1954,2.9947808049194578
 good_Awnings,1955,2.9634837905350873
 good_Awnings,1956,3.042498227247367
@@ -269,8 +285,11 @@ good_Awnings,1979,3.644081291654321
 good_Awnings,1980,3.815819754411014
 good_Awnings,1981,4.126380704739006
 good_Awnings,1982,4.316099743464372
+good_Awnings,1983,4.316099743464372
+good_Awnings,1984,4.316099743464372
 good_Awnings,1985,3.447650192425087
 good_Awnings,1986,3.476557020681005
+good_Awnings,1987,3.476557020681005
 good_Awnings,1988,3.550763717691958
 good_Awnings,1989,3.6182993233211542
 good_Awnings,1990,3.6120879305624842
@@ -278,6 +297,10 @@ good_Awnings,1991,3.5893342472427077
 good_Awnings,1992,3.612485453181652
 good_Bath robes,1904,0.19697409392423929
 good_Bath robes,1905,-0.542489965263186
+good_Bath robes,1906,-0.542489965263186
+good_Bath robes,1908,-0.542489965263186
+good_Bath robes,1909,-0.542489965263186
+good_Bath robes,1910,-0.542489965263186
 good_Bath robes,1911,-0.7919081502207154
 good_Bath robes,1912,-0.5866552486731126
 good_Bath robes,1913,-0.5851467679435982
@@ -362,8 +385,11 @@ good_Bath robes,1991,0.23924711324565717
 good_Bath robes,1992,0.22834164983764899
 good_Bath towels,1901,0.25702012564025273
 good_Bath towels,1902,-0.44894460379946494
+good_Bath towels,1903,-0.44894460379946494
 good_Bath towels,1904,-0.37664464986670865
 good_Bath towels,1905,-0.6749644470296079
+good_Bath towels,1906,-0.6749644470296079
+good_Bath towels,1908,-0.6749644470296079
 good_Bath towels,1909,-0.7851773932412638
 good_Bath towels,1910,-0.798666861688929
 good_Bath towels,1911,-0.7321522949190108
@@ -400,6 +426,8 @@ good_Bath towels,1941,-0.39786228021488057
 good_Bath towels,1942,0.027145017317681985
 good_Bath towels,1943,0.029819911674225517
 good_Bath towels,1944,-0.007057467278177191
+good_Bath towels,1945,-0.007057467278177191
+good_Bath towels,1946,-0.007057467278177191
 good_Bath towels,1947,0.31770987644047216
 good_Bath towels,1948,0.1685288937388542
 good_Bath towels,1949,0.40400854528839647
@@ -946,6 +974,9 @@ good_Bookcases,1991,2.465923636245802
 good_Bookcases,1992,2.531657313535419
 good_Boys athletic footwears,1916,0.021908293850967146
 good_Boys athletic footwears,1917,0.2665317545712473
+good_Boys athletic footwears,1918,0.26653175457124734
+good_Boys athletic footwears,1919,0.26653175457124734
+good_Boys athletic footwears,1920,0.26653175457124734
 good_Boys athletic footwears,1921,0.27107851532294136
 good_Boys athletic footwears,1922,-0.16897895421072434
 good_Boys athletic footwears,1923,-0.18012084220637858
@@ -968,6 +999,10 @@ good_Boys athletic footwears,1939,-0.7409764940454179
 good_Boys athletic footwears,1940,-0.724071639403355
 good_Boys athletic footwears,1941,-0.665350417195897
 good_Boys athletic footwears,1942,-0.7009158493557447
+good_Boys athletic footwears,1943,-0.7009158493557447
+good_Boys athletic footwears,1944,-0.7009158493557447
+good_Boys athletic footwears,1945,-0.7009158493557447
+good_Boys athletic footwears,1946,-0.7009158493557447
 good_Boys athletic footwears,1947,-0.6481599392014893
 good_Boys athletic footwears,1948,-0.533498478265343
 good_Boys athletic footwears,1949,-0.5032027329069414
@@ -983,6 +1018,7 @@ good_Boys athletic footwears,1958,-0.14582254843020692
 good_Boys athletic footwears,1959,-0.09276733185879513
 good_Boys athletic footwears,1960,-0.0608829043585664
 good_Boys athletic footwears,1961,-0.07860114899273951
+good_Boys athletic footwears,1962,-0.07860114899273951
 good_Boys athletic footwears,1963,-0.11880555535726911
 good_Boys athletic footwears,1964,-0.0029213646382390823
 good_Boys athletic footwears,1965,0.10490905718746639
@@ -1010,6 +1046,7 @@ good_Boys athletic footwears,1986,0.5051627553653872
 good_Boys athletic footwears,1987,0.341962902474685
 good_Boys athletic footwears,1988,0.5482945259194796
 good_Boys athletic footwears,1989,1.0089256099880148
+good_Boys athletic footwears,1990,1.0089256099880148
 good_Boys athletic footwears,1991,1.1777105659568683
 good_Boys athletic footwears,1992,1.2251848428351615
 good_Boys boots,1901,-0.18620947738017385
@@ -1017,6 +1054,7 @@ good_Boys boots,1902,-0.24881702373559417
 good_Boys boots,1903,-0.24681102301564917
 good_Boys boots,1904,-0.13137526618648393
 good_Boys boots,1905,-0.04736820897494724
+good_Boys boots,1906,-0.04736820897494724
 good_Boys boots,1908,-0.10136523414338067
 good_Boys boots,1909,-0.05541595643598693
 good_Boys boots,1910,0.11821284113536726
@@ -1052,6 +1090,10 @@ good_Boys boots,1939,1.0535368842183537
 good_Boys boots,1940,1.1878795083939346
 good_Boys boots,1941,1.1961273001081354
 good_Boys boots,1942,1.4443814270928568
+good_Boys boots,1943,1.4443814270928568
+good_Boys boots,1944,1.4443814270928568
+good_Boys boots,1945,1.4443814270928568
+good_Boys boots,1946,1.4443814270928568
 good_Boys boots,1947,1.4198923424556285
 good_Boys boots,1948,1.5307805668008199
 good_Boys boots,1949,1.4537460004357776
@@ -1099,6 +1141,7 @@ good_Boys coats or jackets,1902,-0.1589186004686641
 good_Boys coats or jackets,1903,-0.1968937997023516
 good_Boys coats or jackets,1904,-0.22244147390522329
 good_Boys coats or jackets,1905,-0.48114903934363534
+good_Boys coats or jackets,1906,-0.48114903934363534
 good_Boys coats or jackets,1908,-0.46132549024295466
 good_Boys coats or jackets,1909,-0.6662355768843701
 good_Boys coats or jackets,1910,-0.4243976236976051
@@ -1242,14 +1285,19 @@ good_Boys overalls or coveralls,1962,-0.2950898218383716
 good_Boys overalls or coveralls,1963,-0.299704986709706
 good_Boys overalls or coveralls,1964,-0.3705331453807294
 good_Boys overalls or coveralls,1965,-0.16413123556434073
+good_Boys overalls or coveralls,1966,-0.16413123556434073
 good_Boys overalls or coveralls,1967,-0.18304793062740005
 good_Boys overalls or coveralls,1968,-0.1120145320980945
 good_Boys overalls or coveralls,1969,-0.15859308979789788
 good_Boys overalls or coveralls,1970,-0.08193824377223174
 good_Boys overalls or coveralls,1971,-0.2894877690346519
+good_Boys overalls or coveralls,1972,-0.2894877690346519
 good_Boys overalls or coveralls,1973,-0.23190130423381697
+good_Boys overalls or coveralls,1974,-0.23190130423381697
+good_Boys overalls or coveralls,1975,-0.23190130423381697
 good_Boys overalls or coveralls,1976,-0.1350898174864848
 good_Boys overalls or coveralls,1977,-0.035978901897981794
+good_Boys overalls or coveralls,1978,-0.035978901897981794
 good_Boys overalls or coveralls,1979,0.12420444796225728
 good_Boys overalls or coveralls,1980,0.039655127390197165
 good_Boys overalls or coveralls,1981,-0.028713579363636527
@@ -1260,13 +1308,23 @@ good_Boys overalls or coveralls,1985,0.17734958090940223
 good_Boys overalls or coveralls,1986,0.18626425942952138
 good_Boys overalls or coveralls,1987,-0.12127256033398379
 good_Boys overalls or coveralls,1988,0.1531755974624421
+good_Boys overalls or coveralls,1989,0.1531755974624421
+good_Boys overalls or coveralls,1990,0.1531755974624421
+good_Boys overalls or coveralls,1991,0.1531755974624421
 good_Boys overalls or coveralls,1992,0.27486917138024286
 good_Boys pajamas or nightshirts or robes,1902,-0.003191484079064429
+good_Boys pajamas or nightshirts or robes,1903,-0.003191484079064429
+good_Boys pajamas or nightshirts or robes,1904,-0.003191484079064429
+good_Boys pajamas or nightshirts or robes,1905,-0.003191484079064429
+good_Boys pajamas or nightshirts or robes,1906,-0.003191484079064429
+good_Boys pajamas or nightshirts or robes,1908,-0.003191484079064429
 good_Boys pajamas or nightshirts or robes,1909,0.12039160432643191
 good_Boys pajamas or nightshirts or robes,1910,0.06630727048997728
 good_Boys pajamas or nightshirts or robes,1911,0.10821498500531701
 good_Boys pajamas or nightshirts or robes,1912,0.12278576721744834
 good_Boys pajamas or nightshirts or robes,1913,0.20448825831930229
+good_Boys pajamas or nightshirts or robes,1914,0.20448825831930229
+good_Boys pajamas or nightshirts or robes,1915,0.20448825831930229
 good_Boys pajamas or nightshirts or robes,1916,0.08275294669243886
 good_Boys pajamas or nightshirts or robes,1917,0.2315983438033759
 good_Boys pajamas or nightshirts or robes,1918,0.7411324871669274
@@ -1296,6 +1354,8 @@ good_Boys pajamas or nightshirts or robes,1941,-0.6603440394563043
 good_Boys pajamas or nightshirts or robes,1942,-0.4308998837748452
 good_Boys pajamas or nightshirts or robes,1943,-0.1518555163466081
 good_Boys pajamas or nightshirts or robes,1944,-0.0746810477044008
+good_Boys pajamas or nightshirts or robes,1945,-0.0746810477044008
+good_Boys pajamas or nightshirts or robes,1946,-0.0746810477044008
 good_Boys pajamas or nightshirts or robes,1947,0.09296240723489048
 good_Boys pajamas or nightshirts or robes,1948,0.06158693813917571
 good_Boys pajamas or nightshirts or robes,1949,-0.07122102177369863
@@ -1386,6 +1446,7 @@ good_Boys shirts,1942,-0.6007680529029419
 good_Boys shirts,1943,-0.48290791747560186
 good_Boys shirts,1944,-0.15942850977050882
 good_Boys shirts,1945,-0.264138686248484
+good_Boys shirts,1946,-0.264138686248484
 good_Boys shirts,1947,-0.1788782779380126
 good_Boys shirts,1948,-0.15089517674648717
 good_Boys shirts,1949,-0.2586243326444964
@@ -1613,17 +1674,26 @@ good_Boys slacks or trousers or shorts,1991,-1.508119103991856
 good_Boys slacks or trousers or shorts,1992,-1.434280008039428
 good_Boys slippers,1925,-0.09830925012490352
 good_Boys slippers,1926,-0.05393762592931831
+good_Boys slippers,1927,-0.05393762592931831
+good_Boys slippers,1928,-0.05393762592931831
+good_Boys slippers,1929,-0.05393762592931831
 good_Boys slippers,1930,-0.004201216646744305
 good_Boys slippers,1931,-0.16200472526363066
 good_Boys slippers,1932,-0.4342420006385316
 good_Boys slippers,1933,-0.34930463957512303
+good_Boys slippers,1934,-0.34930463957512303
+good_Boys slippers,1935,-0.34930463957512303
 good_Boys slippers,1936,-0.19492329064593977
+good_Boys slippers,1937,-0.19492329064593977
 good_Boys slippers,1938,-0.2420155516428655
 good_Boys slippers,1939,-0.3092310991822946
 good_Boys slippers,1940,-0.237868000333876
 good_Boys slippers,1941,-0.06985572451728178
 good_Boys slippers,1942,0.3201990638703405
 good_Boys slippers,1943,0.2894598062172937
+good_Boys slippers,1944,0.2894598062172937
+good_Boys slippers,1945,0.2894598062172937
+good_Boys slippers,1946,0.2894598062172937
 good_Boys slippers,1947,0.3540963222202455
 good_Boys slippers,1948,0.641767165495801
 good_Boys slippers,1949,0.6043491907778693
@@ -1649,11 +1719,14 @@ good_Boys slippers,1968,1.253189405971082
 good_Boys slippers,1969,1.355346089943847
 good_Boys slippers,1970,1.365487575925348
 good_Boys slippers,1971,1.3397021515968197
+good_Boys slippers,1972,1.3397021515968197
+good_Boys slippers,1973,1.3397021515968197
 good_Boys slippers,1974,1.511497690746147
 good_Boys slippers,1975,1.5006066445961204
 good_Boys slippers,1976,1.6238622797723838
 good_Boys slippers,1977,1.6358216268499814
 good_Boys slippers,1978,1.722866719210598
+good_Boys slippers,1979,1.722866719210598
 good_Boys slippers,1980,1.8294334673193635
 good_Boys slippers,1981,2.074895205563961
 good_Boys slippers,1982,2.135593771675856
@@ -1661,6 +1734,8 @@ good_Boys slippers,1983,2.3374073346638986
 good_Boys slippers,1984,2.6657199709527446
 good_Boys slippers,1985,2.5658291152964767
 good_Boys slippers,1986,2.6557435715894266
+good_Boys slippers,1987,2.6557435715894266
+good_Boys slippers,1988,2.6557435715894266
 good_Boys slippers,1989,2.777034500905163
 good_Boys suits,1901,-0.12129418719633604
 good_Boys suits,1902,-0.3166352719405014
@@ -1758,6 +1833,8 @@ good_Boys sweaters,1902,-0.14709588465086326
 good_Boys sweaters,1903,-0.08419091567186764
 good_Boys sweaters,1904,-0.198852002836419
 good_Boys sweaters,1905,-0.2250398041295144
+good_Boys sweaters,1906,-0.2250398041295144
+good_Boys sweaters,1908,-0.2250398041295144
 good_Boys sweaters,1909,-0.09533180307879746
 good_Boys sweaters,1910,-0.06714379713963893
 good_Boys sweaters,1911,-0.013674095270802232
@@ -1847,6 +1924,7 @@ good_Bracelets,1902,0.2709264223949243
 good_Bracelets,1903,0.1912129101909808
 good_Bracelets,1904,0.014711397830159734
 good_Bracelets,1905,-0.09028464799031315
+good_Bracelets,1906,-0.09028464799031315
 good_Bracelets,1908,-0.02945346143537758
 good_Bracelets,1909,-0.051815851618345815
 good_Bracelets,1910,-0.07787673828508467
@@ -1877,6 +1955,7 @@ good_Bracelets,1934,-1.7539236568849814
 good_Bracelets,1935,-1.8760490349775716
 good_Bracelets,1936,-1.8115246024064842
 good_Bracelets,1937,-1.6414271919406533
+good_Bracelets,1938,-1.6414271919406533
 good_Bracelets,1939,-1.583383563836314
 good_Bracelets,1940,-1.622920795427808
 good_Bracelets,1941,-1.7039681636924309
@@ -1921,6 +2000,9 @@ good_Bracelets,1979,-1.0818319445834723
 good_Bracelets,1980,-1.1114454425633942
 good_Bracelets,1981,-1.1978490400387791
 good_Bracelets,1982,-1.0942519070828929
+good_Bracelets,1983,-1.0942519070828929
+good_Bracelets,1984,-1.0942519070828929
+good_Bracelets,1985,-1.0942519070828929
 good_Bracelets,1986,-0.5911510630653655
 good_Bracelets,1987,-1.0826993924885373
 good_Bracelets,1988,-0.8724928496614229
@@ -2228,6 +2310,7 @@ good_Carpetings,1941,-2.7048097118639314
 good_Carpetings,1942,-3.1210997260846707
 good_Carpetings,1943,-3.447405815460935
 good_Carpetings,1944,-2.6162804861687827
+good_Carpetings,1945,-2.6162804861687827
 good_Carpetings,1946,-1.8195875302272684
 good_Carpetings,1947,-2.1278133159057853
 good_Carpetings,1948,-2.0262797369956846
@@ -2379,6 +2462,17 @@ good_Chandeliers,1911,-0.28533794782532956
 good_Chandeliers,1912,-0.5040822595023258
 good_Chandeliers,1913,-0.4259408755466973
 good_Chandeliers,1914,-0.4364830957614521
+good_Chandeliers,1915,-0.4364830957614521
+good_Chandeliers,1916,-0.4364830957614521
+good_Chandeliers,1917,-0.4364830957614521
+good_Chandeliers,1918,-0.4364830957614521
+good_Chandeliers,1919,-0.4364830957614521
+good_Chandeliers,1920,-0.4364830957614521
+good_Chandeliers,1921,-0.4364830957614521
+good_Chandeliers,1922,-0.4364830957614521
+good_Chandeliers,1923,-0.4364830957614521
+good_Chandeliers,1924,-0.4364830957614521
+good_Chandeliers,1925,-0.4364830957614521
 good_Chandeliers,1926,-0.5908767796006333
 good_Chandeliers,1927,-0.683966397381635
 good_Chandeliers,1928,-0.546254247268436
@@ -2396,8 +2490,14 @@ good_Chandeliers,1939,-1.771460078148281
 good_Chandeliers,1940,-1.8197462118987346
 good_Chandeliers,1941,-1.5566397462188808
 good_Chandeliers,1942,-0.6995394352648974
+good_Chandeliers,1943,-0.6995394352648974
+good_Chandeliers,1944,-0.6995394352648974
+good_Chandeliers,1945,-0.6995394352648974
 good_Chandeliers,1946,0.4103403981214351
+good_Chandeliers,1947,0.4103403981214351
+good_Chandeliers,1948,0.4103403981214351
 good_Chandeliers,1949,0.022339032302649664
+good_Chandeliers,1950,0.022339032302649664
 good_Chandeliers,1951,0.21037154007075728
 good_Chandeliers,1952,0.12546728700309798
 good_Chandeliers,1953,0.35506016845575383
@@ -2444,12 +2544,17 @@ good_Chest freezers,1950,-0.03586688354182025
 good_Chest freezers,1951,0.07383898527829694
 good_Chest freezers,1952,0.10879926792991568
 good_Chest freezers,1953,0.18495256740057814
+good_Chest freezers,1954,0.18495256740057814
 good_Chest freezers,1955,0.11800893149147734
+good_Chest freezers,1956,0.11800893149147734
 good_Chest freezers,1957,0.09800273115967015
 good_Chest freezers,1958,-0.0005770975857153082
 good_Chest freezers,1959,0.08885227408019901
 good_Chest freezers,1960,-0.01741700893216723
 good_Chest freezers,1961,-0.06819158684134169
+good_Chest freezers,1962,-0.06819158684134169
+good_Chest freezers,1963,-0.06819158684134169
+good_Chest freezers,1964,-0.06819158684134169
 good_Chest freezers,1965,-0.04953461853019692
 good_Chest freezers,1966,-0.051368733175109045
 good_Chest freezers,1967,-0.13127331389057073
@@ -2476,12 +2581,22 @@ good_Chest freezers,1987,0.033128579416931245
 good_Chest freezers,1988,-0.024692648201650076
 good_Chest freezers,1989,-0.03637590930838772
 good_Chest freezers,1990,0.06213757992099709
+good_Chest freezers,1991,0.06213757992099709
 good_Chest freezers,1992,0.07819975925373304
 good_Chests,1904,-0.21115571681507073
+good_Chests,1905,-0.21115571681507073
+good_Chests,1906,-0.21115571681507073
+good_Chests,1908,-0.21115571681507073
+good_Chests,1909,-0.21115571681507073
+good_Chests,1910,-0.21115571681507073
 good_Chests,1911,-0.29958500272406036
+good_Chests,1912,-0.29958500272406036
+good_Chests,1913,-0.29958500272406036
+good_Chests,1914,-0.29958500272406036
 good_Chests,1915,-0.2887358361607319
 good_Chests,1916,-0.2502066125784011
 good_Chests,1917,-0.3169078531383828
+good_Chests,1918,-0.3169078531383828
 good_Chests,1919,-0.06891694788955635
 good_Chests,1920,0.652579154535063
 good_Chests,1921,0.18388132924108713
@@ -2559,17 +2674,47 @@ good_Chests,1992,2.0260004539267564
 good_Childrens tshirts,1901,0.026070362198560803
 good_Childrens tshirts,1902,-0.005035823014415592
 good_Childrens tshirts,1903,-0.552822665371679
+good_Childrens tshirts,1904,-0.552822665371679
 good_Childrens tshirts,1905,-0.788028995818468
+good_Childrens tshirts,1906,-0.788028995818468
 good_Childrens tshirts,1908,-1.2009133246118227
 good_Childrens tshirts,1909,-1.7898698431057714
+good_Childrens tshirts,1910,-1.7898698431057714
+good_Childrens tshirts,1911,-1.7898698431057714
+good_Childrens tshirts,1912,-1.7898698431057714
+good_Childrens tshirts,1913,-1.7898698431057714
 good_Childrens tshirts,1914,-2.0446023744128126
 good_Childrens tshirts,1915,-2.052365697103617
+good_Childrens tshirts,1916,-2.052365697103617
+good_Childrens tshirts,1917,-2.052365697103617
+good_Childrens tshirts,1918,-2.052365697103617
+good_Childrens tshirts,1919,-2.052365697103617
+good_Childrens tshirts,1920,-2.052365697103617
 good_Childrens tshirts,1921,-2.0326620187149884
+good_Childrens tshirts,1922,-2.0326620187149884
+good_Childrens tshirts,1923,-2.0326620187149884
+good_Childrens tshirts,1924,-2.0326620187149884
 good_Childrens tshirts,1925,-2.0732635868571485
 good_Childrens tshirts,1926,-2.042120850117365
 good_Childrens tshirts,1927,-2.066054874590219
+good_Childrens tshirts,1928,-2.066054874590219
+good_Childrens tshirts,1929,-2.066054874590219
+good_Childrens tshirts,1930,-2.066054874590219
+good_Childrens tshirts,1931,-2.066054874590219
+good_Childrens tshirts,1932,-2.066054874590219
+good_Childrens tshirts,1933,-2.066054874590219
+good_Childrens tshirts,1934,-2.066054874590219
 good_Childrens tshirts,1935,-2.17274544628278
+good_Childrens tshirts,1936,-2.17274544628278
+good_Childrens tshirts,1937,-2.17274544628278
+good_Childrens tshirts,1938,-2.17274544628278
+good_Childrens tshirts,1939,-2.17274544628278
+good_Childrens tshirts,1940,-2.17274544628278
+good_Childrens tshirts,1941,-2.17274544628278
+good_Childrens tshirts,1942,-2.17274544628278
+good_Childrens tshirts,1943,-2.17274544628278
 good_Childrens tshirts,1944,-2.153377391122561
+good_Childrens tshirts,1945,-2.153377391122561
 good_Childrens tshirts,1946,-2.0316812235170416
 good_Childrens tshirts,1947,-2.0012751287880204
 good_Childrens tshirts,1948,-2.0246541246423835
@@ -2584,9 +2729,11 @@ good_Childrens tshirts,1956,-2.0073763872772807
 good_Childrens tshirts,1957,-2.1216513351446813
 good_Childrens tshirts,1958,-2.2575523461298785
 good_Childrens tshirts,1959,-2.3756788880302193
+good_Childrens tshirts,1960,-2.3756788880302193
 good_Childrens tshirts,1961,-2.4662695465489772
 good_Childrens tshirts,1962,-2.4087547275884353
 good_Childrens tshirts,1963,-2.2861273101884567
+good_Childrens tshirts,1964,-2.2861273101884567
 good_Childrens tshirts,1965,-1.8354511495478862
 good_Childrens tshirts,1966,-1.926620339474436
 good_Childrens tshirts,1967,-1.7727146416858737
@@ -2635,6 +2782,8 @@ good_Clothes dryers,1971,-0.47453764216983924
 good_Clothes dryers,1972,-0.5270934259944794
 good_Clothes dryers,1973,-0.4847673924483057
 good_Clothes dryers,1974,-0.3803826839480312
+good_Clothes dryers,1975,-0.3803826839480312
+good_Clothes dryers,1976,-0.3803826839480312
 good_Clothes dryers,1977,-0.41445326972897006
 good_Clothes dryers,1978,-0.4080268999440755
 good_Clothes dryers,1979,-0.3236683022067556
@@ -2645,6 +2794,7 @@ good_Clothes dryers,1983,0.04789667620463964
 good_Clothes dryers,1984,0.061389206589203306
 good_Clothes dryers,1985,0.06358729684880994
 good_Clothes dryers,1986,0.03651307825939595
+good_Clothes dryers,1987,0.03651307825939595
 good_Clothes dryers,1988,0.0850256364837089
 good_Clothes dryers,1989,0.11841514899373154
 good_Clothes dryers,1990,0.008276886162651986
@@ -2684,6 +2834,8 @@ good_Comforters,1932,-1.2578277446805584
 good_Comforters,1933,-1.2912662607487697
 good_Comforters,1934,-1.1913055437850495
 good_Comforters,1935,-1.3511724393874907
+good_Comforters,1936,-1.3511724393874907
+good_Comforters,1937,-1.3511724393874907
 good_Comforters,1938,-1.5024803101940682
 good_Comforters,1939,-1.7555293440316417
 good_Comforters,1940,-1.6792053014048547
@@ -2692,11 +2844,14 @@ good_Comforters,1942,-1.1427841479544945
 good_Comforters,1943,-1.011622134632852
 good_Comforters,1944,-0.9821216538776373
 good_Comforters,1945,-0.9735758657523791
+good_Comforters,1946,-0.9735758657523791
+good_Comforters,1947,-0.9735758657523791
 good_Comforters,1948,-0.9750771534872511
 good_Comforters,1949,-1.1608481555457817
 good_Comforters,1950,-1.188880581981535
 good_Comforters,1951,-1.055869862748684
 good_Comforters,1952,-1.160374864327451
+good_Comforters,1953,-1.160374864327451
 good_Comforters,1954,-1.3087265607362855
 good_Comforters,1955,-1.230101019016561
 good_Comforters,1956,-1.2350862315882134
@@ -2739,16 +2894,22 @@ good_Comforters,1992,-0.7651228644938012
 good_Currency bags or wallets,1904,0.11601585525138178
 good_Currency bags or wallets,1905,0.10103011083095079
 good_Currency bags or wallets,1906,0.21403590373598663
+good_Currency bags or wallets,1908,0.21403590373598663
 good_Currency bags or wallets,1909,0.8640189381952483
+good_Currency bags or wallets,1910,0.8640189381952484
+good_Currency bags or wallets,1911,0.8640189381952484
 good_Currency bags or wallets,1912,0.8200251701122507
 good_Currency bags or wallets,1913,0.9671191966402559
+good_Currency bags or wallets,1914,0.9671191966402559
 good_Currency bags or wallets,1915,0.9007530546813725
 good_Currency bags or wallets,1916,1.074052553765569
+good_Currency bags or wallets,1917,1.074052553765569
 good_Currency bags or wallets,1918,1.0248077842237457
 good_Currency bags or wallets,1919,1.1053776946772693
 good_Currency bags or wallets,1920,1.4208548902848896
 good_Currency bags or wallets,1921,1.0955362527937935
 good_Currency bags or wallets,1922,0.838089955369712
+good_Currency bags or wallets,1923,0.838089955369712
 good_Currency bags or wallets,1924,0.9355038647990104
 good_Currency bags or wallets,1925,0.8288507702997672
 good_Currency bags or wallets,1926,0.7029878573329174
@@ -2854,6 +3015,11 @@ good_Curtain rods,1939,-1.5064129067997536
 good_Curtain rods,1940,-1.7820294445376716
 good_Curtain rods,1941,-1.9907533894019893
 good_Curtain rods,1942,-1.8478232213214365
+good_Curtain rods,1943,-1.8478232213214365
+good_Curtain rods,1944,-1.8478232213214365
+good_Curtain rods,1945,-1.8478232213214365
+good_Curtain rods,1946,-1.8478232213214365
+good_Curtain rods,1947,-1.8478232213214365
 good_Curtain rods,1948,-1.7928880618220908
 good_Curtain rods,1949,-1.7588686114785947
 good_Curtain rods,1950,-1.589034030980376
@@ -2863,6 +3029,7 @@ good_Curtain rods,1953,-1.5795463045792
 good_Curtain rods,1954,-1.6797151603763547
 good_Curtain rods,1955,-1.7896122543320159
 good_Curtain rods,1956,-1.6161171789604598
+good_Curtain rods,1957,-1.6161171789604598
 good_Curtain rods,1958,-2.0369346834550335
 good_Curtain rods,1959,-2.2243124842896798
 good_Curtain rods,1960,-2.2175780019620914
@@ -2941,6 +3108,9 @@ good_Curtains,1941,-1.7654613019503882
 good_Curtains,1942,-1.4605086618113274
 good_Curtains,1943,-1.3049538762455468
 good_Curtains,1944,-1.026087882345485
+good_Curtains,1945,-1.026087882345485
+good_Curtains,1946,-1.026087882345485
+good_Curtains,1947,-1.026087882345485
 good_Curtains,1948,-0.9518309863723774
 good_Curtains,1949,-1.0998294942500801
 good_Curtains,1950,-1.2096696411868662
@@ -2987,6 +3157,20 @@ good_Curtains,1990,-0.7279116255036009
 good_Curtains,1991,-0.6901207784838864
 good_Curtains,1992,-0.5827919694673558
 good_Decorative ceiling or flush mount fixtures,1911,-0.7771103621565901
+good_Decorative ceiling or flush mount fixtures,1912,-0.7771103621565901
+good_Decorative ceiling or flush mount fixtures,1913,-0.7771103621565901
+good_Decorative ceiling or flush mount fixtures,1914,-0.7771103621565901
+good_Decorative ceiling or flush mount fixtures,1915,-0.7771103621565901
+good_Decorative ceiling or flush mount fixtures,1916,-0.7771103621565901
+good_Decorative ceiling or flush mount fixtures,1917,-0.7771103621565901
+good_Decorative ceiling or flush mount fixtures,1918,-0.7771103621565901
+good_Decorative ceiling or flush mount fixtures,1919,-0.7771103621565901
+good_Decorative ceiling or flush mount fixtures,1920,-0.7771103621565901
+good_Decorative ceiling or flush mount fixtures,1921,-0.7771103621565901
+good_Decorative ceiling or flush mount fixtures,1922,-0.7771103621565901
+good_Decorative ceiling or flush mount fixtures,1923,-0.7771103621565901
+good_Decorative ceiling or flush mount fixtures,1924,-0.7771103621565901
+good_Decorative ceiling or flush mount fixtures,1925,-0.7771103621565901
 good_Decorative ceiling or flush mount fixtures,1926,-1.0329427091063148
 good_Decorative ceiling or flush mount fixtures,1927,-1.3244712321781595
 good_Decorative ceiling or flush mount fixtures,1928,-1.5180779848399681
@@ -2995,6 +3179,8 @@ good_Decorative ceiling or flush mount fixtures,1930,-1.490382830690332
 good_Decorative ceiling or flush mount fixtures,1931,-1.6425676827509168
 good_Decorative ceiling or flush mount fixtures,1932,-1.8982389459178293
 good_Decorative ceiling or flush mount fixtures,1933,-2.1360135621545266
+good_Decorative ceiling or flush mount fixtures,1934,-2.1360135621545266
+good_Decorative ceiling or flush mount fixtures,1935,-2.1360135621545266
 good_Decorative ceiling or flush mount fixtures,1936,-2.1933994631525207
 good_Decorative ceiling or flush mount fixtures,1937,-2.0916851683499305
 good_Decorative ceiling or flush mount fixtures,1938,-2.313776005405379
@@ -3003,6 +3189,8 @@ good_Decorative ceiling or flush mount fixtures,1940,-2.3775843313934497
 good_Decorative ceiling or flush mount fixtures,1941,-2.440300371927508
 good_Decorative ceiling or flush mount fixtures,1942,-2.2537076310022846
 good_Decorative ceiling or flush mount fixtures,1943,-2.2754654867986193
+good_Decorative ceiling or flush mount fixtures,1944,-2.2754654867986193
+good_Decorative ceiling or flush mount fixtures,1945,-2.2754654867986193
 good_Decorative ceiling or flush mount fixtures,1946,-2.1348072081558205
 good_Decorative ceiling or flush mount fixtures,1947,-2.046421802922194
 good_Decorative ceiling or flush mount fixtures,1948,-1.9566562514429537
@@ -3142,11 +3330,15 @@ good_Desks,1990,0.8112039264109692
 good_Desks,1991,0.7095683353659945
 good_Desks,1992,0.8749973190014257
 good_Dining tables,1903,-0.4668586683174111
+good_Dining tables,1904,-0.4668586683174111
 good_Dining tables,1905,-0.3875741810722847
+good_Dining tables,1906,-0.3875741810722847
 good_Dining tables,1908,-0.4214024175808777
 good_Dining tables,1909,-0.39111245278069934
+good_Dining tables,1910,-0.39111245278069934
 good_Dining tables,1911,-0.2875875502345558
 good_Dining tables,1912,-0.5677818286222232
+good_Dining tables,1913,-0.5677818286222232
 good_Dining tables,1914,-0.5953216402042588
 good_Dining tables,1915,-0.45020848492653265
 good_Dining tables,1916,-1.3282669790488224
@@ -3178,6 +3370,7 @@ good_Dining tables,1941,-2.1266612391338335
 good_Dining tables,1942,-1.8844854939512654
 good_Dining tables,1943,-1.9060117845641138
 good_Dining tables,1944,-1.4010136760688903
+good_Dining tables,1945,-1.4010136760688903
 good_Dining tables,1946,-1.8469368536841042
 good_Dining tables,1947,-1.5529103655520162
 good_Dining tables,1948,-1.989692708351928
@@ -3212,10 +3405,13 @@ good_Dining tables,1976,-0.8958322119511934
 good_Dining tables,1977,-0.8574464277119496
 good_Dining tables,1978,-0.6786658890131406
 good_Dining tables,1979,-0.6172929225642482
+good_Dining tables,1980,-0.6172929225642482
 good_Dining tables,1981,-0.6092565367167918
 good_Dining tables,1982,-0.5618096646184517
 good_Dining tables,1983,-0.4189582167511914
+good_Dining tables,1984,-0.4189582167511914
 good_Dining tables,1985,-0.2479018559820703
+good_Dining tables,1986,-0.2479018559820703
 good_Dining tables,1987,-0.3632969438639899
 good_Dining tables,1988,-0.42878242581928694
 good_Dining tables,1989,-0.5760504255545789
@@ -3224,7 +3420,13 @@ good_Dining tables,1991,-0.3231247447522352
 good_Dining tables,1992,-0.20993040148897643
 good_Domestic clothes washers,1901,0.0776583808035476
 good_Domestic clothes washers,1902,0.046494968772016615
+good_Domestic clothes washers,1903,0.046494968772016615
+good_Domestic clothes washers,1904,0.046494968772016615
 good_Domestic clothes washers,1905,-0.17038452644770224
+good_Domestic clothes washers,1906,-0.17038452644770224
+good_Domestic clothes washers,1908,-0.17038452644770224
+good_Domestic clothes washers,1909,-0.17038452644770224
+good_Domestic clothes washers,1910,-0.17038452644770224
 good_Domestic clothes washers,1911,-0.17233338031990622
 good_Domestic clothes washers,1912,-0.16536527470088086
 good_Domestic clothes washers,1913,-0.17828697934195925
@@ -3233,17 +3435,41 @@ good_Domestic clothes washers,1915,-0.17915503644773442
 good_Domestic clothes washers,1916,-0.17366310986781355
 good_Domestic clothes washers,1917,-0.07146235899288111
 good_Domestic clothes washers,1918,0.21058182706077844
+good_Domestic clothes washers,1919,0.21058182706077844
+good_Domestic clothes washers,1920,0.21058182706077844
+good_Domestic clothes washers,1921,0.21058182706077844
+good_Domestic clothes washers,1922,0.21058182706077844
+good_Domestic clothes washers,1923,0.21058182706077844
 good_Domestic clothes washers,1924,0.23528691809681893
 good_Domestic clothes washers,1925,0.10946755567475153
+good_Domestic clothes washers,1926,0.10946755567475153
+good_Domestic clothes washers,1927,0.10946755567475153
+good_Domestic clothes washers,1928,0.10946755567475153
+good_Domestic clothes washers,1929,0.10946755567475153
+good_Domestic clothes washers,1930,0.10946755567475153
 good_Domestic clothes washers,1931,0.020643990340897145
 good_Domestic clothes washers,1932,-0.06636557581876332
 good_Domestic clothes washers,1933,0.04375195576974722
+good_Domestic clothes washers,1934,0.04375195576974722
+good_Domestic clothes washers,1935,0.04375195576974722
 good_Domestic clothes washers,1936,0.11322640191731578
 good_Domestic clothes washers,1937,-0.008153047927819637
 good_Domestic clothes washers,1938,0.016716097818231686
 good_Domestic clothes washers,1939,0.07517213153426573
 good_Domestic clothes washers,1940,0.05074673084972191
 good_Domestic clothes washers,1941,0.0010574802128354432
+good_Domestic clothes washers,1942,0.0010574802128354432
+good_Domestic clothes washers,1943,0.0010574802128354432
+good_Domestic clothes washers,1944,0.0010574802128354432
+good_Domestic clothes washers,1945,0.0010574802128354432
+good_Domestic clothes washers,1946,0.0010574802128354432
+good_Domestic clothes washers,1947,0.0010574802128354432
+good_Domestic clothes washers,1948,0.0010574802128354432
+good_Domestic clothes washers,1949,0.0010574802128354432
+good_Domestic clothes washers,1950,0.0010574802128354432
+good_Domestic clothes washers,1951,0.0010574802128354432
+good_Domestic clothes washers,1952,0.0010574802128354432
+good_Domestic clothes washers,1953,0.0010574802128354432
 good_Domestic clothes washers,1954,0.08457200068527554
 good_Domestic clothes washers,1955,0.16550053735102038
 good_Domestic clothes washers,1956,0.12828703608775444
@@ -3277,13 +3503,16 @@ good_Domestic clothes washers,1983,0.5905148170962986
 good_Domestic clothes washers,1984,0.5908940554142991
 good_Domestic clothes washers,1985,0.5630297134358628
 good_Domestic clothes washers,1986,0.6100609616554677
+good_Domestic clothes washers,1987,0.6100609616554677
 good_Domestic clothes washers,1988,0.6808872157281556
 good_Domestic clothes washers,1989,0.5855528342308942
 good_Domestic clothes washers,1990,0.5693455666388195
 good_Domestic clothes washers,1991,0.5423774633400451
 good_Domestic clothes washers,1992,0.6175745764400953
 good_Domestic cooktops,1903,-0.1019641598107821
+good_Domestic cooktops,1904,-0.1019641598107821
 good_Domestic cooktops,1905,0.044928059527450465
+good_Domestic cooktops,1906,0.044928059527450465
 good_Domestic cooktops,1908,-0.14744071654989863
 good_Domestic cooktops,1909,-0.20579009259385309
 good_Domestic cooktops,1910,-0.14378616021195992
@@ -3294,10 +3523,13 @@ good_Domestic cooktops,1914,-0.3922941008637432
 good_Domestic cooktops,1915,-0.486056807155396
 good_Domestic cooktops,1916,-0.13855535152109388
 good_Domestic cooktops,1917,-0.1745432788914249
+good_Domestic cooktops,1918,-0.1745432788914249
 good_Domestic cooktops,1919,0.42056380706561197
 good_Domestic cooktops,1920,0.5604143851132393
 good_Domestic cooktops,1921,0.6796705640546771
 good_Domestic cooktops,1922,0.4193418356755399
+good_Domestic cooktops,1923,0.4193418356755399
+good_Domestic cooktops,1924,0.4193418356755399
 good_Domestic cooktops,1925,0.42006611318661646
 good_Domestic cooktops,1926,0.6597785548276475
 good_Domestic cooktops,1927,0.7618700455717727
@@ -3305,11 +3537,29 @@ good_Domestic cooktops,1928,0.6656862853097768
 good_Domestic cooktops,1929,0.1527181419091217
 good_Domestic cooktops,1930,0.48039313473906703
 good_Domestic cooktops,1931,0.6572268206785575
+good_Domestic cooktops,1932,0.6572268206785575
+good_Domestic cooktops,1933,0.6572268206785575
+good_Domestic cooktops,1934,0.6572268206785575
+good_Domestic cooktops,1935,0.6572268206785575
+good_Domestic cooktops,1936,0.6572268206785575
+good_Domestic cooktops,1937,0.6572268206785575
+good_Domestic cooktops,1938,0.6572268206785575
 good_Domestic cooktops,1939,0.5909609621562303
 good_Domestic cooktops,1940,0.5750482025405464
 good_Domestic cooktops,1941,0.6309534191148221
 good_Domestic cooktops,1942,1.3500660100910735
+good_Domestic cooktops,1943,1.3500660100910735
+good_Domestic cooktops,1944,1.3500660100910735
+good_Domestic cooktops,1945,1.3500660100910735
+good_Domestic cooktops,1946,1.3500660100910735
+good_Domestic cooktops,1947,1.3500660100910735
+good_Domestic cooktops,1948,1.3500660100910735
+good_Domestic cooktops,1949,1.3500660100910735
+good_Domestic cooktops,1950,1.3500660100910735
 good_Domestic cooktops,1951,1.0957084426957415
+good_Domestic cooktops,1952,1.0957084426957415
+good_Domestic cooktops,1953,1.0957084426957415
+good_Domestic cooktops,1954,1.0957084426957415
 good_Domestic cooktops,1955,1.197128695236188
 good_Domestic cooktops,1956,1.3707156553378264
 good_Domestic cooktops,1957,1.390290069771957
@@ -3342,6 +3592,7 @@ good_Domestic cooktops,1983,2.760961567321749
 good_Domestic cooktops,1984,2.8248983389075035
 good_Domestic cooktops,1985,2.7608667876596726
 good_Domestic cooktops,1986,2.6855319146717624
+good_Domestic cooktops,1987,2.6855319146717624
 good_Domestic cooktops,1988,2.8531124344766052
 good_Domestic cooktops,1989,2.8479801949715426
 good_Domestic cooktops,1990,2.7991155550187012
@@ -3378,20 +3629,39 @@ good_Domestic cutlery set,1929,-0.2738867099014592
 good_Domestic cutlery set,1930,-0.37632927855763365
 good_Domestic cutlery set,1931,-0.3865195475591481
 good_Domestic cutlery set,1932,-0.9076914633792831
+good_Domestic cutlery set,1933,-0.9076914633792831
 good_Domestic cutlery set,1934,-0.5000239224601496
 good_Domestic cutlery set,1935,-0.5218635289421125
+good_Domestic cutlery set,1936,-0.5218635289421125
 good_Domestic cutlery set,1937,-0.7628500729086619
 good_Domestic cutlery set,1938,-0.7897896473868316
+good_Domestic cutlery set,1939,-0.7897896473868316
+good_Domestic cutlery set,1940,-0.7897896473868316
+good_Domestic cutlery set,1941,-0.7897896473868316
+good_Domestic cutlery set,1942,-0.7897896473868316
+good_Domestic cutlery set,1943,-0.7897896473868316
+good_Domestic cutlery set,1944,-0.7897896473868316
+good_Domestic cutlery set,1945,-0.7897896473868316
+good_Domestic cutlery set,1946,-0.7897896473868316
+good_Domestic cutlery set,1947,-0.7897896473868316
+good_Domestic cutlery set,1948,-0.7897896473868316
 good_Domestic cutlery set,1949,-1.0925906456700247
 good_Domestic cutlery set,1950,-1.066973314222595
+good_Domestic cutlery set,1951,-1.066973314222595
 good_Domestic cutlery set,1952,-0.7031795123949105
 good_Domestic cutlery set,1953,-0.6958657739825207
 good_Domestic cutlery set,1954,-0.732976629812719
 good_Domestic cutlery set,1955,-0.7295779035011762
+good_Domestic cutlery set,1956,-0.7295779035011762
 good_Domestic cutlery set,1957,-0.7047075144613674
+good_Domestic cutlery set,1958,-0.7047075144613674
 good_Domestic cutlery set,1959,-0.8266037345985523
+good_Domestic cutlery set,1960,-0.8266037345985523
+good_Domestic cutlery set,1961,-0.8266037345985523
+good_Domestic cutlery set,1962,-0.8266037345985523
 good_Domestic cutlery set,1963,-0.6667747281943768
 good_Domestic dinner sets,1901,0.10187061917162217
+good_Domestic dinner sets,1902,0.10187061917162217
 good_Domestic dinner sets,1903,-0.01737824712912099
 good_Domestic dinner sets,1904,0.10194506489020637
 good_Domestic dinner sets,1905,0.05864830421040387
@@ -3434,6 +3704,7 @@ good_Domestic dinner sets,1942,0.6668231361974092
 good_Domestic dinner sets,1943,0.630069739737183
 good_Domestic dinner sets,1944,0.6456891236113143
 good_Domestic dinner sets,1945,0.974253841820981
+good_Domestic dinner sets,1946,0.974253841820981
 good_Domestic dinner sets,1947,1.298165162064437
 good_Domestic dinner sets,1948,1.477756233602506
 good_Domestic dinner sets,1949,1.6007469241294217
@@ -3474,6 +3745,11 @@ good_Domestic dinner sets,1983,2.007709610217841
 good_Domestic dinner sets,1984,1.6793522030973678
 good_Domestic dinner sets,1985,1.2014412167733504
 good_Domestic dinner sets,1986,0.5605911451143957
+good_Domestic dinner sets,1987,0.5605911451143957
+good_Domestic dinner sets,1988,0.5605911451143957
+good_Domestic dinner sets,1989,0.5605911451143957
+good_Domestic dinner sets,1990,0.5605911451143957
+good_Domestic dinner sets,1991,0.5605911451143957
 good_Domestic dinner sets,1992,0.6729159878097146
 good_Domestic ranges,1901,-0.17783805761499352
 good_Domestic ranges,1902,-0.1584427806247199
@@ -3516,6 +3792,12 @@ good_Domestic ranges,1939,-0.07961328883904978
 good_Domestic ranges,1940,-0.10456381926634231
 good_Domestic ranges,1941,-0.15866022553250891
 good_Domestic ranges,1942,-0.028805132997053062
+good_Domestic ranges,1943,-0.028805132997053062
+good_Domestic ranges,1944,-0.028805132997053062
+good_Domestic ranges,1945,-0.028805132997053062
+good_Domestic ranges,1946,-0.028805132997053062
+good_Domestic ranges,1947,-0.028805132997053062
+good_Domestic ranges,1948,-0.028805132997053062
 good_Domestic ranges,1949,-0.0011096987522464727
 good_Domestic ranges,1950,-0.12081002767646987
 good_Domestic ranges,1951,-0.02861211576065384
@@ -3602,6 +3884,12 @@ good_Domestic refrigerators,1940,0.9841094739591683
 good_Domestic refrigerators,1941,0.836917890156742
 good_Domestic refrigerators,1942,0.9244368633835351
 good_Domestic refrigerators,1943,1.0594122673504769
+good_Domestic refrigerators,1944,1.0594122673504769
+good_Domestic refrigerators,1945,1.0594122673504769
+good_Domestic refrigerators,1946,1.0594122673504769
+good_Domestic refrigerators,1947,1.0594122673504769
+good_Domestic refrigerators,1948,1.0594122673504769
+good_Domestic refrigerators,1949,1.0594122673504769
 good_Domestic refrigerators,1950,0.9890049448569029
 good_Domestic refrigerators,1951,0.9421342559638194
 good_Domestic refrigerators,1952,0.9084778862576282
@@ -3687,6 +3975,9 @@ good_Domestic saucepans,1940,-0.04460035548826635
 good_Domestic saucepans,1941,-0.11801831616224152
 good_Domestic saucepans,1942,-0.26594496523574923
 good_Domestic saucepans,1943,0.03715393281165852
+good_Domestic saucepans,1944,0.03715393281165852
+good_Domestic saucepans,1945,0.03715393281165852
+good_Domestic saucepans,1946,0.03715393281165852
 good_Domestic saucepans,1947,-0.03125253298447227
 good_Domestic saucepans,1948,-0.2384773528771914
 good_Domestic saucepans,1949,-0.22557567361327235
@@ -3771,6 +4062,13 @@ good_Domestic sewing machines,1939,0.9339797123524027
 good_Domestic sewing machines,1940,0.9671757977896005
 good_Domestic sewing machines,1941,0.9939707915413207
 good_Domestic sewing machines,1942,1.2600563164894774
+good_Domestic sewing machines,1943,1.2600563164894774
+good_Domestic sewing machines,1944,1.2600563164894774
+good_Domestic sewing machines,1945,1.2600563164894774
+good_Domestic sewing machines,1946,1.2600563164894774
+good_Domestic sewing machines,1947,1.2600563164894774
+good_Domestic sewing machines,1948,1.2600563164894774
+good_Domestic sewing machines,1949,1.2600563164894774
 good_Domestic sewing machines,1950,1.318757853762779
 good_Domestic sewing machines,1951,1.367242370914161
 good_Domestic sewing machines,1952,1.3478555432171115
@@ -3849,6 +4147,11 @@ good_Domestic spoons,1939,-0.5159887310158796
 good_Domestic spoons,1940,-0.34832730338090456
 good_Domestic spoons,1941,-0.9685260968000204
 good_Domestic spoons,1942,-0.9408606910731242
+good_Domestic spoons,1943,-0.9408606910731242
+good_Domestic spoons,1944,-0.9408606910731242
+good_Domestic spoons,1945,-0.9408606910731242
+good_Domestic spoons,1946,-0.9408606910731242
+good_Domestic spoons,1947,-0.9408606910731242
 good_Domestic spoons,1948,-0.654376846516038
 good_Domestic spoons,1949,-0.6929739090464345
 good_Domestic spoons,1950,-0.7356063606968718
@@ -3876,10 +4179,20 @@ good_Domestic toasters,1930,-0.2446348813093384
 good_Domestic toasters,1931,-0.41961846259028734
 good_Domestic toasters,1932,-0.29720129164446724
 good_Domestic toasters,1933,-0.8403954104230196
+good_Domestic toasters,1934,-0.8403954104230197
+good_Domestic toasters,1935,-0.8403954104230197
 good_Domestic toasters,1936,-1.1697705022962264
+good_Domestic toasters,1937,-1.1697705022962264
+good_Domestic toasters,1938,-1.1697705022962264
 good_Domestic toasters,1939,-1.5275863490198844
 good_Domestic toasters,1940,-1.5274271767454322
 good_Domestic toasters,1941,-1.0011221880542378
+good_Domestic toasters,1942,-1.0011221880542378
+good_Domestic toasters,1943,-1.0011221880542378
+good_Domestic toasters,1944,-1.0011221880542378
+good_Domestic toasters,1945,-1.0011221880542378
+good_Domestic toasters,1946,-1.0011221880542378
+good_Domestic toasters,1947,-1.0011221880542378
 good_Domestic toasters,1948,-0.7882329606644118
 good_Domestic toasters,1949,-0.8738363099244693
 good_Domestic toasters,1950,-0.7985147581751632
@@ -3889,6 +4202,7 @@ good_Domestic toasters,1953,-0.6674345204323608
 good_Domestic toasters,1954,-0.6943564297503957
 good_Domestic toasters,1955,-0.7406709301685754
 good_Domestic toasters,1956,-0.6874751190379964
+good_Domestic toasters,1957,-0.6874751190379964
 good_Domestic toasters,1958,-0.7666835270877654
 good_Domestic toasters,1959,-0.7684204812380884
 good_Domestic toasters,1960,-0.8307773567835582
@@ -3921,8 +4235,11 @@ good_Domestic toasters,1986,-0.9229243613486171
 good_Domestic water heaters,1902,-0.14237058715335982
 good_Domestic water heaters,1903,0.07629947955193603
 good_Domestic water heaters,1904,0.46843732506409697
+good_Domestic water heaters,1905,0.46843732506409697
+good_Domestic water heaters,1906,0.46843732506409697
 good_Domestic water heaters,1908,0.46925426511798307
 good_Domestic water heaters,1909,0.1543772980738361
+good_Domestic water heaters,1910,0.1543772980738361
 good_Domestic water heaters,1911,0.5056198675671628
 good_Domestic water heaters,1912,0.26817637629319513
 good_Domestic water heaters,1913,0.45974993332473485
@@ -3932,6 +4249,8 @@ good_Domestic water heaters,1916,0.44004678108825784
 good_Domestic water heaters,1917,0.7852901058772466
 good_Domestic water heaters,1918,0.9671674026416133
 good_Domestic water heaters,1919,1.0763816437463505
+good_Domestic water heaters,1920,1.0763816437463505
+good_Domestic water heaters,1921,1.0763816437463505
 good_Domestic water heaters,1922,1.0990133157818396
 good_Domestic water heaters,1923,1.0453285018399143
 good_Domestic water heaters,1924,1.2609161980255579
@@ -3944,6 +4263,8 @@ good_Domestic water heaters,1930,1.0314988616740468
 good_Domestic water heaters,1931,0.9830860642798231
 good_Domestic water heaters,1932,0.9142063327023092
 good_Domestic water heaters,1933,0.6298101265274751
+good_Domestic water heaters,1934,0.6298101265274751
+good_Domestic water heaters,1935,0.6298101265274751
 good_Domestic water heaters,1936,0.46900509936130025
 good_Domestic water heaters,1937,0.5557864563628031
 good_Domestic water heaters,1938,0.42773361796780024
@@ -3951,6 +4272,12 @@ good_Domestic water heaters,1939,0.3390763415400162
 good_Domestic water heaters,1940,0.3464295206680891
 good_Domestic water heaters,1941,0.2512302634713131
 good_Domestic water heaters,1942,0.5944075011311759
+good_Domestic water heaters,1943,0.5944075011311759
+good_Domestic water heaters,1944,0.5944075011311759
+good_Domestic water heaters,1945,0.5944075011311759
+good_Domestic water heaters,1946,0.5944075011311759
+good_Domestic water heaters,1947,0.5944075011311759
+good_Domestic water heaters,1948,0.5944075011311759
 good_Domestic water heaters,1949,0.6170355749691453
 good_Domestic water heaters,1950,0.46854209923948786
 good_Domestic water heaters,1951,0.574204519368791
@@ -3989,6 +4316,7 @@ good_Domestic water heaters,1983,0.6544798956196264
 good_Domestic water heaters,1984,0.6714182802196194
 good_Domestic water heaters,1985,0.6846577548938899
 good_Domestic water heaters,1986,0.7658040979862082
+good_Domestic water heaters,1987,0.7658040979862082
 good_Domestic water heaters,1988,0.7603296805290995
 good_Domestic water heaters,1989,0.783045054044225
 good_Domestic water heaters,1990,0.7842637382963019
@@ -4023,6 +4351,7 @@ good_Draperies,1928,0.42836390198569696
 good_Draperies,1929,0.6975662225642975
 good_Draperies,1930,1.1101725858602187
 good_Draperies,1931,0.9610184246557602
+good_Draperies,1932,0.9610184246557602
 good_Draperies,1933,0.5335948360356579
 good_Draperies,1934,0.6258787926602799
 good_Draperies,1935,0.6943300690172902
@@ -4036,6 +4365,7 @@ good_Draperies,1942,0.9246238912566553
 good_Draperies,1943,1.3605016775003087
 good_Draperies,1944,1.3733499429148592
 good_Draperies,1945,1.3989587875034097
+good_Draperies,1946,1.3989587875034097
 good_Draperies,1947,1.5095521668564391
 good_Draperies,1948,1.6235183210478215
 good_Draperies,1949,1.4849082041753183
@@ -4107,6 +4437,7 @@ good_Dressers or armoires,1923,0.2092603600148058
 good_Dressers or armoires,1924,0.1988355094220137
 good_Dressers or armoires,1925,0.13149917748826057
 good_Dressers or armoires,1926,0.4639287988899466
+good_Dressers or armoires,1927,0.4639287988899466
 good_Dressers or armoires,1928,0.4436164928360471
 good_Dressers or armoires,1929,0.32679637098598335
 good_Dressers or armoires,1930,0.200229084857175
@@ -4125,6 +4456,9 @@ good_Dressers or armoires,1942,0.2724661869695891
 good_Dressers or armoires,1943,0.44460431330683525
 good_Dressers or armoires,1944,0.5762754814181621
 good_Dressers or armoires,1945,0.4224180208272493
+good_Dressers or armoires,1946,0.4224180208272493
+good_Dressers or armoires,1947,0.4224180208272493
+good_Dressers or armoires,1948,0.4224180208272493
 good_Dressers or armoires,1949,0.3137053290350346
 good_Dressers or armoires,1950,0.29517077344469395
 good_Dressers or armoires,1951,0.39836955486417136
@@ -4205,6 +4539,7 @@ good_Earrings,1934,1.2314722931652278
 good_Earrings,1935,1.242587961729848
 good_Earrings,1936,1.7675221993383592
 good_Earrings,1937,1.5827000487515266
+good_Earrings,1938,1.5827000487515266
 good_Earrings,1939,1.387882138947235
 good_Earrings,1940,1.3582771880570228
 good_Earrings,1941,1.5532738889759685
@@ -4231,6 +4566,8 @@ good_Earrings,1961,2.4065334238878195
 good_Earrings,1962,2.017302158452957
 good_Earrings,1963,2.0701510872664417
 good_Earrings,1964,2.346993963706786
+good_Earrings,1965,2.346993963706786
+good_Earrings,1966,2.346993963706786
 good_Earrings,1967,2.37355924470426
 good_Earrings,1968,2.4791079194520647
 good_Earrings,1969,2.656166740134242
@@ -4239,6 +4576,7 @@ good_Earrings,1971,2.2784884267577037
 good_Earrings,1972,2.6270924448152466
 good_Earrings,1973,2.87843078497729
 good_Earrings,1974,3.2378136468363805
+good_Earrings,1975,3.2378136468363805
 good_Earrings,1976,3.5649784745233353
 good_Earrings,1977,3.3980456228882967
 good_Earrings,1978,3.803381435177046
@@ -4260,8 +4598,25 @@ good_Filing cabinets or accessories,1930,0.0001934073596468452
 good_Filing cabinets or accessories,1931,-0.03097252969054559
 good_Filing cabinets or accessories,1932,-0.14735777563308258
 good_Filing cabinets or accessories,1933,-0.20422501603181684
+good_Filing cabinets or accessories,1934,-0.20422501603181684
+good_Filing cabinets or accessories,1935,-0.20422501603181684
+good_Filing cabinets or accessories,1936,-0.20422501603181684
+good_Filing cabinets or accessories,1937,-0.20422501603181684
+good_Filing cabinets or accessories,1938,-0.20422501603181684
 good_Filing cabinets or accessories,1939,-0.2663992870152556
 good_Filing cabinets or accessories,1940,-0.23061319452650902
+good_Filing cabinets or accessories,1941,-0.23061319452650902
+good_Filing cabinets or accessories,1942,-0.23061319452650902
+good_Filing cabinets or accessories,1943,-0.23061319452650902
+good_Filing cabinets or accessories,1944,-0.23061319452650902
+good_Filing cabinets or accessories,1945,-0.23061319452650902
+good_Filing cabinets or accessories,1946,-0.23061319452650902
+good_Filing cabinets or accessories,1947,-0.23061319452650902
+good_Filing cabinets or accessories,1948,-0.23061319452650902
+good_Filing cabinets or accessories,1949,-0.23061319452650902
+good_Filing cabinets or accessories,1950,-0.23061319452650902
+good_Filing cabinets or accessories,1951,-0.23061319452650902
+good_Filing cabinets or accessories,1952,-0.23061319452650902
 good_Filing cabinets or accessories,1953,-0.26140344834807344
 good_Filing cabinets or accessories,1954,-0.2831564845134244
 good_Filing cabinets or accessories,1955,-0.2504106580152083
@@ -4269,6 +4624,8 @@ good_Filing cabinets or accessories,1956,-0.2057916232241328
 good_Filing cabinets or accessories,1957,-0.13410420543659962
 good_Filing cabinets or accessories,1958,-0.13203897391701436
 good_Filing cabinets or accessories,1959,-0.2092499968477873
+good_Filing cabinets or accessories,1960,-0.2092499968477873
+good_Filing cabinets or accessories,1961,-0.2092499968477873
 good_Filing cabinets or accessories,1962,-0.16686682800776012
 good_Filing cabinets or accessories,1963,-0.18597582565660106
 good_Filing cabinets or accessories,1964,-0.17997932618938026
@@ -4294,6 +4651,8 @@ good_Filing cabinets or accessories,1983,0.8802580712106641
 good_Filing cabinets or accessories,1984,0.8860653371445394
 good_Filing cabinets or accessories,1985,0.8654936285936363
 good_Filing cabinets or accessories,1986,0.8766268214004408
+good_Filing cabinets or accessories,1987,0.8766268214004408
+good_Filing cabinets or accessories,1988,0.8766268214004408
 good_Filing cabinets or accessories,1989,1.0105279538766574
 good_Filing cabinets or accessories,1990,1.0036604810921002
 good_Filing cabinets or accessories,1991,0.961813071363597
@@ -4334,10 +4693,15 @@ good_Fishing rods,1934,-1.465900052755171
 good_Fishing rods,1935,-1.6892467554163293
 good_Fishing rods,1936,-1.4925568697729565
 good_Fishing rods,1937,-1.6493723368417124
+good_Fishing rods,1938,-1.6493723368417124
+good_Fishing rods,1939,-1.6493723368417124
 good_Fishing rods,1940,-1.7259553083432722
 good_Fishing rods,1941,-1.8919095844767628
 good_Fishing rods,1942,-1.7409153828857094
 good_Fishing rods,1943,-1.6849988605791986
+good_Fishing rods,1944,-1.6849988605791986
+good_Fishing rods,1945,-1.6849988605791986
+good_Fishing rods,1946,-1.6849988605791986
 good_Fishing rods,1947,-1.1378506061961078
 good_Fishing rods,1948,-1.2602302534549614
 good_Fishing rods,1949,-1.446641421034656
@@ -4362,6 +4726,8 @@ good_Fishing rods,1967,-1.956405553314196
 good_Fishing rods,1968,-1.8354069707733105
 good_Fishing rods,1969,-1.853911964345716
 good_Flatware sets,1901,0.013576560521226064
+good_Flatware sets,1902,0.013576560521226064
+good_Flatware sets,1903,0.013576560521226064
 good_Flatware sets,1904,0.09180473058928829
 good_Flatware sets,1905,-0.19830284569550388
 good_Flatware sets,1906,-0.24408332615160125
@@ -4400,6 +4766,10 @@ good_Flatware sets,1939,0.3335122622728102
 good_Flatware sets,1940,0.18629723592600486
 good_Flatware sets,1941,0.021737430567853933
 good_Flatware sets,1942,0.47579257730190283
+good_Flatware sets,1943,0.47579257730190283
+good_Flatware sets,1944,0.47579257730190283
+good_Flatware sets,1945,0.47579257730190283
+good_Flatware sets,1946,0.47579257730190283
 good_Flatware sets,1947,0.367721803995812
 good_Flatware sets,1948,0.34892730777218534
 good_Flatware sets,1949,0.18718011767602818
@@ -4439,6 +4809,12 @@ good_Flatware sets,1982,0.744132955485215
 good_Flatware sets,1983,0.7471637274392053
 good_Flatware sets,1984,1.0417879710521996
 good_Flatware sets,1985,1.1233688365285923
+good_Flatware sets,1986,1.1233688365285923
+good_Flatware sets,1987,1.1233688365285923
+good_Flatware sets,1988,1.1233688365285923
+good_Flatware sets,1989,1.1233688365285923
+good_Flatware sets,1990,1.1233688365285923
+good_Flatware sets,1991,1.1233688365285923
 good_Flatware sets,1992,1.263001134133418
 good_Furniture sets,1901,-0.05540157906165888
 good_Furniture sets,1902,-0.07232591013109724
@@ -4532,8 +4908,12 @@ good_Furniture sets,1990,5.1410896447114505
 good_Furniture sets,1991,5.196735592978672
 good_Furniture sets,1992,5.158209465215822
 good_Girls boots,1901,-0.39099997463133807
+good_Girls boots,1902,-0.39099997463133807
 good_Girls boots,1903,-0.41456028013604357
 good_Girls boots,1904,-0.1997252770265097
+good_Girls boots,1905,-0.1997252770265097
+good_Girls boots,1906,-0.1997252770265097
+good_Girls boots,1908,-0.1997252770265097
 good_Girls boots,1909,-0.20083364627751804
 good_Girls boots,1910,-0.25442589046131975
 good_Girls boots,1911,-0.2805902321355569
@@ -4548,6 +4928,7 @@ good_Girls boots,1919,0.2850817913249527
 good_Girls boots,1920,0.6036580168218014
 good_Girls boots,1921,0.505155808175028
 good_Girls boots,1922,0.488425851675537
+good_Girls boots,1923,0.488425851675537
 good_Girls boots,1924,0.5423784176514374
 good_Girls boots,1925,0.5038803090635439
 good_Girls boots,1926,0.37966872648928246
@@ -4567,6 +4948,10 @@ good_Girls boots,1939,-0.17586509486875648
 good_Girls boots,1940,-0.1494280478749694
 good_Girls boots,1941,0.09987488804022962
 good_Girls boots,1942,1.0183437067257912
+good_Girls boots,1943,1.0183437067257912
+good_Girls boots,1944,1.0183437067257912
+good_Girls boots,1945,1.0183437067257912
+good_Girls boots,1946,1.0183437067257912
 good_Girls boots,1947,0.9232806490027267
 good_Girls boots,1948,1.1122370710282503
 good_Girls boots,1949,0.9861286098574008
@@ -4596,21 +4981,26 @@ good_Girls boots,1972,1.6131524329408609
 good_Girls boots,1973,1.5834080740834893
 good_Girls boots,1974,1.7934425891992798
 good_Girls boots,1975,1.8625893153641289
+good_Girls boots,1976,1.8625893153641289
 good_Girls boots,1977,1.889782189939601
+good_Girls boots,1978,1.889782189939601
 good_Girls boots,1979,1.683433107683743
 good_Girls boots,1980,2.115694900293512
 good_Girls boots,1981,1.9951216326066714
 good_Girls boots,1982,1.905683500646653
 good_Girls boots,1983,2.003537316270777
 good_Girls boots,1984,2.1108384762772303
+good_Girls boots,1985,2.1108384762772303
 good_Girls boots,1986,1.977401810823737
 good_Girls boots,1987,1.979101899254305
 good_Girls boots,1988,2.014762609931728
 good_Girls coats or jackets,1901,-0.16584084787954442
+good_Girls coats or jackets,1902,-0.16584084787954442
 good_Girls coats or jackets,1903,-0.22196798331089096
 good_Girls coats or jackets,1904,-0.2768618885933509
 good_Girls coats or jackets,1905,-0.49951403693476704
 good_Girls coats or jackets,1906,-0.3412837419182988
+good_Girls coats or jackets,1908,-0.3412837419182988
 good_Girls coats or jackets,1909,-0.5738611090377516
 good_Girls coats or jackets,1910,-0.5079115625770615
 good_Girls coats or jackets,1911,-0.46368246386312173
@@ -4701,6 +5091,7 @@ good_Girls dresses or skirts or saris or kimonos,1903,-0.5246417330627969
 good_Girls dresses or skirts or saris or kimonos,1904,-0.6783875409919087
 good_Girls dresses or skirts or saris or kimonos,1905,-0.8401228603725208
 good_Girls dresses or skirts or saris or kimonos,1906,-0.9052597175296331
+good_Girls dresses or skirts or saris or kimonos,1908,-0.9052597175296331
 good_Girls dresses or skirts or saris or kimonos,1909,-0.7264317140018959
 good_Girls dresses or skirts or saris or kimonos,1910,-0.6907080988068313
 good_Girls dresses or skirts or saris or kimonos,1911,-0.6293501166183623
@@ -4790,6 +5181,10 @@ good_Girls pajamas or nightshirts or robes,1902,0.08764878322865179
 good_Girls pajamas or nightshirts or robes,1903,0.033367130329337066
 good_Girls pajamas or nightshirts or robes,1904,0.12246284681684287
 good_Girls pajamas or nightshirts or robes,1905,0.1036794435077564
+good_Girls pajamas or nightshirts or robes,1906,0.1036794435077564
+good_Girls pajamas or nightshirts or robes,1908,0.1036794435077564
+good_Girls pajamas or nightshirts or robes,1909,0.1036794435077564
+good_Girls pajamas or nightshirts or robes,1910,0.1036794435077564
 good_Girls pajamas or nightshirts or robes,1911,0.14465976940238678
 good_Girls pajamas or nightshirts or robes,1912,0.09795333856574198
 good_Girls pajamas or nightshirts or robes,1913,0.21670693210798944
@@ -4824,6 +5219,9 @@ good_Girls pajamas or nightshirts or robes,1941,0.45466086210521095
 good_Girls pajamas or nightshirts or robes,1942,0.8458213609007001
 good_Girls pajamas or nightshirts or robes,1943,0.9984449700923608
 good_Girls pajamas or nightshirts or robes,1944,1.1470427185458965
+good_Girls pajamas or nightshirts or robes,1945,1.1470427185458965
+good_Girls pajamas or nightshirts or robes,1946,1.1470427185458965
+good_Girls pajamas or nightshirts or robes,1947,1.1470427185458965
 good_Girls pajamas or nightshirts or robes,1948,1.3156882361516233
 good_Girls pajamas or nightshirts or robes,1949,1.1049687635972185
 good_Girls pajamas or nightshirts or robes,1950,1.0171566090431423
@@ -4870,7 +5268,11 @@ good_Girls pajamas or nightshirts or robes,1990,1.9016107887857547
 good_Girls pajamas or nightshirts or robes,1991,1.9975116759017861
 good_Girls pajamas or nightshirts or robes,1992,1.9819529508077853
 good_Girls shirts or blouses,1911,0.02106374538730755
+good_Girls shirts or blouses,1912,0.02106374538730755
+good_Girls shirts or blouses,1913,0.02106374538730755
+good_Girls shirts or blouses,1914,0.02106374538730755
 good_Girls shirts or blouses,1915,-0.9710790214127439
+good_Girls shirts or blouses,1916,-0.9710790214127439
 good_Girls shirts or blouses,1917,-0.9936900018038054
 good_Girls shirts or blouses,1918,-0.7962326003212252
 good_Girls shirts or blouses,1919,-0.4246816044549088
@@ -4887,10 +5289,12 @@ good_Girls shirts or blouses,1929,-1.1747137239228715
 good_Girls shirts or blouses,1930,-1.0814643386785945
 good_Girls shirts or blouses,1931,-1.0952340325180774
 good_Girls shirts or blouses,1932,-1.2774774331344878
+good_Girls shirts or blouses,1933,-1.2774774331344878
 good_Girls shirts or blouses,1934,-1.6739229137225538
 good_Girls shirts or blouses,1935,-1.751169475658839
 good_Girls shirts or blouses,1936,-1.7496102927123482
 good_Girls shirts or blouses,1937,-1.8635370668087903
+good_Girls shirts or blouses,1938,-1.8635370668087903
 good_Girls shirts or blouses,1939,-2.050780091754528
 good_Girls shirts or blouses,1940,-1.8704335453980436
 good_Girls shirts or blouses,1941,-1.8860568202980303
@@ -5035,8 +5439,11 @@ good_Girls shoes,1988,0.9271456331596728
 good_Girls slacks or trousers or shorts,1930,-0.07371411284667563
 good_Girls slacks or trousers or shorts,1931,-0.3458694893190677
 good_Girls slacks or trousers or shorts,1932,-0.34280232276778394
+good_Girls slacks or trousers or shorts,1933,-0.34280232276778394
+good_Girls slacks or trousers or shorts,1934,-0.34280232276778394
 good_Girls slacks or trousers or shorts,1935,-0.5528008479779766
 good_Girls slacks or trousers or shorts,1936,-0.697425908699107
+good_Girls slacks or trousers or shorts,1937,-0.697425908699107
 good_Girls slacks or trousers or shorts,1938,-1.0924891305022384
 good_Girls slacks or trousers or shorts,1939,-1.097928707884917
 good_Girls slacks or trousers or shorts,1940,-0.9860560546772604
@@ -5097,16 +5504,22 @@ good_Girls slippers,1916,0.038669192621037934
 good_Girls slippers,1917,0.13324168446440393
 good_Girls slippers,1918,0.18678138006607564
 good_Girls slippers,1919,0.2196479607703122
+good_Girls slippers,1920,0.2196479607703122
 good_Girls slippers,1921,-0.5594451069409353
+good_Girls slippers,1922,-0.5594451069409353
 good_Girls slippers,1923,-0.8019720892535722
 good_Girls slippers,1924,-0.9474258360974783
 good_Girls slippers,1925,-0.5823519651251825
+good_Girls slippers,1926,-0.5823519651251825
 good_Girls slippers,1927,-0.6583015570928229
 good_Girls slippers,1928,-0.6018274530075053
 good_Girls slippers,1929,-0.56490954822
 good_Girls slippers,1930,-0.46260722093115436
 good_Girls slippers,1931,-0.6756111799916134
 good_Girls slippers,1932,-1.029574199634958
+good_Girls slippers,1933,-1.029574199634958
+good_Girls slippers,1934,-1.029574199634958
+good_Girls slippers,1935,-1.029574199634958
 good_Girls slippers,1936,-0.9586427817989753
 good_Girls slippers,1937,-0.8809389279446437
 good_Girls slippers,1938,-1.055022471224908
@@ -5152,22 +5565,38 @@ good_Girls slippers,1977,0.6924167875188417
 good_Girls slippers,1978,0.5638352925573065
 good_Girls slippers,1979,0.7170104747605729
 good_Girls slippers,1980,1.0125231872140417
+good_Girls slippers,1981,1.0125231872140417
+good_Girls slippers,1982,1.0125231872140417
+good_Girls slippers,1983,1.0125231872140417
+good_Girls slippers,1984,1.0125231872140417
+good_Girls slippers,1985,1.0125231872140417
 good_Girls slippers,1986,0.9936697237781741
 good_Girls slippers,1987,1.0838541261682773
 good_Girls suits,1903,0.17479353391035127
 good_Girls suits,1904,0.11046508975917321
 good_Girls suits,1905,-0.1269990316334716
 good_Girls suits,1906,-0.08372535185335839
+good_Girls suits,1908,-0.08372535185335839
+good_Girls suits,1909,-0.08372535185335839
 good_Girls suits,1910,-0.19347827682983249
 good_Girls suits,1911,-0.5809116396437071
+good_Girls suits,1912,-0.5809116396437071
 good_Girls suits,1913,-1.1215639656799963
 good_Girls suits,1914,-1.1592530496824365
 good_Girls suits,1915,-0.6207741113745238
+good_Girls suits,1916,-0.6207741113745238
 good_Girls suits,1917,-0.3274802604599401
+good_Girls suits,1918,-0.3274802604599401
 good_Girls suits,1919,-0.17627952558370757
 good_Girls suits,1920,0.35466558562235245
+good_Girls suits,1921,0.35466558562235245
+good_Girls suits,1922,0.35466558562235245
+good_Girls suits,1923,0.35466558562235245
 good_Girls suits,1924,0.4636832441225404
 good_Girls suits,1925,0.7373618200883543
+good_Girls suits,1926,0.7373618200883543
+good_Girls suits,1927,0.7373618200883543
+good_Girls suits,1928,0.7373618200883543
 good_Girls suits,1929,0.8273008042790219
 good_Girls suits,1930,0.514504800667313
 good_Girls suits,1931,0.6494395578139125
@@ -5177,6 +5606,7 @@ good_Girls suits,1934,0.15632314058951952
 good_Girls suits,1935,0.49315119143685665
 good_Girls suits,1936,0.18004688376462713
 good_Girls suits,1937,0.37074987122137215
+good_Girls suits,1938,0.37074987122137215
 good_Girls suits,1939,0.16389049038528083
 good_Girls suits,1940,0.35547016746413984
 good_Girls suits,1941,-0.010234204771249367
@@ -5184,6 +5614,7 @@ good_Girls suits,1942,0.6699511770551021
 good_Girls suits,1943,0.7402812543725419
 good_Girls suits,1944,0.8474439860346303
 good_Girls suits,1945,0.8976210023087783
+good_Girls suits,1946,0.8976210023087783
 good_Girls suits,1947,0.7834866126763098
 good_Girls suits,1948,0.7310968899709922
 good_Girls suits,1949,0.7033661338236459
@@ -5216,6 +5647,7 @@ good_Girls suits,1975,1.9146443915327636
 good_Girls suits,1976,1.9451857889527846
 good_Girls suits,1977,1.8879114826597396
 good_Girls suits,1978,2.462005820104986
+good_Girls suits,1979,2.462005820104986
 good_Girls suits,1980,2.5052218312112613
 good_Girls suits,1981,2.1154905942500886
 good_Girls suits,1982,2.433083229515175
@@ -5247,8 +5679,10 @@ good_Girls sweaters,1932,-0.27292302900944587
 good_Girls sweaters,1933,-0.37120805306273785
 good_Girls sweaters,1934,-0.09735560233425605
 good_Girls sweaters,1935,-0.6570731769369462
+good_Girls sweaters,1936,-0.6570731769369462
 good_Girls sweaters,1937,-0.5632452680415738
 good_Girls sweaters,1938,-0.6307384458213436
+good_Girls sweaters,1939,-0.6307384458213436
 good_Girls sweaters,1940,-0.5509885972448155
 good_Girls sweaters,1941,-0.5367884962091517
 good_Girls sweaters,1942,-0.23275851861410102
@@ -5307,6 +5741,7 @@ good_Gloves or mittens,1902,-0.08244167861898816
 good_Gloves or mittens,1903,0.06411242111793514
 good_Gloves or mittens,1904,0.09173798133421499
 good_Gloves or mittens,1905,-0.09001822864110187
+good_Gloves or mittens,1906,-0.09001822864110187
 good_Gloves or mittens,1908,-0.23810164263404077
 good_Gloves or mittens,1909,-0.3523588753491502
 good_Gloves or mittens,1910,-0.3655288836646827
@@ -5432,6 +5867,12 @@ good_Hair combs or brushes,1951,-1.779467107009686
 good_Hair combs or brushes,1952,-1.908121486591393
 good_Hair combs or brushes,1953,-1.8118028447818009
 good_Hair combs or brushes,1954,-1.883432561994968
+good_Hair combs or brushes,1955,-1.883432561994968
+good_Hair combs or brushes,1956,-1.883432561994968
+good_Hair combs or brushes,1957,-1.883432561994968
+good_Hair combs or brushes,1958,-1.883432561994968
+good_Hair combs or brushes,1959,-1.883432561994968
+good_Hair combs or brushes,1960,-1.883432561994968
 good_Hair combs or brushes,1961,-1.6688496473500998
 good_Hammers,1901,-0.31050449091248356
 good_Hammers,1902,-0.2671061469484219
@@ -5476,6 +5917,7 @@ good_Hammers,1941,-1.9228886480053198
 good_Hammers,1942,-1.842177485417949
 good_Hammers,1943,-1.740660700384073
 good_Hammers,1944,-1.8725780378191763
+good_Hammers,1945,-1.8725780378191763
 good_Hammers,1946,-1.743400330766555
 good_Hammers,1947,-1.6504042815490656
 good_Hammers,1948,-1.5678135436681422
@@ -5513,7 +5955,12 @@ good_Hammers,1979,0.47515413489057534
 good_Hammers,1980,0.5374815457991095
 good_Hammers,1981,0.61056758121956
 good_Hammers,1982,0.3344528902532673
+good_Hammers,1983,0.3344528902532673
+good_Hammers,1984,0.3344528902532673
 good_Hammers,1985,0.44480713153600826
+good_Hammers,1986,0.44480713153600826
+good_Hammers,1987,0.44480713153600826
+good_Hammers,1988,0.44480713153600826
 good_Hammers,1989,0.6505059047157765
 good_Handbags or purses,1901,0.14213752661080425
 good_Handbags or purses,1902,0.14492514761919953
@@ -5603,6 +6050,7 @@ good_Handbags or purses,1986,-0.7094513947022274
 good_Handbags or purses,1987,-0.5915402476679597
 good_Handbags or purses,1988,-0.6065259346930074
 good_Handbags or purses,1989,-0.6224772846091994
+good_Handbags or purses,1990,-0.6224772846091994
 good_Handbags or purses,1991,-0.6064557598206202
 good_Handkerchiefs,1901,-0.18279139436679664
 good_Handkerchiefs,1902,-0.2493640686941663
@@ -5796,6 +6244,10 @@ good_Heating stoves,1939,0.12580969789183724
 good_Heating stoves,1940,0.1799307578066167
 good_Heating stoves,1941,0.06442415455742548
 good_Heating stoves,1942,0.5445626698727832
+good_Heating stoves,1943,0.5445626698727832
+good_Heating stoves,1944,0.5445626698727832
+good_Heating stoves,1945,0.5445626698727832
+good_Heating stoves,1946,0.5445626698727832
 good_Heating stoves,1947,1.0087703756925173
 good_Heating stoves,1948,1.2065318276096222
 good_Heating stoves,1949,1.1236212046998482
@@ -5836,6 +6288,8 @@ good_Heating stoves,1983,2.270124525892133
 good_Heating stoves,1984,2.243991209056399
 good_Heating stoves,1985,2.4059305164385285
 good_Heating stoves,1986,2.3112161736402865
+good_Heating stoves,1987,2.3112161736402865
+good_Heating stoves,1988,2.3112161736402865
 good_Heating stoves,1989,2.37654800624967
 good_Heating stoves,1990,2.196453818942469
 good_Heating stoves,1991,2.197021949271214
@@ -5882,6 +6336,9 @@ good_Individual luggage pieces,1940,-0.4678479459682366
 good_Individual luggage pieces,1941,-0.41610821139951515
 good_Individual luggage pieces,1942,-0.12966551147982236
 good_Individual luggage pieces,1943,-0.6324439745102035
+good_Individual luggage pieces,1944,-0.6324439745102035
+good_Individual luggage pieces,1945,-0.6324439745102035
+good_Individual luggage pieces,1946,-0.6324439745102035
 good_Individual luggage pieces,1947,-0.39357834919146784
 good_Individual luggage pieces,1948,-0.42180819893682725
 good_Individual luggage pieces,1949,-0.37443226260643614
@@ -5925,11 +6382,17 @@ good_Individual luggage pieces,1986,0.6439471210060508
 good_Individual luggage pieces,1987,0.8094285018846202
 good_Individual luggage pieces,1988,0.6990534595880339
 good_Individual luggage pieces,1989,0.2551989252208642
+good_Individual luggage pieces,1990,0.2551989252208642
+good_Individual luggage pieces,1991,0.2551989252208642
 good_Individual luggage pieces,1992,0.36580716334572205
 good_Infants dresses or skirts or saris or kimonos,1902,-0.04762596384920943
+good_Infants dresses or skirts or saris or kimonos,1903,-0.04762596384920943
+good_Infants dresses or skirts or saris or kimonos,1904,-0.04762596384920943
 good_Infants dresses or skirts or saris or kimonos,1905,0.012807240233113859
 good_Infants dresses or skirts or saris or kimonos,1906,-0.07356599272040239
+good_Infants dresses or skirts or saris or kimonos,1908,-0.07356599272040239
 good_Infants dresses or skirts or saris or kimonos,1909,-0.1502813210120981
+good_Infants dresses or skirts or saris or kimonos,1910,-0.1502813210120981
 good_Infants dresses or skirts or saris or kimonos,1911,-0.09378031260349257
 good_Infants dresses or skirts or saris or kimonos,1912,-0.08965065032859561
 good_Infants dresses or skirts or saris or kimonos,1913,-0.2216970226458826
@@ -5950,23 +6413,41 @@ good_Infants dresses or skirts or saris or kimonos,1927,-0.5183836903705927
 good_Infants dresses or skirts or saris or kimonos,1928,-0.4972546445726902
 good_Infants dresses or skirts or saris or kimonos,1929,-0.5476705635782447
 good_Infants dresses or skirts or saris or kimonos,1930,-0.6151665811997593
+good_Infants dresses or skirts or saris or kimonos,1931,-0.6151665811997593
 good_Infants dresses or skirts or saris or kimonos,1932,-0.7233505090488174
 good_Infants dresses or skirts or saris or kimonos,1933,-0.7548123906305305
+good_Infants dresses or skirts or saris or kimonos,1934,-0.7548123906305305
+good_Infants dresses or skirts or saris or kimonos,1935,-0.7548123906305305
+good_Infants dresses or skirts or saris or kimonos,1936,-0.7548123906305305
 good_Infants dresses or skirts or saris or kimonos,1937,-0.722706541264045
+good_Infants dresses or skirts or saris or kimonos,1938,-0.722706541264045
 good_Infants dresses or skirts or saris or kimonos,1939,-0.7409134323599189
 good_Infants dresses or skirts or saris or kimonos,1940,-0.8056044085513683
 good_Infants dresses or skirts or saris or kimonos,1941,-0.9920017519834793
 good_Infants dresses or skirts or saris or kimonos,1942,-0.88663125089895
 good_Infants dresses or skirts or saris or kimonos,1943,-0.8306604331521864
+good_Infants dresses or skirts or saris or kimonos,1944,-0.8306604331521864
 good_Infants dresses or skirts or saris or kimonos,1945,-1.5339599851761498
+good_Infants dresses or skirts or saris or kimonos,1946,-1.5339599851761498
+good_Infants dresses or skirts or saris or kimonos,1947,-1.5339599851761498
 good_Infants dresses or skirts or saris or kimonos,1948,-1.4879665878910733
+good_Infants dresses or skirts or saris or kimonos,1949,-1.4879665878910733
 good_Infants dresses or skirts or saris or kimonos,1950,-1.5858592153611102
 good_Infants dresses or skirts or saris or kimonos,1951,-1.4075748783799389
 good_Infants dresses or skirts or saris or kimonos,1952,-1.4564339801055377
+good_Infants dresses or skirts or saris or kimonos,1953,-1.4564339801055377
 good_Infants dresses or skirts or saris or kimonos,1954,-1.4564339801055377
+good_Infants dresses or skirts or saris or kimonos,1955,-1.4564339801055377
+good_Infants dresses or skirts or saris or kimonos,1956,-1.4564339801055377
+good_Infants dresses or skirts or saris or kimonos,1957,-1.4564339801055377
 good_Infants dresses or skirts or saris or kimonos,1958,-1.464722716451012
+good_Infants dresses or skirts or saris or kimonos,1959,-1.464722716451012
+good_Infants dresses or skirts or saris or kimonos,1960,-1.464722716451012
 good_Infants dresses or skirts or saris or kimonos,1961,-1.4549105673520086
+good_Infants dresses or skirts or saris or kimonos,1962,-1.4549105673520086
+good_Infants dresses or skirts or saris or kimonos,1963,-1.4549105673520086
 good_Infants dresses or skirts or saris or kimonos,1964,-1.453750920536007
+good_Infants dresses or skirts or saris or kimonos,1965,-1.453750920536007
 good_Infants dresses or skirts or saris or kimonos,1966,-1.3054378830364017
 good_Infants overalls or coveralls,1914,0.1913746688385587
 good_Infants overalls or coveralls,1915,0.2721010372635766
@@ -6045,10 +6526,15 @@ good_Infants overalls or coveralls,1987,0.44227802113019676
 good_Infants overalls or coveralls,1988,0.5740313859485011
 good_Infants overalls or coveralls,1989,0.5909399327706599
 good_Infants overalls or coveralls,1990,0.5826614315646438
+good_Infants overalls or coveralls,1991,0.5826614315646438
 good_Infants overalls or coveralls,1992,1.0144708643235214
 good_Interior shutters,1956,-0.04273209522647076
 good_Interior shutters,1957,-0.10669173371872813
 good_Interior shutters,1958,-0.5008358581333306
+good_Interior shutters,1959,-0.5008358581333308
+good_Interior shutters,1960,-0.5008358581333308
+good_Interior shutters,1961,-0.5008358581333308
+good_Interior shutters,1962,-0.5008358581333308
 good_Interior shutters,1963,-0.5557131983482398
 good_Interior shutters,1964,-0.5026483458316999
 good_Interior shutters,1965,-0.5260137148981623
@@ -6076,6 +6562,7 @@ good_Interior shutters,1986,1.1892409761530809
 good_Interior shutters,1987,1.1901164080023068
 good_Interior shutters,1988,1.1923428152881395
 good_Interior shutters,1989,1.0077366454605952
+good_Interior shutters,1990,1.0077366454605952
 good_Interior shutters,1991,1.1700556015949843
 good_Interior shutters,1992,1.8738075650412127
 good_Laces,1901,0.16530484506677584
@@ -6121,6 +6608,11 @@ good_Laces,1941,-0.8788923933596043
 good_Laces,1942,-0.5520401930059501
 good_Laces,1943,-0.5092415911212927
 good_Laces,1944,-0.530587532786157
+good_Laces,1945,-0.530587532786157
+good_Laces,1946,-0.530587532786157
+good_Laces,1947,-0.530587532786157
+good_Laces,1948,-0.530587532786157
+good_Laces,1949,-0.530587532786157
 good_Laces,1950,-0.6116743388436828
 good_Laces,1951,-0.2798607798097227
 good_Laces,1952,0.012115628471907725
@@ -6133,21 +6625,69 @@ good_Laces,1958,-0.23220756344020824
 good_Laces,1959,-0.02527437506598504
 good_Laces,1960,-0.5531687159577257
 good_Laces,1961,-1.5361562107727234
+good_Laces,1962,-1.5361562107727234
+good_Laces,1963,-1.5361562107727234
 good_Laces,1964,-1.3734703640446704
 good_Ladies vests,1905,-0.21488540378178508
+good_Ladies vests,1906,-0.21488540378178508
+good_Ladies vests,1908,-0.21488540378178508
+good_Ladies vests,1909,-0.21488540378178508
+good_Ladies vests,1910,-0.21488540378178508
+good_Ladies vests,1911,-0.21488540378178508
+good_Ladies vests,1912,-0.21488540378178508
+good_Ladies vests,1913,-0.21488540378178508
+good_Ladies vests,1914,-0.21488540378178508
+good_Ladies vests,1915,-0.21488540378178508
 good_Ladies vests,1916,-0.08983246389274452
 good_Ladies vests,1917,0.6849591422433585
+good_Ladies vests,1918,0.6849591422433584
 good_Ladies vests,1919,0.7900174603167353
+good_Ladies vests,1920,0.7900174603167353
 good_Ladies vests,1921,0.2820294176614784
+good_Ladies vests,1922,0.2820294176614784
+good_Ladies vests,1923,0.2820294176614784
 good_Ladies vests,1924,0.34717700842969274
+good_Ladies vests,1925,0.34717700842969274
+good_Ladies vests,1926,0.34717700842969274
 good_Ladies vests,1927,0.3770050467089916
+good_Ladies vests,1928,0.3770050467089916
+good_Ladies vests,1929,0.3770050467089916
+good_Ladies vests,1930,0.3770050467089916
+good_Ladies vests,1931,0.3770050467089916
+good_Ladies vests,1932,0.3770050467089916
+good_Ladies vests,1933,0.3770050467089916
+good_Ladies vests,1934,0.3770050467089916
+good_Ladies vests,1935,0.3770050467089916
+good_Ladies vests,1936,0.3770050467089916
+good_Ladies vests,1937,0.3770050467089916
+good_Ladies vests,1938,0.3770050467089916
 good_Ladies vests,1939,0.42532294606275556
+good_Ladies vests,1940,0.42532294606275556
+good_Ladies vests,1941,0.42532294606275556
+good_Ladies vests,1942,0.42532294606275556
+good_Ladies vests,1943,0.42532294606275556
+good_Ladies vests,1944,0.42532294606275556
 good_Ladies vests,1945,0.3193505644115404
 good_Ladies vests,1946,0.2387753052076459
+good_Ladies vests,1947,0.2387753052076459
+good_Ladies vests,1948,0.2387753052076459
 good_Ladies vests,1949,0.343918176052854
+good_Ladies vests,1950,0.343918176052854
+good_Ladies vests,1951,0.343918176052854
+good_Ladies vests,1952,0.343918176052854
 good_Ladies vests,1953,0.5040700016055579
+good_Ladies vests,1954,0.5040700016055579
+good_Ladies vests,1955,0.5040700016055579
 good_Ladies vests,1956,0.09069219902663056
+good_Ladies vests,1957,0.09069219902663056
+good_Ladies vests,1958,0.09069219902663056
 good_Ladies vests,1959,0.24459274655809904
+good_Ladies vests,1960,0.24459274655809904
+good_Ladies vests,1961,0.24459274655809904
+good_Ladies vests,1962,0.24459274655809904
+good_Ladies vests,1963,0.24459274655809904
+good_Ladies vests,1964,0.24459274655809904
+good_Ladies vests,1965,0.24459274655809904
 good_Ladies vests,1966,0.19475812722702343
 good_Ladies vests,1967,0.09162210511043942
 good_Ladies vests,1968,0.1483515101354913
@@ -6178,6 +6718,7 @@ good_Leisure reading books,1903,-0.12894426355468833
 good_Leisure reading books,1904,-0.2338665689902511
 good_Leisure reading books,1905,-0.35272565234002756
 good_Leisure reading books,1906,-0.34367022262899916
+good_Leisure reading books,1908,-0.34367022262899916
 good_Leisure reading books,1909,-0.3771761705584515
 good_Leisure reading books,1910,-0.3785684818198573
 good_Leisure reading books,1911,-0.3728768397161728
@@ -6205,15 +6746,35 @@ good_Leisure reading books,1932,-0.516445729126548
 good_Leisure reading books,1933,-0.5397025912908152
 good_Leisure reading books,1934,-0.5611321751151619
 good_Leisure reading books,1935,-0.5775008791085756
+good_Leisure reading books,1936,-0.5775008791085756
+good_Leisure reading books,1937,-0.5775008791085756
+good_Leisure reading books,1938,-0.5775008791085756
+good_Leisure reading books,1939,-0.5775008791085756
+good_Leisure reading books,1940,-0.5775008791085756
+good_Leisure reading books,1941,-0.5775008791085756
+good_Leisure reading books,1942,-0.5775008791085756
+good_Leisure reading books,1943,-0.5775008791085756
 good_Leisure reading books,1944,-0.495224148167527
+good_Leisure reading books,1945,-0.495224148167527
 good_Leisure reading books,1946,-0.5211963072318122
 good_Leisure reading books,1947,-0.5211963072318122
 good_Leisure reading books,1948,-0.4285930184680553
+good_Leisure reading books,1949,-0.4285930184680553
 good_Leisure reading books,1950,-0.7124823492272019
+good_Leisure reading books,1951,-0.7124823492272019
 good_Leisure reading books,1952,-0.5835491017525799
 good_Leisure reading books,1953,-0.5835491017525799
+good_Leisure reading books,1954,-0.5835491017525799
+good_Leisure reading books,1955,-0.5835491017525799
 good_Leisure reading books,1956,-0.34399529173494003
 good_Leisure reading books,1957,-0.34928786531483286
+good_Leisure reading books,1958,-0.34928786531483286
+good_Leisure reading books,1959,-0.34928786531483286
+good_Leisure reading books,1960,-0.34928786531483286
+good_Leisure reading books,1961,-0.34928786531483286
+good_Leisure reading books,1962,-0.34928786531483286
+good_Leisure reading books,1963,-0.34928786531483286
+good_Leisure reading books,1964,-0.34928786531483286
 good_Leisure reading books,1965,-0.36123759110314774
 good_Leisure reading books,1966,-0.3295264250529141
 good_Leisure reading books,1967,-0.331840660831134
@@ -6279,12 +6840,18 @@ good_Linoleums,1958,-2.3388613123164532
 good_Linoleums,1959,-3.5594477732083214
 good_Linoleums,1960,-3.8132216482762438
 good_Linoleums,1961,-3.4123185509687928
+good_Linoleums,1962,-3.4123185509687928
+good_Linoleums,1963,-3.4123185509687928
+good_Linoleums,1964,-3.4123185509687928
 good_Linoleums,1965,-3.506329339153578
 good_Lounge seatings,1903,-0.32508318289437904
 good_Lounge seatings,1904,-0.4826174067414576
 good_Lounge seatings,1905,-0.4849429913780015
+good_Lounge seatings,1906,-0.4849429913780015
+good_Lounge seatings,1908,-0.4849429913780015
 good_Lounge seatings,1909,-1.0632888630878714
 good_Lounge seatings,1910,-0.8444984156800397
+good_Lounge seatings,1911,-0.8444984156800397
 good_Lounge seatings,1912,-1.1258431646194311
 good_Lounge seatings,1913,-0.9103989115100836
 good_Lounge seatings,1914,-0.9445937605607712
@@ -6299,7 +6866,9 @@ good_Lounge seatings,1922,-1.0473070141200873
 good_Lounge seatings,1923,-0.7248502594611659
 good_Lounge seatings,1924,-1.200519034932393
 good_Lounge seatings,1925,-1.0212530965908013
+good_Lounge seatings,1926,-1.0212530965908013
 good_Lounge seatings,1927,-1.2888522562812528
+good_Lounge seatings,1928,-1.2888522562812528
 good_Lounge seatings,1929,-1.2885317498611675
 good_Lounge seatings,1930,-1.3979469178730093
 good_Lounge seatings,1931,-1.490106910324324
@@ -6317,6 +6886,7 @@ good_Lounge seatings,1942,-1.586082651518865
 good_Lounge seatings,1943,-1.2420257307440878
 good_Lounge seatings,1944,-1.1533862403180015
 good_Lounge seatings,1945,-0.5624711412615191
+good_Lounge seatings,1946,-0.5624711412615191
 good_Lounge seatings,1947,-0.08225662542939999
 good_Lounge seatings,1948,-0.44965966193516294
 good_Lounge seatings,1949,-0.8044268771888259
@@ -6332,6 +6902,7 @@ good_Lounge seatings,1958,-0.645121884031164
 good_Lounge seatings,1959,-1.0383264800448078
 good_Lounge seatings,1960,-1.0675553699855038
 good_Lounge seatings,1961,-0.8552239156903534
+good_Lounge seatings,1962,-0.8552239156903534
 good_Lounge seatings,1963,-0.8730325848759811
 good_Lounge seatings,1964,-0.8493084756519454
 good_Lounge seatings,1965,-0.8713839796745592
@@ -6367,7 +6938,10 @@ good_Mantel or table clocks,1902,-0.07931038431290277
 good_Mantel or table clocks,1903,-0.12083410039412318
 good_Mantel or table clocks,1904,-0.13241648961074562
 good_Mantel or table clocks,1905,-0.15338124902226785
+good_Mantel or table clocks,1906,-0.15338124902226785
+good_Mantel or table clocks,1908,-0.15338124902226785
 good_Mantel or table clocks,1909,-0.1564721490158878
+good_Mantel or table clocks,1910,-0.1564721490158878
 good_Mantel or table clocks,1911,-0.13685940328766225
 good_Mantel or table clocks,1912,-0.18062638630193445
 good_Mantel or table clocks,1913,-0.18830096702187446
@@ -6392,40 +6966,75 @@ good_Mantel or table clocks,1931,0.31315204468546676
 good_Mantel or table clocks,1932,0.5803223046980964
 good_Mantel or table clocks,1933,0.5992736694774595
 good_Mantel or table clocks,1934,0.7203327038729084
+good_Mantel or table clocks,1935,0.7203327038729084
+good_Mantel or table clocks,1936,0.7203327038729084
+good_Mantel or table clocks,1937,0.7203327038729084
+good_Mantel or table clocks,1938,0.7203327038729084
+good_Mantel or table clocks,1939,0.7203327038729084
+good_Mantel or table clocks,1940,0.7203327038729084
 good_Mantel or table clocks,1941,0.8752637012062534
 good_Mantel or table clocks,1942,1.1027792581711817
+good_Mantel or table clocks,1943,1.1027792581711817
+good_Mantel or table clocks,1944,1.1027792581711817
+good_Mantel or table clocks,1945,1.1027792581711817
+good_Mantel or table clocks,1946,1.1027792581711817
+good_Mantel or table clocks,1947,1.1027792581711817
+good_Mantel or table clocks,1948,1.1027792581711817
 good_Mantel or table clocks,1949,1.121061085562421
 good_Mantel or table clocks,1950,1.1199477167032414
 good_Mantel or table clocks,1951,1.0738213472710942
 good_Mantel or table clocks,1952,1.0340275796415284
 good_Mantel or table clocks,1953,1.0374415811222755
+good_Mantel or table clocks,1954,1.0374415811222755
 good_Mantel or table clocks,1955,1.0311803295028565
 good_Mantel or table clocks,1956,1.1225395523204122
 good_Mantel or table clocks,1957,1.0845725349397555
 good_Mantel or table clocks,1958,1.0912165682184662
 good_Mantel or table clocks,1959,1.099717905209181
+good_Mantel or table clocks,1960,1.099717905209181
 good_Mantel or table clocks,1961,1.1156137044984011
+good_Mantel or table clocks,1962,1.1156137044984011
 good_Mantel or table clocks,1963,1.1163992077165132
+good_Mantel or table clocks,1964,1.1163992077165132
 good_Mantel or table clocks,1965,1.1433631156119126
 good_Mantel or table clocks,1966,1.1520769275315348
 good_Mantel or table clocks,1967,1.230686363215579
 good_Mantel or table clocks,1968,1.2752814851789722
 good_Mantel or table clocks,1969,1.3414740092839117
+good_Mantel or table clocks,1970,1.3414740092839117
 good_Mantel or table clocks,1971,1.386285489202301
 good_Mantel or table clocks,1972,1.447662888443679
 good_Mantel or table clocks,1973,1.5442532861470761
 good_Mantel or table clocks,1974,1.6752093100690413
+good_Mantel or table clocks,1975,1.6752093100690413
+good_Mantel or table clocks,1976,1.6752093100690413
+good_Mantel or table clocks,1977,1.6752093100690413
 good_Mantel or table clocks,1978,1.6752093100690413
 good_Mattress pads,1913,-0.04668665905326034
 good_Mattress pads,1914,-0.09454428699730605
+good_Mattress pads,1915,-0.09454428699730605
+good_Mattress pads,1916,-0.09454428699730605
+good_Mattress pads,1917,-0.09454428699730605
+good_Mattress pads,1918,-0.09454428699730605
+good_Mattress pads,1919,-0.09454428699730605
+good_Mattress pads,1920,-0.09454428699730605
+good_Mattress pads,1921,-0.09454428699730605
 good_Mattress pads,1922,-0.3215847501252821
+good_Mattress pads,1923,-0.3215847501252821
 good_Mattress pads,1924,-0.5378787796415367
+good_Mattress pads,1925,-0.5378787796415367
 good_Mattress pads,1926,-0.5971383117632357
+good_Mattress pads,1927,-0.5971383117632357
+good_Mattress pads,1928,-0.5971383117632357
+good_Mattress pads,1929,-0.5971383117632357
 good_Mattress pads,1930,-0.6467014014321504
 good_Mattress pads,1931,-0.8807761203618036
 good_Mattress pads,1932,-1.0664396255878859
+good_Mattress pads,1933,-1.0664396255878859
+good_Mattress pads,1934,-1.0664396255878859
 good_Mattress pads,1935,-1.1813688192977
 good_Mattress pads,1936,-1.1229933165438077
+good_Mattress pads,1937,-1.1229933165438077
 good_Mattress pads,1938,-1.343830025040762
 good_Mattress pads,1939,-1.6052480421054058
 good_Mattress pads,1940,-1.315817044726749
@@ -6433,9 +7042,14 @@ good_Mattress pads,1941,-1.1961415770700878
 good_Mattress pads,1942,-0.6829482531600062
 good_Mattress pads,1943,-0.9115083536857648
 good_Mattress pads,1944,-0.6905331842939333
+good_Mattress pads,1945,-0.6905331842939333
+good_Mattress pads,1946,-0.6905331842939333
 good_Mattress pads,1947,-0.863330818888668
 good_Mattress pads,1948,-0.7180895233332406
 good_Mattress pads,1949,-0.6256142386791436
+good_Mattress pads,1950,-0.6256142386791436
+good_Mattress pads,1951,-0.6256142386791436
+good_Mattress pads,1952,-0.6256142386791436
 good_Mattress pads,1953,-0.5314448101667563
 good_Mattress pads,1954,-0.5799680866514332
 good_Mattress pads,1955,-0.5707378159374953
@@ -6572,6 +7186,9 @@ good_Mens athletic footwears,1902,0.04364238660410347
 good_Mens athletic footwears,1903,0.20430238496558598
 good_Mens athletic footwears,1904,-0.2340774284211609
 good_Mens athletic footwears,1905,-0.39509157971735076
+good_Mens athletic footwears,1906,-0.39509157971735076
+good_Mens athletic footwears,1908,-0.39509157971735076
+good_Mens athletic footwears,1909,-0.39509157971735076
 good_Mens athletic footwears,1910,-0.3964457900625407
 good_Mens athletic footwears,1911,-0.5154690681129752
 good_Mens athletic footwears,1912,-0.5207053191347315
@@ -6606,6 +7223,9 @@ good_Mens athletic footwears,1940,-0.95244818707049
 good_Mens athletic footwears,1941,-0.975294548312656
 good_Mens athletic footwears,1942,-0.5561234799220023
 good_Mens athletic footwears,1943,-0.4295093707144412
+good_Mens athletic footwears,1944,-0.4295093707144412
+good_Mens athletic footwears,1945,-0.4295093707144412
+good_Mens athletic footwears,1946,-0.4295093707144412
 good_Mens athletic footwears,1947,-0.35829293182050737
 good_Mens athletic footwears,1948,-0.2147561301666731
 good_Mens athletic footwears,1949,-0.14881497884755882
@@ -6695,6 +7315,8 @@ good_Mens boots,1941,0.6464305940121156
 good_Mens boots,1942,0.8447336170512165
 good_Mens boots,1943,0.8850897286357559
 good_Mens boots,1944,1.1191827447864178
+good_Mens boots,1945,1.1191827447864178
+good_Mens boots,1946,1.1191827447864178
 good_Mens boots,1947,1.314756185941851
 good_Mens boots,1948,1.4489678910635704
 good_Mens boots,1949,1.364189633299053
@@ -6746,6 +7368,7 @@ good_Mens coats or jackets,1902,-0.239342820535414
 good_Mens coats or jackets,1903,-0.45970822075172446
 good_Mens coats or jackets,1904,-0.44237494203287137
 good_Mens coats or jackets,1905,-0.5544644713689892
+good_Mens coats or jackets,1906,-0.5544644713689892
 good_Mens coats or jackets,1908,-0.4349786682607222
 good_Mens coats or jackets,1909,-0.3501260461384663
 good_Mens coats or jackets,1910,-0.21161890960726965
@@ -6852,6 +7475,7 @@ good_Mens overalls or coveralls,1919,0.7035202723490089
 good_Mens overalls or coveralls,1920,0.8844115104224423
 good_Mens overalls or coveralls,1921,0.26992878261777575
 good_Mens overalls or coveralls,1922,0.23748972405282276
+good_Mens overalls or coveralls,1923,0.23748972405282276
 good_Mens overalls or coveralls,1924,0.28011624972205584
 good_Mens overalls or coveralls,1925,0.12189045957825737
 good_Mens overalls or coveralls,1926,-0.04630978609211006
@@ -6873,6 +7497,10 @@ good_Mens overalls or coveralls,1941,-0.4208800133951296
 good_Mens overalls or coveralls,1942,-0.31541861354174705
 good_Mens overalls or coveralls,1943,-0.16183190433436187
 good_Mens overalls or coveralls,1944,-0.09451912072435337
+good_Mens overalls or coveralls,1945,-0.09451912072435337
+good_Mens overalls or coveralls,1946,-0.09451912072435337
+good_Mens overalls or coveralls,1947,-0.09451912072435337
+good_Mens overalls or coveralls,1948,-0.09451912072435337
 good_Mens overalls or coveralls,1949,-0.1817499674829065
 good_Mens overalls or coveralls,1950,-0.17047485671619345
 good_Mens overalls or coveralls,1951,0.10498540968651587
@@ -6882,6 +7510,8 @@ good_Mens overalls or coveralls,1954,0.06214830155506046
 good_Mens overalls or coveralls,1955,0.03659895423116506
 good_Mens overalls or coveralls,1956,0.046847853504469905
 good_Mens overalls or coveralls,1957,-0.11361136339964531
+good_Mens overalls or coveralls,1958,-0.11361136339964531
+good_Mens overalls or coveralls,1959,-0.11361136339964531
 good_Mens overalls or coveralls,1960,-0.0318545509883712
 good_Mens overalls or coveralls,1961,-0.07358694895417334
 good_Mens overalls or coveralls,1962,0.07617471188030275
@@ -6895,6 +7525,9 @@ good_Mens overalls or coveralls,1969,0.5653848373602661
 good_Mens overalls or coveralls,1970,0.59584929263145
 good_Mens overalls or coveralls,1971,0.6605191051296807
 good_Mens overalls or coveralls,1972,0.711888162318276
+good_Mens overalls or coveralls,1973,0.711888162318276
+good_Mens overalls or coveralls,1974,0.711888162318276
+good_Mens overalls or coveralls,1975,0.711888162318276
 good_Mens overalls or coveralls,1976,0.7787870310121436
 good_Mens overalls or coveralls,1977,0.8931656346626407
 good_Mens overalls or coveralls,1978,1.0035780483163634
@@ -6916,6 +7549,8 @@ good_Mens overshoes,1902,0.05229196031183335
 good_Mens overshoes,1903,0.021675275907056885
 good_Mens overshoes,1904,-0.12583003138557639
 good_Mens overshoes,1905,0.013516121153411997
+good_Mens overshoes,1906,0.013516121153411997
+good_Mens overshoes,1908,0.013516121153411997
 good_Mens overshoes,1909,0.10604432127233358
 good_Mens overshoes,1910,0.24616563308101425
 good_Mens overshoes,1911,0.11761664443981587
@@ -6956,6 +7591,7 @@ good_Mens overshoes,1945,0.03464707464946439
 good_Mens overshoes,1946,0.27101178969330736
 good_Mens overshoes,1947,0.4270228270864719
 good_Mens overshoes,1948,0.5014510885708999
+good_Mens overshoes,1949,0.5014510885708999
 good_Mens overshoes,1950,0.23406631552182455
 good_Mens overshoes,1951,0.43565465869442194
 good_Mens overshoes,1952,0.4866924557587997
@@ -6968,6 +7604,7 @@ good_Mens overshoes,1958,0.3826605845567786
 good_Mens overshoes,1959,0.35514497743294166
 good_Mens overshoes,1960,0.5023735782217216
 good_Mens overshoes,1961,0.485253496110218
+good_Mens overshoes,1962,0.485253496110218
 good_Mens overshoes,1963,0.4233627797650243
 good_Mens overshoes,1964,0.4720385218719114
 good_Mens overshoes,1965,0.4849622060291762
@@ -6975,14 +7612,30 @@ good_Mens overshoes,1966,0.5311063927620978
 good_Mens overshoes,1967,0.537274872877825
 good_Mens overshoes,1968,0.7327181293155087
 good_Mens overshoes,1969,0.9844039789441212
+good_Mens overshoes,1970,0.9844039789441212
+good_Mens overshoes,1971,0.9844039789441212
 good_Mens overshoes,1972,0.8720187792205455
+good_Mens overshoes,1973,0.8720187792205455
+good_Mens overshoes,1974,0.8720187792205455
 good_Mens overshoes,1975,1.0235335897942588
+good_Mens overshoes,1976,1.0235335897942588
+good_Mens overshoes,1977,1.0235335897942588
+good_Mens overshoes,1978,1.0235335897942588
+good_Mens overshoes,1979,1.0235335897942588
+good_Mens overshoes,1980,1.0235335897942588
+good_Mens overshoes,1981,1.0235335897942588
+good_Mens overshoes,1982,1.0235335897942588
+good_Mens overshoes,1983,1.0235335897942588
+good_Mens overshoes,1984,1.0235335897942588
+good_Mens overshoes,1985,1.0235335897942588
 good_Mens overshoes,1986,1.1187499694294645
 good_Mens pajamas or nightshirts or robes,1901,-0.008542525913038454
 good_Mens pajamas or nightshirts or robes,1902,0.08506168704567842
 good_Mens pajamas or nightshirts or robes,1903,0.21451035610856628
 good_Mens pajamas or nightshirts or robes,1904,0.3062281921263189
 good_Mens pajamas or nightshirts or robes,1905,0.3326195229993593
+good_Mens pajamas or nightshirts or robes,1906,0.3326195229993593
+good_Mens pajamas or nightshirts or robes,1908,0.3326195229993593
 good_Mens pajamas or nightshirts or robes,1909,0.2591059784190972
 good_Mens pajamas or nightshirts or robes,1910,0.4597598133981801
 good_Mens pajamas or nightshirts or robes,1911,0.5090252168340121
@@ -6994,6 +7647,8 @@ good_Mens pajamas or nightshirts or robes,1916,0.4110720242844949
 good_Mens pajamas or nightshirts or robes,1917,0.6966911954284514
 good_Mens pajamas or nightshirts or robes,1918,0.9944822475103889
 good_Mens pajamas or nightshirts or robes,1919,1.3414147426647527
+good_Mens pajamas or nightshirts or robes,1920,1.3414147426647527
+good_Mens pajamas or nightshirts or robes,1921,1.3414147426647527
 good_Mens pajamas or nightshirts or robes,1922,1.1002133832536027
 good_Mens pajamas or nightshirts or robes,1923,1.1162424092104946
 good_Mens pajamas or nightshirts or robes,1924,1.141349834895575
@@ -7017,6 +7672,9 @@ good_Mens pajamas or nightshirts or robes,1941,0.3331827242525648
 good_Mens pajamas or nightshirts or robes,1942,0.7301748974699259
 good_Mens pajamas or nightshirts or robes,1943,0.726322960568795
 good_Mens pajamas or nightshirts or robes,1944,0.9053820476591212
+good_Mens pajamas or nightshirts or robes,1945,0.9053820476591212
+good_Mens pajamas or nightshirts or robes,1946,0.9053820476591212
+good_Mens pajamas or nightshirts or robes,1947,0.9053820476591212
 good_Mens pajamas or nightshirts or robes,1948,0.9252621316556215
 good_Mens pajamas or nightshirts or robes,1949,0.6579328991274469
 good_Mens pajamas or nightshirts or robes,1950,0.6479861637778349
@@ -7345,6 +8003,8 @@ good_Mens slippers,1908,0.26863497932478314
 good_Mens slippers,1909,-0.24517087114533725
 good_Mens slippers,1910,-0.25753671260401223
 good_Mens slippers,1911,-0.2824414124741063
+good_Mens slippers,1912,-0.2824414124741063
+good_Mens slippers,1913,-0.2824414124741063
 good_Mens slippers,1914,-0.36274631583040307
 good_Mens slippers,1915,-0.3521353836226891
 good_Mens slippers,1916,-0.19777996227220507
@@ -7376,6 +8036,8 @@ good_Mens slippers,1941,-0.28321326238958305
 good_Mens slippers,1942,0.05283866292151934
 good_Mens slippers,1943,-0.09748039915301604
 good_Mens slippers,1944,0.09614722854145577
+good_Mens slippers,1945,0.09614722854145577
+good_Mens slippers,1946,0.09614722854145577
 good_Mens slippers,1947,0.08824888072469016
 good_Mens slippers,1948,0.17911587174311125
 good_Mens slippers,1949,0.14943553453246958
@@ -7419,6 +8081,7 @@ good_Mens slippers,1986,1.8763779398998865
 good_Mens slippers,1987,1.7301920319714217
 good_Mens slippers,1988,1.8041142766698857
 good_Mens slippers,1989,1.7308513609912837
+good_Mens slippers,1990,1.7308513609912837
 good_Mens slippers,1991,1.8456421795455258
 good_Mens slippers,1992,1.942541456817286
 good_Mens suits,1901,-0.21237079788612703
@@ -7516,15 +8179,17 @@ good_Mens sweaters,1901,0.06053369951454046
 good_Mens sweaters,1902,-0.03876787445794347
 good_Mens sweaters,1903,-0.042814085100470835
 good_Mens sweaters,1904,0.07549968572825391
-good_Mens sweaters,1908,-0.24059407405198233
-good_Mens sweaters,1909,-0.187094410995817
-good_Mens sweaters,1910,-0.2060764551922008
-good_Mens sweaters,1911,-0.254607872629093
-good_Mens sweaters,1912,-0.375903204226769
-good_Mens sweaters,1913,-0.35938118140714426
+good_Mens sweaters,1905,0.07549968572825393
+good_Mens sweaters,1906,0.07549968572825393
+good_Mens sweaters,1908,-0.2405940740519823
+good_Mens sweaters,1909,-0.18709441099581697
+good_Mens sweaters,1910,-0.20607645519220077
+good_Mens sweaters,1911,-0.25460787262909296
+good_Mens sweaters,1912,-0.3759032042267689
+good_Mens sweaters,1913,-0.3593811814071442
 good_Mens sweaters,1914,-0.3269980052875203
 good_Mens sweaters,1915,-0.3703722085882363
-good_Mens sweaters,1916,-0.2789300464718267
+good_Mens sweaters,1916,-0.2789300464718266
 good_Mens sweaters,1917,-0.057773842459098
 good_Mens sweaters,1918,0.34855072046042995
 good_Mens sweaters,1919,0.2589363434090513
@@ -7602,18 +8267,38 @@ good_Mens sweaters,1990,0.16800557656852658
 good_Mens sweaters,1991,0.13899944912792694
 good_Mens sweaters,1992,-0.3810894166494374
 good_Mens tshirts,1912,-0.1897419642155314
+good_Mens tshirts,1913,-0.1897419642155314
+good_Mens tshirts,1914,-0.1897419642155314
+good_Mens tshirts,1915,-0.1897419642155314
+good_Mens tshirts,1916,-0.1897419642155314
 good_Mens tshirts,1917,-0.101435931960493
 good_Mens tshirts,1918,0.10215671389050679
 good_Mens tshirts,1919,0.225229129142336
 good_Mens tshirts,1920,0.45329563981725374
 good_Mens tshirts,1921,0.1083693300541827
+good_Mens tshirts,1922,0.1083693300541827
 good_Mens tshirts,1923,-0.12938218900616555
+good_Mens tshirts,1924,-0.12938218900616555
+good_Mens tshirts,1925,-0.12938218900616555
 good_Mens tshirts,1926,-0.17022098117001305
 good_Mens tshirts,1927,0.19288166064036144
+good_Mens tshirts,1928,0.19288166064036144
 good_Mens tshirts,1929,0.14990733421445482
 good_Mens tshirts,1930,-0.4360319528969172
+good_Mens tshirts,1931,-0.4360319528969172
+good_Mens tshirts,1932,-0.4360319528969172
+good_Mens tshirts,1933,-0.4360319528969172
 good_Mens tshirts,1934,-0.5844098168306532
+good_Mens tshirts,1935,-0.5844098168306532
+good_Mens tshirts,1936,-0.5844098168306532
+good_Mens tshirts,1937,-0.5844098168306532
+good_Mens tshirts,1938,-0.5844098168306532
 good_Mens tshirts,1939,-0.608704899381384
+good_Mens tshirts,1940,-0.608704899381384
+good_Mens tshirts,1941,-0.608704899381384
+good_Mens tshirts,1942,-0.608704899381384
+good_Mens tshirts,1943,-0.608704899381384
+good_Mens tshirts,1944,-0.608704899381384
 good_Mens tshirts,1945,-0.49946415366265584
 good_Mens tshirts,1946,-0.6234488579427045
 good_Mens tshirts,1947,-0.32224429725128906
@@ -7663,6 +8348,10 @@ good_Mens tshirts,1990,0.6067817253492742
 good_Mens tshirts,1991,0.5979780177527017
 good_Mens tshirts,1992,0.9837785384180857
 good_Ornaments or decorations,1904,-0.08904775161425817
+good_Ornaments or decorations,1905,-0.08904775161425817
+good_Ornaments or decorations,1906,-0.08904775161425817
+good_Ornaments or decorations,1908,-0.08904775161425817
+good_Ornaments or decorations,1909,-0.08904775161425817
 good_Ornaments or decorations,1910,0.2425596712858738
 good_Ornaments or decorations,1911,0.19012305315665773
 good_Ornaments or decorations,1912,0.2868632866051335
@@ -7693,8 +8382,10 @@ good_Ornaments or decorations,1936,0.9096265482860355
 good_Ornaments or decorations,1937,1.2293886568612638
 good_Ornaments or decorations,1938,1.5815517806889436
 good_Ornaments or decorations,1939,1.8778634971151968
+good_Ornaments or decorations,1940,1.8778634971151968
 good_Ornaments or decorations,1941,1.9771640736896616
 good_Ornaments or decorations,1942,1.68215577810353
+good_Ornaments or decorations,1943,1.68215577810353
 good_Ornaments or decorations,1944,1.8657355065798613
 good_Ornaments or decorations,1945,1.7896151263511428
 good_Ornaments or decorations,1946,1.8412401544774744
@@ -7743,7 +8434,11 @@ good_Ornaments or decorations,1988,3.0259786316516477
 good_Ornaments or decorations,1989,2.906124132719124
 good_Ornaments or decorations,1990,3.5661587402120043
 good_Panty hoses,1959,-0.06973114897162054
+good_Panty hoses,1960,-0.06973114897162054
+good_Panty hoses,1961,-0.06973114897162054
+good_Panty hoses,1962,-0.06973114897162054
 good_Panty hoses,1963,-0.08724473146432879
+good_Panty hoses,1964,-0.08724473146432879
 good_Panty hoses,1965,-0.059440652461720575
 good_Panty hoses,1966,-0.06352612103820357
 good_Panty hoses,1967,0.05762716380108253
@@ -7769,6 +8464,7 @@ good_Panty hoses,1986,0.20421608411734035
 good_Panty hoses,1987,-0.03130769950111262
 good_Panty hoses,1988,-0.015454189907794194
 good_Panty hoses,1989,0.0035415411104084693
+good_Panty hoses,1990,0.0035415411104084693
 good_Panty hoses,1991,0.04389629261203016
 good_Panty hoses,1992,0.1736828532099633
 good_Patient infant shirts or vests,1901,-0.07569368468757891
@@ -7776,6 +8472,8 @@ good_Patient infant shirts or vests,1902,-0.24324843570520616
 good_Patient infant shirts or vests,1903,-0.23251749053735873
 good_Patient infant shirts or vests,1904,-0.3200764538924027
 good_Patient infant shirts or vests,1905,-0.3161584760971489
+good_Patient infant shirts or vests,1906,-0.3161584760971489
+good_Patient infant shirts or vests,1908,-0.3161584760971489
 good_Patient infant shirts or vests,1909,-0.4019558816781999
 good_Patient infant shirts or vests,1910,-0.2550175768423119
 good_Patient infant shirts or vests,1911,-0.24413442659386625
@@ -7802,6 +8500,8 @@ good_Patient infant shirts or vests,1931,0.37167505392538736
 good_Patient infant shirts or vests,1932,0.42538906990450603
 good_Patient infant shirts or vests,1933,0.4004150457196737
 good_Patient infant shirts or vests,1934,0.6471645362741376
+good_Patient infant shirts or vests,1935,0.6471645362741376
+good_Patient infant shirts or vests,1936,0.6471645362741376
 good_Patient infant shirts or vests,1937,0.6776572807737752
 good_Patient infant shirts or vests,1938,0.6640054488315875
 good_Patient infant shirts or vests,1939,0.662316294889734
@@ -7809,20 +8509,54 @@ good_Patient infant shirts or vests,1940,0.7053372322579984
 good_Patient infant shirts or vests,1941,0.7235473494997338
 good_Patient infant shirts or vests,1942,0.9006376780628814
 good_Patient infant shirts or vests,1943,0.8371506824305668
+good_Patient infant shirts or vests,1944,0.8371506824305668
+good_Patient infant shirts or vests,1945,0.8371506824305668
+good_Patient infant shirts or vests,1946,0.8371506824305668
+good_Patient infant shirts or vests,1947,0.8371506824305668
+good_Patient infant shirts or vests,1948,0.8371506824305668
+good_Patient infant shirts or vests,1949,0.8371506824305668
+good_Patient infant shirts or vests,1950,0.8371506824305668
+good_Patient infant shirts or vests,1951,0.8371506824305668
+good_Patient infant shirts or vests,1952,0.8371506824305668
 good_Patient infant shirts or vests,1953,0.24779229469547293
 good_Patient infant shirts or vests,1954,0.712680823274438
+good_Patient infant shirts or vests,1955,0.712680823274438
 good_Patient infant shirts or vests,1956,0.7368103527272525
 good_Patient infant shirts or vests,1957,0.6663586917766411
 good_Patient infant shirts or vests,1958,0.6663586917766411
+good_Patient infant shirts or vests,1959,0.6663586917766411
+good_Patient infant shirts or vests,1960,0.6663586917766411
+good_Patient infant shirts or vests,1961,0.6663586917766411
+good_Patient infant shirts or vests,1962,0.6663586917766411
+good_Patient infant shirts or vests,1963,0.6663586917766411
+good_Patient infant shirts or vests,1964,0.6663586917766411
+good_Patient infant shirts or vests,1965,0.6663586917766411
+good_Patient infant shirts or vests,1966,0.6663586917766411
+good_Patient infant shirts or vests,1967,0.6663586917766411
+good_Patient infant shirts or vests,1968,0.6663586917766411
 good_Patient infant shirts or vests,1969,0.7075871844335905
+good_Patient infant shirts or vests,1970,0.7075871844335905
 good_Patient infant shirts or vests,1971,0.6771123276585777
 good_Patient infant shirts or vests,1972,0.797083363179362
+good_Patient infant shirts or vests,1973,0.797083363179362
+good_Patient infant shirts or vests,1974,0.797083363179362
+good_Patient infant shirts or vests,1975,0.797083363179362
+good_Patient infant shirts or vests,1976,0.797083363179362
+good_Patient infant shirts or vests,1977,0.797083363179362
 good_Patient infant shirts or vests,1978,0.8534606457433028
 good_Patient infant shirts or vests,1979,1.0470489607174196
+good_Patient infant shirts or vests,1980,1.0470489607174196
+good_Patient infant shirts or vests,1981,1.0470489607174196
+good_Patient infant shirts or vests,1982,1.0470489607174196
+good_Patient infant shirts or vests,1983,1.0470489607174196
 good_Patient infant shirts or vests,1984,0.976178024549842
 good_Patient infant shirts or vests,1985,1.0697104647216462
 good_Pendant lightings,1901,-0.47914649404694354
+good_Pendant lightings,1902,-0.47914649404694354
 good_Pendant lightings,1903,-0.9518481201130811
+good_Pendant lightings,1904,-0.9518481201130811
+good_Pendant lightings,1905,-0.9518481201130811
+good_Pendant lightings,1906,-0.9518481201130811
 good_Pendant lightings,1908,-1.322054025231087
 good_Pendant lightings,1909,-1.4702556143806624
 good_Pendant lightings,1910,-1.5226756472471208
@@ -7831,6 +8565,8 @@ good_Pendant lightings,1912,-1.6326790118778731
 good_Pendant lightings,1913,-1.6960684785372109
 good_Pendant lightings,1914,-1.7074631904104633
 good_Pendant lightings,1915,-1.5868135871020086
+good_Pendant lightings,1916,-1.5868135871020086
+good_Pendant lightings,1917,-1.5868135871020086
 good_Pendant lightings,1918,-1.3623494912096352
 good_Pendant lightings,1919,-1.166262080764127
 good_Pendant lightings,1920,-1.1372192313469305
@@ -7848,15 +8584,23 @@ good_Pendant lightings,1931,-1.7723465308242432
 good_Pendant lightings,1932,-2.027775933847073
 good_Pendant lightings,1933,-2.070296117577534
 good_Pendant lightings,1934,-2.392338955406036
+good_Pendant lightings,1935,-2.392338955406036
+good_Pendant lightings,1936,-2.392338955406036
+good_Pendant lightings,1937,-2.392338955406036
 good_Pendant lightings,1938,-2.4112427152378606
+good_Pendant lightings,1939,-2.4112427152378606
 good_Pendant lightings,1940,-2.6119702969522915
 good_Pendant lightings,1941,-2.68121810086657
 good_Pendant lightings,1942,-2.365903297149767
 good_Pendant lightings,1943,-2.277433661238901
+good_Pendant lightings,1944,-2.277433661238901
+good_Pendant lightings,1945,-2.277433661238901
+good_Pendant lightings,1946,-2.277433661238901
 good_Pendant lightings,1947,-2.346713367057119
 good_Pendant lightings,1948,-2.1742531403180534
 good_Pendant lightings,1949,-2.310952904829785
 good_Pendant lightings,1950,-1.7041500791480204
+good_Pendant lightings,1951,-1.7041500791480204
 good_Pendant lightings,1952,-1.4774646626047332
 good_Pendant lightings,1953,-1.794690263652046
 good_Pendant lightings,1954,-1.6498818904777652
@@ -7899,6 +8643,8 @@ good_Pendant lightings,1990,-1.007069677893355
 good_Pendant lightings,1991,-0.9455964694547739
 good_Pendant lightings,1992,-0.9166192317051145
 good_Pillow cases,1906,-0.24269738111827313
+good_Pillow cases,1908,-0.24269738111827313
+good_Pillow cases,1909,-0.24269738111827313
 good_Pillow cases,1910,-0.5634908274201453
 good_Pillow cases,1911,-0.4826724119083883
 good_Pillow cases,1912,-0.5272083232781605
@@ -7935,6 +8681,8 @@ good_Pillow cases,1942,0.3390680137685892
 good_Pillow cases,1943,0.5305608683027542
 good_Pillow cases,1944,0.49220053881308073
 good_Pillow cases,1945,0.19198896649933822
+good_Pillow cases,1946,0.19198896649933822
+good_Pillow cases,1947,0.19198896649933822
 good_Pillow cases,1948,0.13414335398921493
 good_Pillow cases,1949,0.15386518856677228
 good_Pillow cases,1950,-0.032104810467712075
@@ -7981,12 +8729,16 @@ good_Pillow cases,1990,0.6288618031955647
 good_Pillow cases,1991,0.64853341451549
 good_Pillow cases,1992,0.835880864437193
 good_Pillows,1901,-0.4240334499554619
+good_Pillows,1902,-0.4240334499554619
+good_Pillows,1903,-0.4240334499554619
 good_Pillows,1904,-0.4572374695629429
+good_Pillows,1905,-0.4572374695629429
 good_Pillows,1906,-0.5627644905039839
 good_Pillows,1908,-0.725494328901366
 good_Pillows,1909,-0.7732366698616474
 good_Pillows,1910,-0.6073164258619513
 good_Pillows,1911,-0.6003817619142413
+good_Pillows,1912,-0.6003817619142413
 good_Pillows,1913,-0.5599162048555771
 good_Pillows,1914,-0.6651443468073117
 good_Pillows,1915,-0.7078906224283372
@@ -8110,6 +8862,8 @@ good_Plain weave cotton fabrics,1941,-0.887296795817409
 good_Plain weave cotton fabrics,1942,-0.6640718763622182
 good_Plain weave cotton fabrics,1943,-0.6576400718253893
 good_Plain weave cotton fabrics,1944,-0.3520744780463568
+good_Plain weave cotton fabrics,1945,-0.3520744780463568
+good_Plain weave cotton fabrics,1946,-0.3520744780463568
 good_Plain weave cotton fabrics,1947,-0.28120201169935
 good_Plain weave cotton fabrics,1948,-0.21666313917160016
 good_Plain weave cotton fabrics,1949,-0.34386496526472954
@@ -8137,6 +8891,9 @@ good_Plain weave cotton fabrics,1970,-1.367815056692326
 good_Plain weave cotton fabrics,1971,-1.4150795838152996
 good_Plain weave cotton fabrics,1972,-1.4872446272445556
 good_Plain weave cotton fabrics,1973,-1.1765979015884018
+good_Plain weave cotton fabrics,1974,-1.1765979015884018
+good_Plain weave cotton fabrics,1975,-1.1765979015884018
+good_Plain weave cotton fabrics,1976,-1.1765979015884018
 good_Plain weave cotton fabrics,1977,-1.1359298009573917
 good_Plain weave cotton fabrics,1978,-1.0487347938315734
 good_Plain weave silk fabrics,1901,-0.11472858043347459
@@ -8145,11 +8902,13 @@ good_Plain weave silk fabrics,1903,0.03098052456744499
 good_Plain weave silk fabrics,1904,-0.0438963598868628
 good_Plain weave silk fabrics,1905,-0.17968439144921936
 good_Plain weave silk fabrics,1906,-0.22739743667711856
+good_Plain weave silk fabrics,1908,-0.22739743667711856
 good_Plain weave silk fabrics,1909,-0.23671989539151062
 good_Plain weave silk fabrics,1910,-0.23579608392078727
 good_Plain weave silk fabrics,1911,-0.24590654495321518
 good_Plain weave silk fabrics,1912,-0.32503698942958326
 good_Plain weave silk fabrics,1913,-0.38073444932398287
+good_Plain weave silk fabrics,1914,-0.38073444932398287
 good_Plain weave silk fabrics,1915,-0.3158543803710788
 good_Plain weave silk fabrics,1916,-0.20591251721302403
 good_Plain weave silk fabrics,1917,-0.0163260494628433
@@ -8170,24 +8929,50 @@ good_Plain weave silk fabrics,1931,-0.5190274781065356
 good_Plain weave silk fabrics,1932,-0.5587082621503697
 good_Plain weave silk fabrics,1933,-0.7019190173531287
 good_Plain weave silk fabrics,1934,-0.5524721713790548
+good_Plain weave silk fabrics,1935,-0.5524721713790548
 good_Plain weave silk fabrics,1936,-0.4847834370804853
 good_Plain weave silk fabrics,1937,-0.5335062845297572
 good_Plain weave silk fabrics,1938,-0.5746538762565802
 good_Playing cards,1902,-0.045582813826110215
 good_Playing cards,1903,-0.15739803217793172
 good_Playing cards,1904,-0.12324086100293782
+good_Playing cards,1905,-0.12324086100293782
 good_Playing cards,1906,-0.19709482516148585
+good_Playing cards,1908,-0.19709482516148585
+good_Playing cards,1909,-0.19709482516148585
+good_Playing cards,1910,-0.19709482516148585
+good_Playing cards,1911,-0.19709482516148585
+good_Playing cards,1912,-0.19709482516148585
 good_Playing cards,1913,-0.19709482516148585
+good_Playing cards,1914,-0.19709482516148585
 good_Playing cards,1915,-0.19709482516148585
+good_Playing cards,1916,-0.19709482516148585
 good_Playing cards,1917,-0.08267381856947366
+good_Playing cards,1918,-0.08267381856947366
+good_Playing cards,1919,-0.08267381856947366
+good_Playing cards,1920,-0.08267381856947366
+good_Playing cards,1921,-0.08267381856947366
+good_Playing cards,1922,-0.08267381856947366
 good_Playing cards,1923,-0.043397518814141715
+good_Playing cards,1924,-0.043397518814141715
+good_Playing cards,1925,-0.043397518814141715
 good_Playing cards,1926,-0.17914013151378771
+good_Playing cards,1927,-0.17914013151378771
 good_Playing cards,1928,-0.22587756490648656
+good_Playing cards,1929,-0.22587756490648656
+good_Playing cards,1930,-0.22587756490648656
 good_Playing cards,1931,-0.22736456060399018
+good_Playing cards,1932,-0.22736456060399018
+good_Playing cards,1933,-0.22736456060399018
+good_Playing cards,1934,-0.22736456060399018
+good_Playing cards,1935,-0.22736456060399018
 good_Playing cards,1936,-0.22736456060399018
 good_Playing cards,1937,-0.27219672636916786
 good_Playing cards,1938,-0.34608452461791217
 good_Playing cards,1939,-0.36780054577788407
+good_Playing cards,1940,-0.36780054577788407
+good_Playing cards,1941,-0.36780054577788407
+good_Playing cards,1942,-0.36780054577788407
 good_Playing cards,1943,-0.3895138603638411
 good_Playing cards,1944,-0.3291290342065264
 good_Playing cards,1945,-0.3295628221202937
@@ -8209,6 +8994,8 @@ good_Playing cards,1960,-0.28702442120284494
 good_Playing cards,1961,-0.3176780933505294
 good_Playing cards,1962,-0.33744059440931307
 good_Playing cards,1963,-0.3581908844586956
+good_Playing cards,1964,-0.3581908844586956
+good_Playing cards,1965,-0.3581908844586956
 good_Playing cards,1966,-0.17531206936110333
 good_Pliers,1901,-0.23597393272239117
 good_Pliers,1902,-0.28801206840269783
@@ -8216,6 +9003,7 @@ good_Pliers,1903,-0.3330671326271751
 good_Pliers,1904,-0.3037331180978524
 good_Pliers,1905,-0.4735980588236865
 good_Pliers,1906,-0.5709805593406364
+good_Pliers,1908,-0.5709805593406364
 good_Pliers,1909,-0.6033638586645678
 good_Pliers,1910,-0.6523120868739819
 good_Pliers,1911,-0.7345760400627392
@@ -8232,22 +9020,27 @@ good_Pliers,1921,0.011375578039643043
 good_Pliers,1922,-0.09567157940217808
 good_Pliers,1923,-0.09867720410976062
 good_Pliers,1924,0.10432032293722647
+good_Pliers,1925,0.10432032293722647
 good_Pliers,1926,0.24935291386771902
 good_Pliers,1927,0.2261092839144251
 good_Pliers,1928,0.11635026366557595
 good_Pliers,1929,0.03242202798649381
 good_Pliers,1930,0.030702253126954623
+good_Pliers,1931,0.030702253126954623
 good_Pliers,1932,-0.026231303570028546
 good_Pliers,1933,-0.30283742985069806
 good_Pliers,1934,-0.31280103346901295
+good_Pliers,1935,-0.31280103346901295
 good_Pliers,1936,-0.3150062235195387
 good_Pliers,1937,-0.3163264833750979
+good_Pliers,1938,-0.3163264833750979
 good_Pliers,1939,-0.3118027047442629
 good_Pliers,1940,-0.23898058786327528
 good_Pliers,1941,-0.19821048793090656
 good_Pliers,1942,-0.012158610520558888
 good_Pliers,1943,0.013093778498857539
 good_Pliers,1944,0.02552313417235242
+good_Pliers,1945,0.02552313417235242
 good_Pliers,1946,0.08582569887751804
 good_Pliers,1947,0.19396610021985405
 good_Pliers,1948,0.255010701210635
@@ -8280,8 +9073,17 @@ good_Pliers,1974,0.9387824415146901
 good_Pliers,1975,1.0491273112576367
 good_Pliers,1976,1.1571836889066418
 good_Pliers,1977,1.2354645779523952
+good_Pliers,1978,1.2354645779523952
+good_Pliers,1979,1.2354645779523952
 good_Pliers,1980,1.322659900958161
 good_Pliers,1981,1.4552314932485337
+good_Pliers,1982,1.4552314932485337
+good_Pliers,1983,1.4552314932485337
+good_Pliers,1984,1.4552314932485337
+good_Pliers,1985,1.4552314932485337
+good_Pliers,1986,1.4552314932485337
+good_Pliers,1987,1.4552314932485337
+good_Pliers,1988,1.4552314932485337
 good_Pliers,1989,1.457793395790557
 good_Pocket watches,1901,-0.01564193887341269
 good_Pocket watches,1902,-0.14852082105038905
@@ -8325,6 +9127,10 @@ good_Pocket watches,1940,-0.2939217312692376
 good_Pocket watches,1941,-0.23912549004219144
 good_Pocket watches,1942,-0.20074583817547687
 good_Pocket watches,1943,0.36074650896810245
+good_Pocket watches,1944,0.36074650896810245
+good_Pocket watches,1945,0.36074650896810245
+good_Pocket watches,1946,0.36074650896810245
+good_Pocket watches,1947,0.36074650896810245
 good_Pocket watches,1948,0.2305401902210574
 good_Pocket watches,1949,0.19365819860386335
 good_Pocket watches,1950,0.03238328213348604
@@ -8343,11 +9149,29 @@ good_Pocket watches,1962,-0.3166672554066167
 good_Pocket watches,1963,-0.003029313883008977
 good_Pocket watches,1964,-0.12752548677095776
 good_Pocket watches,1965,-0.35521330326924594
+good_Pocket watches,1966,-0.35521330326924594
 good_Pocket watches,1967,-0.4496644427044164
 good_Pocket watches,1968,-0.534763625726006
 good_Pocket watches,1969,-0.21247412430703982
+good_Pocket watches,1970,-0.21247412430703982
+good_Pocket watches,1971,-0.21247412430703982
+good_Pocket watches,1972,-0.21247412430703982
+good_Pocket watches,1973,-0.21247412430703982
 good_Pocket watches,1974,-0.11552483290608435
 good_Pocket watches,1975,0.033161254198866855
+good_Pocket watches,1976,0.033161254198866855
+good_Pocket watches,1977,0.033161254198866855
+good_Pocket watches,1978,0.033161254198866855
+good_Pocket watches,1979,0.033161254198866855
+good_Pocket watches,1980,0.033161254198866855
+good_Pocket watches,1981,0.033161254198866855
+good_Pocket watches,1982,0.033161254198866855
+good_Pocket watches,1983,0.033161254198866855
+good_Pocket watches,1984,0.033161254198866855
+good_Pocket watches,1985,0.033161254198866855
+good_Pocket watches,1986,0.033161254198866855
+good_Pocket watches,1987,0.033161254198866855
+good_Pocket watches,1988,0.033161254198866855
 good_Pocket watches,1989,-0.9255714411857267
 good_Protective gloves,1901,-0.04859387569745078
 good_Protective gloves,1902,-0.0663528999383905
@@ -8439,6 +9263,7 @@ good_Protective mittens,1902,-0.0875355499705093
 good_Protective mittens,1903,-0.12259508588641957
 good_Protective mittens,1904,-0.12922300362467268
 good_Protective mittens,1905,-0.1418307765129478
+good_Protective mittens,1906,-0.1418307765129478
 good_Protective mittens,1908,-0.24887366176881787
 good_Protective mittens,1909,-0.0954159106692278
 good_Protective mittens,1910,-0.04431552273387154
@@ -8466,23 +9291,53 @@ good_Protective mittens,1931,0.5371532329366662
 good_Protective mittens,1932,0.31852976840581254
 good_Protective mittens,1933,0.24111285753038617
 good_Protective mittens,1934,0.6417648522314244
+good_Protective mittens,1935,0.6417648522314243
+good_Protective mittens,1936,0.6417648522314243
 good_Protective mittens,1937,0.7296191460104772
 good_Protective mittens,1938,0.6053229931790282
+good_Protective mittens,1939,0.6053229931790282
 good_Protective mittens,1940,0.686471662487989
+good_Protective mittens,1941,0.686471662487989
+good_Protective mittens,1942,0.686471662487989
 good_Protective mittens,1943,0.7814729218251968
 good_Protective mittens,1944,1.2180463053080781
 good_Protective mittens,1945,1.223612361207498
+good_Protective mittens,1946,1.223612361207498
+good_Protective mittens,1947,1.223612361207498
+good_Protective mittens,1948,1.223612361207498
+good_Protective mittens,1949,1.223612361207498
 good_Protective mittens,1950,1.1112059274080075
+good_Protective mittens,1951,1.1112059274080075
+good_Protective mittens,1952,1.1112059274080075
+good_Protective mittens,1953,1.1112059274080075
 good_Protective mittens,1954,1.0508342555533179
+good_Protective mittens,1955,1.0508342555533179
+good_Protective mittens,1956,1.0508342555533179
+good_Protective mittens,1957,1.0508342555533179
 good_Protective mittens,1958,1.039064661017659
 good_Protective mittens,1959,1.039064661017659
+good_Protective mittens,1960,1.039064661017659
 good_Protective mittens,1961,1.2084923247385362
 good_Protective mittens,1962,1.1879577222968285
+good_Protective mittens,1963,1.1879577222968285
+good_Protective mittens,1964,1.1879577222968285
+good_Protective mittens,1965,1.1879577222968285
 good_Protective mittens,1966,1.4361188948951686
+good_Protective mittens,1967,1.4361188948951686
+good_Protective mittens,1968,1.4361188948951686
+good_Protective mittens,1969,1.4361188948951686
 good_Protective mittens,1970,1.4361188948951686
+good_Protective mittens,1971,1.4361188948951686
 good_Protective mittens,1972,1.4113393927487428
 good_Protective mittens,1973,1.5886989350517282
 good_Protective shirts,1901,-0.1677842811456667
+good_Protective shirts,1902,-0.1677842811456667
+good_Protective shirts,1903,-0.1677842811456667
+good_Protective shirts,1904,-0.1677842811456667
+good_Protective shirts,1905,-0.1677842811456667
+good_Protective shirts,1906,-0.1677842811456667
+good_Protective shirts,1908,-0.1677842811456667
+good_Protective shirts,1909,-0.1677842811456667
 good_Protective shirts,1910,0.47503716162004084
 good_Protective shirts,1911,0.21725426047931912
 good_Protective shirts,1912,0.2748214671869555
@@ -8494,6 +9349,8 @@ good_Protective shirts,1917,0.6909440141169594
 good_Protective shirts,1918,0.8710477960548035
 good_Protective shirts,1919,0.8948437328358072
 good_Protective shirts,1920,1.2492396641590477
+good_Protective shirts,1921,1.2492396641590477
+good_Protective shirts,1922,1.2492396641590477
 good_Protective shirts,1923,1.411471856650502
 good_Protective shirts,1924,1.6727359502928043
 good_Protective shirts,1925,1.1812990114402053
@@ -8511,6 +9368,14 @@ good_Protective shirts,1936,1.6939128198387365
 good_Protective shirts,1937,1.889196246453845
 good_Protective shirts,1938,1.5013799577500473
 good_Protective shirts,1939,1.5903100651998263
+good_Protective shirts,1940,1.5903100651998263
+good_Protective shirts,1941,1.5903100651998263
+good_Protective shirts,1942,1.5903100651998263
+good_Protective shirts,1943,1.5903100651998263
+good_Protective shirts,1944,1.5903100651998263
+good_Protective shirts,1945,1.5903100651998263
+good_Protective shirts,1946,1.5903100651998263
+good_Protective shirts,1947,1.5903100651998263
 good_Protective shirts,1948,1.7430401186637998
 good_Protective shirts,1949,1.7781149484642627
 good_Protective shirts,1950,1.6249367070840341
@@ -8564,6 +9429,7 @@ good_Radios,1930,-0.8249736251428857
 good_Radios,1931,-1.004136615628141
 good_Radios,1932,-1.2257017484184118
 good_Radios,1933,-1.4359980001057269
+good_Radios,1934,-1.4359980001057269
 good_Radios,1935,-1.6172801304196298
 good_Radios,1936,-1.6868868653754305
 good_Radios,1937,-1.7312104349508055
@@ -8572,6 +9438,11 @@ good_Radios,1939,-1.9680594870256272
 good_Radios,1940,-1.8673436100015939
 good_Radios,1941,-1.9108764381875376
 good_Radios,1942,-1.729147908569321
+good_Radios,1943,-1.729147908569321
+good_Radios,1944,-1.729147908569321
+good_Radios,1945,-1.729147908569321
+good_Radios,1946,-1.729147908569321
+good_Radios,1947,-1.729147908569321
 good_Radios,1948,-1.6667630458829479
 good_Radios,1949,-1.8523336568077524
 good_Radios,1950,-1.94657510300431
@@ -8612,8 +9483,10 @@ good_Radios,1984,-3.43573883831251
 good_Radios,1985,-3.554374809569534
 good_Radios,1986,-3.63146145028171
 good_Radios,1987,-3.5068337270566854
+good_Radios,1988,-3.5068337270566854
 good_Radios,1989,-3.317100838278915
 good_Radios,1990,-3.3456305037795873
+good_Radios,1991,-3.3456305037795873
 good_Radios,1992,-3.5040125842981076
 good_Rings,1901,-0.054372050006277685
 good_Rings,1902,-0.11641705166726819
@@ -8689,6 +9562,9 @@ good_Rings,1972,-3.0503759352473954
 good_Rings,1973,-2.884480588257967
 good_Rings,1974,-2.619290935342037
 good_Rings,1975,-2.7048602893992473
+good_Rings,1976,-2.7048602893992473
+good_Rings,1977,-2.7048602893992473
+good_Rings,1978,-2.7048602893992473
 good_Rings,1979,-2.801904942265009
 good_Rings,1980,-2.3205280677500304
 good_Rings,1981,-2.4651793660991883
@@ -8795,17 +9671,40 @@ good_Roll up shades,1992,1.249874732988664
 good_Roller skates or roller blades,1912,-0.11131759894077041
 good_Roller skates or roller blades,1913,-0.1428979480622259
 good_Roller skates or roller blades,1914,-0.1507095272789771
+good_Roller skates or roller blades,1915,-0.1507095272789771
 good_Roller skates or roller blades,1916,-0.2906016847934401
+good_Roller skates or roller blades,1917,-0.2906016847934401
 good_Roller skates or roller blades,1918,0.05492231209892556
 good_Roller skates or roller blades,1919,0.1318153327383027
+good_Roller skates or roller blades,1920,0.1318153327383027
 good_Roller skates or roller blades,1921,0.22177035206744325
 good_Roller skates or roller blades,1922,0.03103886538824202
 good_Roller skates or roller blades,1923,0.036297920960309385
+good_Roller skates or roller blades,1924,0.036297920960309385
+good_Roller skates or roller blades,1925,0.036297920960309385
+good_Roller skates or roller blades,1926,0.036297920960309385
+good_Roller skates or roller blades,1927,0.036297920960309385
+good_Roller skates or roller blades,1928,0.036297920960309385
 good_Roller skates or roller blades,1929,0.11976234008393381
 good_Roller skates or roller blades,1930,0.15738691637215463
 good_Roller skates or roller blades,1931,0.17394568081229053
+good_Roller skates or roller blades,1932,0.17394568081229053
 good_Roller skates or roller blades,1933,0.21834309872842053
+good_Roller skates or roller blades,1934,0.21834309872842053
+good_Roller skates or roller blades,1935,0.21834309872842053
+good_Roller skates or roller blades,1936,0.21834309872842053
+good_Roller skates or roller blades,1937,0.21834309872842053
+good_Roller skates or roller blades,1938,0.21834309872842053
+good_Roller skates or roller blades,1939,0.21834309872842053
+good_Roller skates or roller blades,1940,0.21834309872842053
 good_Roller skates or roller blades,1941,0.31848746509699477
+good_Roller skates or roller blades,1942,0.31848746509699477
+good_Roller skates or roller blades,1943,0.31848746509699477
+good_Roller skates or roller blades,1944,0.31848746509699477
+good_Roller skates or roller blades,1945,0.31848746509699477
+good_Roller skates or roller blades,1946,0.31848746509699477
+good_Roller skates or roller blades,1947,0.31848746509699477
+good_Roller skates or roller blades,1948,0.31848746509699477
 good_Roller skates or roller blades,1949,0.22199628894174234
 good_Roller skates or roller blades,1950,0.20899568083455583
 good_Roller skates or roller blades,1951,0.28079079662301143
@@ -8814,11 +9713,14 @@ good_Roller skates or roller blades,1953,0.2823658634628171
 good_Roller skates or roller blades,1954,0.2885812756966733
 good_Roller skates or roller blades,1955,0.2586001905255553
 good_Roller skates or roller blades,1956,0.2736480333895691
+good_Roller skates or roller blades,1957,0.2736480333895691
 good_Roller skates or roller blades,1958,0.28356413381997253
 good_Roller skates or roller blades,1959,0.2865332043366634
+good_Roller skates or roller blades,1960,0.2865332043366634
 good_Roller skates or roller blades,1961,0.2571751105758476
 good_Roller skates or roller blades,1962,0.27799620331026564
 good_Roller skates or roller blades,1963,0.2609203673343904
+good_Roller skates or roller blades,1964,0.2609203673343904
 good_Roller skates or roller blades,1965,0.2917632666611031
 good_Roller skates or roller blades,1966,0.3064526091910517
 good_Roller skates or roller blades,1967,0.3278717142085915
@@ -8841,9 +9743,11 @@ good_Roller skates or roller blades,1983,1.0937398495745252
 good_Roller skates or roller blades,1984,1.0729739943215608
 good_Roller skates or roller blades,1985,1.124286557445842
 good_Roller skates or roller blades,1986,1.0482787545891936
+good_Roller skates or roller blades,1987,1.0482787545891936
 good_Roller skates or roller blades,1988,1.1583120005606424
 good_Roller skates or roller blades,1989,1.1425436662467103
 good_Roller skates or roller blades,1990,1.2535444680775076
+good_Roller skates or roller blades,1991,1.2535444680775076
 good_Roller skates or roller blades,1992,1.1845074525899513
 good_Rugs,1901,0.09404649769174725
 good_Rugs,1902,0.07297721782987812
@@ -9021,6 +9925,8 @@ good_Saws,1983,2.1931932004134844
 good_Saws,1984,2.2325484145880248
 good_Saws,1985,2.1932994389484377
 good_Saws,1986,2.3641972601266055
+good_Saws,1987,2.3641972601266055
+good_Saws,1988,2.3641972601266055
 good_Saws,1989,2.4183747292718274
 good_Saws,1990,2.292046965242769
 good_Saws,1991,2.3761690732310536
@@ -9031,6 +9937,8 @@ good_Scissors,1903,0.01960549194933227
 good_Scissors,1904,0.05113669646239824
 good_Scissors,1905,0.04865637824571773
 good_Scissors,1906,-0.04474075837854299
+good_Scissors,1908,-0.04474075837854299
+good_Scissors,1909,-0.04474075837854299
 good_Scissors,1910,-0.1407413397721731
 good_Scissors,1911,-0.12386149976226991
 good_Scissors,1912,-0.12896538139336694
@@ -9058,10 +9966,19 @@ good_Scissors,1933,-0.5353047361533836
 good_Scissors,1934,-0.47011559869369735
 good_Scissors,1935,-0.46357464859462594
 good_Scissors,1936,-0.44806467779535303
+good_Scissors,1937,-0.44806467779535303
+good_Scissors,1938,-0.44806467779535303
 good_Scissors,1939,-0.40912528993777875
 good_Scissors,1940,-0.429040661774167
 good_Scissors,1941,-0.40039384543925316
 good_Scissors,1942,-0.3846061961976881
+good_Scissors,1943,-0.3846061961976881
+good_Scissors,1944,-0.3846061961976881
+good_Scissors,1945,-0.3846061961976881
+good_Scissors,1946,-0.3846061961976881
+good_Scissors,1947,-0.3846061961976881
+good_Scissors,1948,-0.3846061961976881
+good_Scissors,1949,-0.3846061961976881
 good_Scissors,1950,-0.4305346481112251
 good_Scissors,1951,-0.3127222964413602
 good_Scissors,1952,-0.25323606988551384
@@ -9073,8 +9990,10 @@ good_Scissors,1957,-0.23041612940609715
 good_Scissors,1958,-0.277838412600137
 good_Scissors,1959,-0.28594148390167007
 good_Scissors,1960,-0.19968582251984357
+good_Scissors,1961,-0.19968582251984357
 good_Scissors,1962,-0.21758918975754857
 good_Scissors,1963,-0.19950097445003387
+good_Scissors,1964,-0.19950097445003387
 good_Scissors,1965,-0.1805590526016502
 good_Scissors,1966,-0.09488043994285406
 good_Scissors,1967,0.05439525030155962
@@ -9112,8 +10031,10 @@ good_Screwdrivers,1927,0.8150756687428341
 good_Screwdrivers,1928,0.653698294298088
 good_Screwdrivers,1929,0.9789912030214862
 good_Screwdrivers,1930,0.6048945305980196
+good_Screwdrivers,1931,0.6048945305980196
 good_Screwdrivers,1932,0.5818382349652006
 good_Screwdrivers,1933,0.5775225060613884
+good_Screwdrivers,1934,0.5775225060613884
 good_Screwdrivers,1935,0.48562618432275606
 good_Screwdrivers,1936,0.3470655754529252
 good_Screwdrivers,1937,0.2596141512464845
@@ -9124,6 +10045,7 @@ good_Screwdrivers,1941,0.4020838935504082
 good_Screwdrivers,1942,0.5303228165749866
 good_Screwdrivers,1943,0.587288969249969
 good_Screwdrivers,1944,0.677736640679563
+good_Screwdrivers,1945,0.677736640679563
 good_Screwdrivers,1946,0.8180777355670915
 good_Screwdrivers,1947,0.7282602322871826
 good_Screwdrivers,1948,0.9729797620201728
@@ -9160,33 +10082,73 @@ good_Screwdrivers,1978,2.7957320883230787
 good_Screwdrivers,1979,3.1266339042787736
 good_Screwdrivers,1980,3.191725633664311
 good_Screwdrivers,1981,3.223413776380599
+good_Screwdrivers,1982,3.223413776380599
 good_Screwdrivers,1983,2.93482130771287
 good_Screwdrivers,1984,2.7819160274404413
 good_Screwdrivers,1985,2.9644247711963367
+good_Screwdrivers,1986,2.9644247711963367
+good_Screwdrivers,1987,2.9644247711963367
+good_Screwdrivers,1988,2.9644247711963367
 good_Screwdrivers,1989,2.801072143619681
 good_Screwdrivers,1990,3.1363800173129874
+good_Screwdrivers,1991,3.1363800173129874
 good_Screwdrivers,1992,3.262055413868038
 good_Seat cushions or bolsters,1906,0.011332868530700327
+good_Seat cushions or bolsters,1908,0.011332868530700327
 good_Seat cushions or bolsters,1909,-0.05240360611485366
 good_Seat cushions or bolsters,1910,-0.05240360611485366
+good_Seat cushions or bolsters,1911,-0.05240360611485366
+good_Seat cushions or bolsters,1912,-0.05240360611485366
+good_Seat cushions or bolsters,1913,-0.05240360611485366
+good_Seat cushions or bolsters,1914,-0.05240360611485366
+good_Seat cushions or bolsters,1915,-0.05240360611485366
+good_Seat cushions or bolsters,1916,-0.05240360611485366
 good_Seat cushions or bolsters,1917,-0.04991919902198887
+good_Seat cushions or bolsters,1918,-0.04991919902198887
+good_Seat cushions or bolsters,1919,-0.04991919902198887
+good_Seat cushions or bolsters,1920,-0.04991919902198887
+good_Seat cushions or bolsters,1921,-0.04991919902198887
 good_Seat cushions or bolsters,1922,-0.11566040759109583
 good_Seat cushions or bolsters,1923,-0.07294154400831311
 good_Seat cushions or bolsters,1924,-0.002612715559012116
 good_Seat cushions or bolsters,1925,-0.016822107258926813
 good_Seat cushions or bolsters,1926,-0.017706406582539396
 good_Seat cushions or bolsters,1927,-0.21999985979378933
+good_Seat cushions or bolsters,1928,-0.21999985979378933
 good_Seat cushions or bolsters,1929,-0.21785023646659615
 good_Seat cushions or bolsters,1930,-0.10804108315475688
 good_Seat cushions or bolsters,1931,-0.061900725404951666
+good_Seat cushions or bolsters,1932,-0.061900725404951666
 good_Seat cushions or bolsters,1933,-0.20937625321218356
+good_Seat cushions or bolsters,1934,-0.20937625321218356
+good_Seat cushions or bolsters,1935,-0.20937625321218356
+good_Seat cushions or bolsters,1936,-0.20937625321218356
+good_Seat cushions or bolsters,1937,-0.20937625321218356
+good_Seat cushions or bolsters,1938,-0.20937625321218356
+good_Seat cushions or bolsters,1939,-0.20937625321218356
+good_Seat cushions or bolsters,1940,-0.20937625321218356
+good_Seat cushions or bolsters,1941,-0.20937625321218356
+good_Seat cushions or bolsters,1942,-0.20937625321218356
+good_Seat cushions or bolsters,1943,-0.20937625321218356
+good_Seat cushions or bolsters,1944,-0.20937625321218356
+good_Seat cushions or bolsters,1945,-0.20937625321218356
+good_Seat cushions or bolsters,1946,-0.20937625321218356
 good_Seat cushions or bolsters,1947,-0.07403490534242127
+good_Seat cushions or bolsters,1948,-0.07403490534242127
+good_Seat cushions or bolsters,1949,-0.07403490534242127
+good_Seat cushions or bolsters,1950,-0.07403490534242127
+good_Seat cushions or bolsters,1951,-0.07403490534242127
+good_Seat cushions or bolsters,1952,-0.07403490534242127
 good_Seat cushions or bolsters,1953,-0.07403490534242127
 good_Seat cushions or bolsters,1954,-0.07660818315980024
 good_Seat cushions or bolsters,1955,-0.04713634356586363
+good_Seat cushions or bolsters,1956,-0.04713634356586363
 good_Seat cushions or bolsters,1957,-0.10637227748003072
 good_Seat cushions or bolsters,1958,-0.08057991539599516
+good_Seat cushions or bolsters,1959,-0.08057991539599516
 good_Seat cushions or bolsters,1960,-0.10205001607790692
+good_Seat cushions or bolsters,1961,-0.10205001607790692
+good_Seat cushions or bolsters,1962,-0.10205001607790692
 good_Seat cushions or bolsters,1963,-0.13864094071118915
 good_Seat cushions or bolsters,1964,-0.11460139762690957
 good_Seat cushions or bolsters,1965,-0.11090468051657466
@@ -9214,6 +10176,7 @@ good_Seat cushions or bolsters,1986,0.9477471293500422
 good_Seat cushions or bolsters,1987,0.9477471293500422
 good_Seat cushions or bolsters,1988,0.8336547984943545
 good_Seat cushions or bolsters,1989,0.8565718234188704
+good_Seat cushions or bolsters,1990,0.8565718234188704
 good_Seat cushions or bolsters,1991,0.8565718234188704
 good_Sheets,1901,-0.018407487254452414
 good_Sheets,1902,-0.42440471971265875
@@ -9221,6 +10184,7 @@ good_Sheets,1903,-0.24736545203326832
 good_Sheets,1904,-0.3067214569325634
 good_Sheets,1905,-0.2525840644619485
 good_Sheets,1906,-0.18758869901839725
+good_Sheets,1908,-0.18758869901839725
 good_Sheets,1909,-0.4316540316357775
 good_Sheets,1910,-0.30608673562807154
 good_Sheets,1911,-0.2685903523350178
@@ -9256,6 +10220,10 @@ good_Sheets,1940,-0.9840996875201584
 good_Sheets,1941,-0.9766600121555749
 good_Sheets,1942,-0.5477001403578674
 good_Sheets,1943,-0.6851462179829442
+good_Sheets,1944,-0.6851462179829442
+good_Sheets,1945,-0.6851462179829442
+good_Sheets,1946,-0.6851462179829442
+good_Sheets,1947,-0.6851462179829442
 good_Sheets,1948,-0.7611179237431818
 good_Sheets,1949,-0.6690617327273408
 good_Sheets,1950,-0.8847534112947296
@@ -9305,6 +10273,7 @@ good_Shutters,1954,-0.18450317352610462
 good_Shutters,1955,0.13183117528093213
 good_Shutters,1956,0.18626933793198608
 good_Shutters,1957,0.2669874547779644
+good_Shutters,1958,0.2669874547779644
 good_Shutters,1959,0.3128463888375322
 good_Shutters,1960,0.46377128801995937
 good_Shutters,1961,0.038121702186050155
@@ -9312,6 +10281,7 @@ good_Shutters,1962,0.13826748418488444
 good_Shutters,1963,0.06422271490671072
 good_Shutters,1964,0.3482569093639717
 good_Shutters,1965,0.4489333338717533
+good_Shutters,1966,0.4489333338717533
 good_Shutters,1967,0.4406869902609598
 good_Shutters,1968,0.214097528210539
 good_Shutters,1969,0.4887864218178226
@@ -9332,13 +10302,19 @@ good_Shutters,1983,1.5191814917706465
 good_Shutters,1984,1.2611629149020478
 good_Shutters,1985,1.3680072999509656
 good_Shutters,1986,1.448457325600989
+good_Shutters,1987,1.448457325600989
 good_Shutters,1988,1.6224029339453856
 good_Shutters,1989,1.7438875638812272
 good_Shutters,1990,1.9554870302355356
 good_Shutters,1991,1.8004207144442252
 good_Shutters,1992,1.8532292891877704
 good_Slip covers,1902,0.057643317446996446
+good_Slip covers,1903,0.057643317446996446
+good_Slip covers,1904,0.057643317446996446
 good_Slip covers,1905,0.33265343951487836
+good_Slip covers,1906,0.33265343951487836
+good_Slip covers,1908,0.33265343951487836
+good_Slip covers,1909,0.33265343951487836
 good_Slip covers,1910,0.43367338314564574
 good_Slip covers,1911,-0.0885933952528758
 good_Slip covers,1912,0.03942299018188644
@@ -9351,8 +10327,17 @@ good_Slip covers,1918,0.5754260805054905
 good_Slip covers,1919,1.0770021591768977
 good_Slip covers,1920,1.4569946332165702
 good_Slip covers,1921,1.0091383058691719
+good_Slip covers,1922,1.0091383058691719
+good_Slip covers,1923,1.0091383058691719
 good_Slip covers,1924,1.0827757332931338
+good_Slip covers,1925,1.0827757332931338
+good_Slip covers,1926,1.0827757332931338
 good_Slip covers,1927,0.8914583283270241
+good_Slip covers,1928,0.8914583283270241
+good_Slip covers,1929,0.8914583283270241
+good_Slip covers,1930,0.8914583283270241
+good_Slip covers,1931,0.8914583283270241
+good_Slip covers,1932,0.8914583283270241
 good_Slip covers,1933,0.9134363146705692
 good_Slip covers,1934,1.1949460403251397
 good_Slip covers,1935,1.0495906844177927
@@ -9365,6 +10350,8 @@ good_Slip covers,1941,1.2158033073585677
 good_Slip covers,1942,1.5558641638663988
 good_Slip covers,1943,1.7582755876595466
 good_Slip covers,1944,1.8767642719177342
+good_Slip covers,1945,1.8767642719177342
+good_Slip covers,1946,1.8767642719177342
 good_Slip covers,1947,1.8610203429453098
 good_Slip covers,1948,1.8630279527367948
 good_Slip covers,1949,1.860683582515451
@@ -9417,6 +10404,7 @@ good_Slips,1903,-0.28217041011618466
 good_Slips,1904,-0.22414577633757413
 good_Slips,1905,-0.3965870417364079
 good_Slips,1906,-0.30664987852344966
+good_Slips,1908,-0.30664987852344966
 good_Slips,1909,-0.47267016525475847
 good_Slips,1910,-0.5841663005633895
 good_Slips,1911,-0.5621263283959099
@@ -9453,6 +10441,8 @@ good_Slips,1941,-1.6958232727712723
 good_Slips,1942,-1.502136914028811
 good_Slips,1943,-1.3646013141562707
 good_Slips,1944,-1.174506307664986
+good_Slips,1945,-1.174506307664986
+good_Slips,1946,-1.174506307664986
 good_Slips,1947,-0.936862150916016
 good_Slips,1948,-0.7696671471680129
 good_Slips,1949,-1.0147814500263317
@@ -9632,6 +10622,9 @@ good_Sofas,1940,-0.8137686518106261
 good_Sofas,1941,-0.7386411237993361
 good_Sofas,1942,-0.5327663801383051
 good_Sofas,1943,-0.5510217432617089
+good_Sofas,1944,-0.5510217432617089
+good_Sofas,1945,-0.5510217432617089
+good_Sofas,1946,-0.5510217432617089
 good_Sofas,1947,-0.9376063448914214
 good_Sofas,1948,-0.30179587857640455
 good_Sofas,1949,-1.1812434903131317
@@ -9666,6 +10659,9 @@ good_Sofas,1977,-0.20198432628213353
 good_Sofas,1978,0.020296193198034718
 good_Sofas,1979,0.10386280220271658
 good_Sofas,1980,0.20513532348696434
+good_Sofas,1981,0.20513532348696434
+good_Sofas,1982,0.20513532348696434
+good_Sofas,1983,0.20513532348696434
 good_Sofas,1984,0.10399912687279877
 good_Sofas,1985,0.2260791773551556
 good_Sofas,1986,0.26123033042383
@@ -9715,6 +10711,14 @@ good_Sporting rifles,1938,0.266613668658753
 good_Sporting rifles,1939,0.1742425899493158
 good_Sporting rifles,1940,0.24191943394386395
 good_Sporting rifles,1941,0.35747230171854627
+good_Sporting rifles,1942,0.35747230171854627
+good_Sporting rifles,1943,0.35747230171854627
+good_Sporting rifles,1944,0.35747230171854627
+good_Sporting rifles,1945,0.35747230171854627
+good_Sporting rifles,1946,0.35747230171854627
+good_Sporting rifles,1947,0.35747230171854627
+good_Sporting rifles,1948,0.35747230171854627
+good_Sporting rifles,1949,0.35747230171854627
 good_Sporting rifles,1950,0.3512797490831092
 good_Sporting rifles,1951,0.4489264928862135
 good_Sporting rifles,1952,0.45602655735847974
@@ -9734,6 +10738,8 @@ good_Sporting rifles,1965,0.5146006774939403
 good_Sporting rifles,1966,0.5572549524413563
 good_Sporting rifles,1967,0.6214192692991857
 good_Sporting rifles,1968,0.6361371959114005
+good_Sporting rifles,1969,0.6361371959114005
+good_Sporting rifles,1970,0.6361371959114005
 good_Sporting rifles,1971,0.7161391799513835
 good_Sporting rifles,1972,0.6219551064018992
 good_Sporting rifles,1973,0.6698980301447427
@@ -9743,6 +10749,8 @@ good_Sporting rifles,1976,0.8334749098134345
 good_Sporting rifles,1977,0.8105658894289552
 good_Sporting rifles,1978,0.7483697086117551
 good_Sporting rifles,1979,0.8780241653473444
+good_Sporting rifles,1980,0.8780241653473444
+good_Sporting rifles,1981,0.8780241653473444
 good_Sporting rifles,1982,0.9040666056719834
 good_Sporting rifles,1983,0.8895440500540805
 good_Sporting shotguns,1901,-0.06614776011406899
@@ -9785,18 +10793,25 @@ good_Sporting shotguns,1938,-0.10712871793949716
 good_Sporting shotguns,1939,-0.14659252035671907
 good_Sporting shotguns,1940,-0.0784184318504276
 good_Sporting shotguns,1941,0.04640026227696582
+good_Sporting shotguns,1942,0.04640026227696582
+good_Sporting shotguns,1943,0.04640026227696582
+good_Sporting shotguns,1944,0.04640026227696582
+good_Sporting shotguns,1945,0.04640026227696582
+good_Sporting shotguns,1946,0.04640026227696582
 good_Sporting shotguns,1947,0.2943738591636212
+good_Sporting shotguns,1948,0.29437385916362113
+good_Sporting shotguns,1949,0.29437385916362113
 good_Sporting shotguns,1950,0.6250248989707763
-good_Sporting shotguns,1951,0.7946548976366226
-good_Sporting shotguns,1952,0.7568542222118759
-good_Sporting shotguns,1953,0.7955100579030632
-good_Sporting shotguns,1954,0.8061053116683604
-good_Sporting shotguns,1955,0.8321461637277144
-good_Sporting shotguns,1956,0.8608584893511041
-good_Sporting shotguns,1957,0.8866306544232372
+good_Sporting shotguns,1951,0.7946548976366224
+good_Sporting shotguns,1952,0.7568542222118758
+good_Sporting shotguns,1953,0.7955100579030631
+good_Sporting shotguns,1954,0.8061053116683603
+good_Sporting shotguns,1955,0.8321461637277143
+good_Sporting shotguns,1956,0.860858489351104
+good_Sporting shotguns,1957,0.8866306544232371
 good_Sporting shotguns,1958,0.9265303667724645
 good_Sporting shotguns,1959,0.8729199120958564
-good_Sporting shotguns,1960,0.9047797243456943
+good_Sporting shotguns,1960,0.9047797243456942
 good_Sporting shotguns,1961,0.9108223277127029
 good_Sporting shotguns,1962,0.978373504083285
 good_Sporting shotguns,1963,0.9802761583434579
@@ -9805,11 +10820,19 @@ good_Sporting shotguns,1965,1.0106352508624268
 good_Sporting shotguns,1966,1.0183108130838934
 good_Sporting shotguns,1967,1.060956574427049
 good_Sporting shotguns,1968,1.1260133623056818
+good_Sporting shotguns,1969,1.1260133623056818
+good_Sporting shotguns,1970,1.1260133623056818
 good_Sporting shotguns,1971,1.148128595034559
-good_Sporting shotguns,1972,1.1674571191094325
+good_Sporting shotguns,1972,1.1674571191094323
 good_Sporting shotguns,1973,1.1707669332658024
 good_Sporting shotguns,1974,1.3434237873402943
+good_Sporting shotguns,1975,1.3434237873402943
+good_Sporting shotguns,1976,1.3434237873402943
+good_Sporting shotguns,1977,1.3434237873402943
+good_Sporting shotguns,1978,1.3434237873402943
 good_Sporting shotguns,1979,1.5157761631581583
+good_Sporting shotguns,1980,1.5157761631581583
+good_Sporting shotguns,1981,1.5157761631581583
 good_Sporting shotguns,1982,1.5601048369324104
 good_Sporting shotguns,1983,1.4031077986407807
 good_Stockings,1901,-0.0747085203096341
@@ -9906,9 +10929,13 @@ good_Stockings,1992,2.2286291988139575
 good_Stool seatings,1901,0.11813421885190778
 good_Stool seatings,1902,0.11694234397763227
 good_Stool seatings,1903,0.14918986099948944
+good_Stool seatings,1904,0.14918986099948944
+good_Stool seatings,1905,0.14918986099948944
 good_Stool seatings,1906,0.06629030881660149
+good_Stool seatings,1908,0.06629030881660149
 good_Stool seatings,1909,-0.037104168971681256
 good_Stool seatings,1910,-0.24352456059058633
+good_Stool seatings,1911,-0.24352456059058633
 good_Stool seatings,1912,-0.4928357551545062
 good_Stool seatings,1913,-0.5737343321696841
 good_Stool seatings,1914,-0.3915382895749578
@@ -9919,6 +10946,8 @@ good_Stool seatings,1918,-0.056244259258178136
 good_Stool seatings,1919,0.11282275172784514
 good_Stool seatings,1920,0.30366703009788054
 good_Stool seatings,1921,0.3707839782689963
+good_Stool seatings,1922,0.3707839782689963
+good_Stool seatings,1923,0.3707839782689963
 good_Stool seatings,1924,0.29859182807274787
 good_Stool seatings,1925,0.2484697156766395
 good_Stool seatings,1926,0.2000252098373988
@@ -9940,6 +10969,7 @@ good_Stool seatings,1941,0.31743401062229837
 good_Stool seatings,1942,0.4242274987000943
 good_Stool seatings,1943,0.5006753137772703
 good_Stool seatings,1944,0.615382142312051
+good_Stool seatings,1945,0.615382142312051
 good_Stool seatings,1946,0.7226115293036109
 good_Stool seatings,1947,0.9019448186274496
 good_Stool seatings,1948,1.0153652134686624
@@ -9988,6 +11018,12 @@ good_Stool seatings,1990,2.6733926657266536
 good_Stool seatings,1991,2.6268236193914682
 good_Stool seatings,1992,2.72743571891483
 good_Storage cabinets,1902,0.04625041533387766
+good_Storage cabinets,1903,0.04625041533387766
+good_Storage cabinets,1904,0.04625041533387766
+good_Storage cabinets,1905,0.04625041533387766
+good_Storage cabinets,1906,0.04625041533387766
+good_Storage cabinets,1908,0.04625041533387766
+good_Storage cabinets,1909,0.04625041533387766
 good_Storage cabinets,1910,0.23340087365149645
 good_Storage cabinets,1911,0.44671994710657786
 good_Storage cabinets,1912,-0.028454122311003582
@@ -10000,12 +11036,17 @@ good_Storage cabinets,1918,0.24864670261435812
 good_Storage cabinets,1919,0.6518520846519535
 good_Storage cabinets,1920,0.9451874040321177
 good_Storage cabinets,1921,0.5564185558918695
+good_Storage cabinets,1922,0.5564185558918695
 good_Storage cabinets,1923,0.9052320776542748
+good_Storage cabinets,1924,0.9052320776542748
+good_Storage cabinets,1925,0.9052320776542748
+good_Storage cabinets,1926,0.9052320776542748
 good_Storage cabinets,1927,0.36374133639751094
 good_Storage cabinets,1928,0.4793351049433967
 good_Storage cabinets,1929,0.5480752142207947
 good_Storage cabinets,1930,0.42348170250626416
 good_Storage cabinets,1931,0.17239008173151638
+good_Storage cabinets,1932,0.17239008173151638
 good_Storage cabinets,1933,-0.03476656173219825
 good_Storage cabinets,1934,0.29184843012819806
 good_Storage cabinets,1935,0.06915489098608785
@@ -10158,6 +11199,7 @@ good_Table cloths,1990,0.2316457689386616
 good_Table cloths,1991,0.24881465212357526
 good_Table cloths,1992,0.38913772247511186
 good_Table lamp fixtures,1901,0.23759188523171934
+good_Table lamp fixtures,1902,0.23759188523171934
 good_Table lamp fixtures,1903,0.012684121641660023
 good_Table lamp fixtures,1904,0.011239064083556273
 good_Table lamp fixtures,1905,0.2969969065196679
@@ -10200,6 +11242,7 @@ good_Table lamp fixtures,1942,-1.0362945484450972
 good_Table lamp fixtures,1943,-1.1705014996767893
 good_Table lamp fixtures,1944,-0.5742213359457994
 good_Table lamp fixtures,1945,-0.6574722423126589
+good_Table lamp fixtures,1946,-0.6574722423126589
 good_Table lamp fixtures,1947,-0.44701935809713556
 good_Table lamp fixtures,1948,-0.7352022888856546
 good_Table lamp fixtures,1949,-0.6762839319855801
@@ -10417,6 +11460,7 @@ good_Ties or scarves or mufflers,1939,-0.921852846456589
 good_Ties or scarves or mufflers,1940,-0.8842750296456473
 good_Ties or scarves or mufflers,1941,-0.8860466390434051
 good_Ties or scarves or mufflers,1942,-0.5662034543177383
+good_Ties or scarves or mufflers,1943,-0.5662034543177383
 good_Ties or scarves or mufflers,1944,-0.21492764467191433
 good_Ties or scarves or mufflers,1945,-0.3237154286346808
 good_Ties or scarves or mufflers,1946,-0.32842339645153723
@@ -10434,11 +11478,21 @@ good_Ties or scarves or mufflers,1957,-0.6147443914944586
 good_Ties or scarves or mufflers,1958,-0.6266561894903453
 good_Ties or scarves or mufflers,1959,-0.5948507831790889
 good_Ties or scarves or mufflers,1960,-0.44184668290948237
+good_Ties or scarves or mufflers,1961,-0.44184668290948237
+good_Ties or scarves or mufflers,1962,-0.44184668290948237
 good_Ties or scarves or mufflers,1963,-0.36916657839562744
 good_Ties or scarves or mufflers,1964,-0.41533438977397047
 good_Ties or scarves or mufflers,1965,-0.3970816563904203
+good_Ties or scarves or mufflers,1966,-0.3970816563904203
+good_Ties or scarves or mufflers,1967,-0.3970816563904203
+good_Ties or scarves or mufflers,1968,-0.3970816563904203
+good_Ties or scarves or mufflers,1969,-0.3970816563904203
 good_Ties or scarves or mufflers,1970,-0.273487458588739
 good_Ties or scarves or mufflers,1971,-0.3032016813449153
+good_Ties or scarves or mufflers,1972,-0.3032016813449153
+good_Ties or scarves or mufflers,1973,-0.3032016813449153
+good_Ties or scarves or mufflers,1974,-0.3032016813449153
+good_Ties or scarves or mufflers,1975,-0.3032016813449153
 good_Ties or scarves or mufflers,1976,-0.18650536598390371
 good_Ties or scarves or mufflers,1977,-0.10743931870591343
 good_Ties or scarves or mufflers,1978,-0.0004252949421789942
@@ -10447,9 +11501,62 @@ good_Ties or scarves or mufflers,1980,0.271357410081065
 good_Tights,1901,-0.005263995230338171
 good_Tights,1902,-0.012485307116487687
 good_Tights,1903,-0.10364714665463315
+good_Tights,1904,-0.10364714665463315
 good_Tights,1905,-0.0717694964668889
+good_Tights,1906,-0.0717694964668889
+good_Tights,1908,-0.0717694964668889
+good_Tights,1909,-0.0717694964668889
+good_Tights,1910,-0.0717694964668889
+good_Tights,1911,-0.0717694964668889
+good_Tights,1912,-0.0717694964668889
 good_Tights,1913,0.020945051316200114
 good_Tights,1914,0.020945051316200114
+good_Tights,1915,0.020945051316200114
+good_Tights,1916,0.020945051316200114
+good_Tights,1917,0.020945051316200114
+good_Tights,1918,0.020945051316200114
+good_Tights,1919,0.020945051316200114
+good_Tights,1920,0.020945051316200114
+good_Tights,1921,0.020945051316200114
+good_Tights,1922,0.020945051316200114
+good_Tights,1923,0.020945051316200114
+good_Tights,1924,0.020945051316200114
+good_Tights,1925,0.020945051316200114
+good_Tights,1926,0.020945051316200114
+good_Tights,1927,0.020945051316200114
+good_Tights,1928,0.020945051316200114
+good_Tights,1929,0.020945051316200114
+good_Tights,1930,0.020945051316200114
+good_Tights,1931,0.020945051316200114
+good_Tights,1932,0.020945051316200114
+good_Tights,1933,0.020945051316200114
+good_Tights,1934,0.020945051316200114
+good_Tights,1935,0.020945051316200114
+good_Tights,1936,0.020945051316200114
+good_Tights,1937,0.020945051316200114
+good_Tights,1938,0.020945051316200114
+good_Tights,1939,0.020945051316200114
+good_Tights,1940,0.020945051316200114
+good_Tights,1941,0.020945051316200114
+good_Tights,1942,0.020945051316200114
+good_Tights,1943,0.020945051316200114
+good_Tights,1944,0.020945051316200114
+good_Tights,1945,0.020945051316200114
+good_Tights,1946,0.020945051316200114
+good_Tights,1947,0.020945051316200114
+good_Tights,1948,0.020945051316200114
+good_Tights,1949,0.020945051316200114
+good_Tights,1950,0.020945051316200114
+good_Tights,1951,0.020945051316200114
+good_Tights,1952,0.020945051316200114
+good_Tights,1953,0.020945051316200114
+good_Tights,1954,0.020945051316200114
+good_Tights,1955,0.020945051316200114
+good_Tights,1956,0.020945051316200114
+good_Tights,1957,0.020945051316200114
+good_Tights,1958,0.020945051316200114
+good_Tights,1959,0.020945051316200114
+good_Tights,1960,0.020945051316200114
 good_Tights,1961,-0.25862530648750254
 good_Tights,1962,-0.24313164458284023
 good_Tights,1963,-0.3141241162377828
@@ -10479,6 +11586,7 @@ good_Tights,1986,0.4660867642832029
 good_Tights,1987,0.43680289574402814
 good_Tights,1988,0.44981979176141323
 good_Tights,1989,0.44736537352630623
+good_Tights,1990,0.44736537352630623
 good_Tights,1991,0.5573345619252128
 good_Tights,1992,0.6407930720172909
 good_Trombones,1901,-0.07830214788366424
@@ -10507,6 +11615,9 @@ good_Trombones,1924,0.671023086917406
 good_Trombones,1925,0.7052656038208607
 good_Trombones,1926,0.7343277724663284
 good_Trombones,1927,0.7810741285345602
+good_Trombones,1928,0.7810741285345602
+good_Trombones,1929,0.7810741285345602
+good_Trombones,1930,0.7810741285345602
 good_Trombones,1931,0.7096492662048449
 good_Trombones,1932,0.6779808784365227
 good_Typewriters,1933,-0.14282065492343002
@@ -10519,8 +11630,14 @@ good_Typewriters,1939,0.04004093361997767
 good_Typewriters,1940,0.004304636341267314
 good_Typewriters,1941,0.02193584522267369
 good_Typewriters,1942,0.12176436778221343
+good_Typewriters,1943,0.12176436778221343
+good_Typewriters,1944,0.12176436778221343
+good_Typewriters,1945,0.12176436778221343
+good_Typewriters,1946,0.12176436778221343
 good_Typewriters,1947,0.3800276074916182
+good_Typewriters,1948,0.3800276074916182
 good_Typewriters,1949,0.39222651003218656
+good_Typewriters,1950,0.39222651003218656
 good_Typewriters,1951,0.4824773626110689
 good_Typewriters,1952,0.5171532496652137
 good_Typewriters,1953,0.5001570969321673
@@ -10545,9 +11662,12 @@ good_Typewriters,1971,0.28094010210642334
 good_Typewriters,1972,0.2883630885539258
 good_Typewriters,1973,0.2864305205044141
 good_Typewriters,1974,0.2913611351532461
+good_Typewriters,1975,0.2913611351532461
 good_Typewriters,1976,0.33690771909439615
 good_Typewriters,1977,0.3665084927857949
 good_Typewriters,1978,0.3657824690172677
+good_Typewriters,1979,0.3657824690172677
+good_Typewriters,1980,0.3657824690172677
 good_Typewriters,1981,0.3825258857673762
 good_Typewriters,1982,0.47284432188719383
 good_Typewriters,1983,0.45540866285015197
@@ -10646,8 +11766,14 @@ good_Underpants,1991,-0.1505349513850473
 good_Underpants,1992,0.011200104014555234
 good_Undershirts,1901,-0.11796574403642447
 good_Undershirts,1902,-0.4011674534656764
+good_Undershirts,1903,-0.4011674534656764
 good_Undershirts,1904,-0.7703890421821004
 good_Undershirts,1905,-0.14411670859823889
+good_Undershirts,1906,-0.14411670859823889
+good_Undershirts,1908,-0.14411670859823889
+good_Undershirts,1909,-0.14411670859823889
+good_Undershirts,1910,-0.14411670859823889
+good_Undershirts,1911,-0.14411670859823889
 good_Undershirts,1912,-0.20825311431206542
 good_Undershirts,1913,-0.5120007590448798
 good_Undershirts,1914,-0.4221719503986568
@@ -10660,7 +11786,9 @@ good_Undershirts,1920,0.46075238385010464
 good_Undershirts,1921,-0.4908909029051097
 good_Undershirts,1922,-0.14291120133452695
 good_Undershirts,1923,-0.5056799860882759
+good_Undershirts,1924,-0.5056799860882759
 good_Undershirts,1925,-0.5973771766895483
+good_Undershirts,1926,-0.5973771766895483
 good_Undershirts,1927,-0.6606868014868718
 good_Undershirts,1928,-0.535114944776713
 good_Undershirts,1929,-0.4687177470654087
@@ -10669,6 +11797,7 @@ good_Undershirts,1931,-0.5392602465252152
 good_Undershirts,1932,-0.9772375373439794
 good_Undershirts,1933,-0.9278158468931837
 good_Undershirts,1934,-0.7274966224931064
+good_Undershirts,1935,-0.7274966224931064
 good_Undershirts,1936,-0.6866021219129097
 good_Undershirts,1937,-0.688066512454034
 good_Undershirts,1938,-0.8805128322680705
@@ -10679,6 +11808,7 @@ good_Undershirts,1942,-0.6055333822148038
 good_Undershirts,1943,-0.37652965667612937
 good_Undershirts,1944,-0.33914432716073273
 good_Undershirts,1945,-0.32038671466057034
+good_Undershirts,1946,-0.32038671466057034
 good_Undershirts,1947,-0.0787687848732321
 good_Undershirts,1948,-0.19489207817093135
 good_Undershirts,1949,-0.2258513723649076
@@ -10740,6 +11870,7 @@ good_Unisex sweatshirts,1942,0.17906464057989774
 good_Unisex sweatshirts,1943,0.3003391653190893
 good_Unisex sweatshirts,1944,0.3626467263607219
 good_Unisex sweatshirts,1945,0.2993257441550734
+good_Unisex sweatshirts,1946,0.2993257441550734
 good_Unisex sweatshirts,1947,0.5452901397007346
 good_Unisex sweatshirts,1948,0.681889028033775
 good_Unisex sweatshirts,1949,0.7380425274331693
@@ -10792,8 +11923,21 @@ good_Vacuum cleaners,1930,0.2616800497095815
 good_Vacuum cleaners,1931,0.324727193811383
 good_Vacuum cleaners,1932,0.09819209705051707
 good_Vacuum cleaners,1933,0.03223368707515771
+good_Vacuum cleaners,1934,0.03223368707515771
+good_Vacuum cleaners,1935,0.03223368707515771
+good_Vacuum cleaners,1936,0.03223368707515771
+good_Vacuum cleaners,1937,0.03223368707515771
+good_Vacuum cleaners,1938,0.03223368707515771
+good_Vacuum cleaners,1939,0.03223368707515771
 good_Vacuum cleaners,1940,0.12462789454829083
 good_Vacuum cleaners,1941,-0.033709873224994316
+good_Vacuum cleaners,1942,-0.033709873224994316
+good_Vacuum cleaners,1943,-0.033709873224994316
+good_Vacuum cleaners,1944,-0.033709873224994316
+good_Vacuum cleaners,1945,-0.033709873224994316
+good_Vacuum cleaners,1946,-0.033709873224994316
+good_Vacuum cleaners,1947,-0.033709873224994316
+good_Vacuum cleaners,1948,-0.033709873224994316
 good_Vacuum cleaners,1949,-0.09381407539493662
 good_Vacuum cleaners,1950,-0.21861857079347696
 good_Vacuum cleaners,1951,-0.12248166563351774
@@ -10841,15 +11985,48 @@ good_Vacuum cleaners,1992,-0.5289274328453003
 good_Valances,1909,0.012799574856387613
 good_Valances,1910,0.05874825189110965
 good_Valances,1911,-0.11438251687776207
+good_Valances,1912,-0.11438251687776207
+good_Valances,1913,-0.11438251687776207
+good_Valances,1914,-0.11438251687776207
+good_Valances,1915,-0.11438251687776207
+good_Valances,1916,-0.11438251687776207
 good_Valances,1917,0.019711146189720696
 good_Valances,1918,0.33787958703477217
+good_Valances,1919,0.33787958703477217
+good_Valances,1920,0.33787958703477217
+good_Valances,1921,0.33787958703477217
+good_Valances,1922,0.33787958703477217
+good_Valances,1923,0.33787958703477217
+good_Valances,1924,0.33787958703477217
+good_Valances,1925,0.33787958703477217
 good_Valances,1926,0.12014410269250395
 good_Valances,1927,-0.09677931739968712
 good_Valances,1928,-0.21906727200922582
 good_Valances,1929,-0.17599509632361268
 good_Valances,1930,-0.4136401005447018
 good_Valances,1931,-0.48646158882772317
+good_Valances,1932,-0.48646158882772317
 good_Valances,1933,-0.6256698864078303
+good_Valances,1934,-0.6256698864078303
+good_Valances,1935,-0.6256698864078303
+good_Valances,1936,-0.6256698864078303
+good_Valances,1937,-0.6256698864078303
+good_Valances,1938,-0.6256698864078303
+good_Valances,1939,-0.6256698864078303
+good_Valances,1940,-0.6256698864078303
+good_Valances,1941,-0.6256698864078303
+good_Valances,1942,-0.6256698864078303
+good_Valances,1943,-0.6256698864078303
+good_Valances,1944,-0.6256698864078303
+good_Valances,1945,-0.6256698864078303
+good_Valances,1946,-0.6256698864078303
+good_Valances,1947,-0.6256698864078303
+good_Valances,1948,-0.6256698864078303
+good_Valances,1949,-0.6256698864078303
+good_Valances,1950,-0.6256698864078303
+good_Valances,1951,-0.6256698864078303
+good_Valances,1952,-0.6256698864078303
+good_Valances,1953,-0.6256698864078303
 good_Valances,1954,-0.8235053593795725
 good_Valances,1955,-0.7972017188966848
 good_Valances,1956,-0.7694038896698885
@@ -10891,7 +12068,10 @@ good_Valances,1991,0.36700242342485584
 good_Valances,1992,0.38499497522422094
 good_Wall clocks,1901,0.033352545766317965
 good_Wall clocks,1902,-0.05419060465264043
+good_Wall clocks,1903,-0.05419060465264043
+good_Wall clocks,1904,-0.05419060465264043
 good_Wall clocks,1905,-0.06446827426128297
+good_Wall clocks,1906,-0.06446827426128297
 good_Wall clocks,1908,-0.036494713910984244
 good_Wall clocks,1909,-0.04678166039415388
 good_Wall clocks,1910,-0.05359601642115399
@@ -10916,15 +12096,36 @@ good_Wall clocks,1928,0.7770833937013243
 good_Wall clocks,1929,0.8485312875043745
 good_Wall clocks,1930,0.8437258209786911
 good_Wall clocks,1931,0.7978429594041385
+good_Wall clocks,1932,0.7978429594041385
 good_Wall clocks,1933,0.7634727676683347
+good_Wall clocks,1934,0.7634727676683347
+good_Wall clocks,1935,0.7634727676683347
+good_Wall clocks,1936,0.7634727676683347
+good_Wall clocks,1937,0.7634727676683347
 good_Wall clocks,1938,0.7146783923268688
 good_Wall clocks,1939,0.6494632558898591
+good_Wall clocks,1940,0.6494632558898591
+good_Wall clocks,1941,0.6494632558898591
+good_Wall clocks,1942,0.6494632558898591
+good_Wall clocks,1943,0.6494632558898591
+good_Wall clocks,1944,0.6494632558898591
+good_Wall clocks,1945,0.6494632558898591
+good_Wall clocks,1946,0.6494632558898591
+good_Wall clocks,1947,0.6494632558898591
+good_Wall clocks,1948,0.6494632558898591
+good_Wall clocks,1949,0.6494632558898591
+good_Wall clocks,1950,0.6494632558898591
+good_Wall clocks,1951,0.6494632558898591
+good_Wall clocks,1952,0.6494632558898591
 good_Wall clocks,1953,0.6328999744560794
+good_Wall clocks,1954,0.6328999744560794
+good_Wall clocks,1955,0.6328999744560794
 good_Wall clocks,1956,0.5863729554818821
 good_Wall clocks,1957,0.5587815650514094
 good_Wall clocks,1958,0.568419211912969
 good_Wall clocks,1959,0.5424027454254485
 good_Wall clocks,1960,0.5637708436954739
+good_Wall clocks,1961,0.5637708436954739
 good_Wall clocks,1962,0.5868603327508559
 good_Wall clocks,1963,0.5630406381897085
 good_Wall clocks,1964,0.5261732848241374
@@ -10939,11 +12140,15 @@ good_Wall clocks,1972,0.5475226900085384
 good_Wall clocks,1973,0.5792065117697183
 good_Wall clocks,1974,0.6965616308263376
 good_Wall clocks,1975,0.7631796556645686
+good_Wall clocks,1976,0.7631796556645686
 good_Wall clocks,1977,0.7688520641215085
 good_Wall clocks,1978,0.7090355732724672
+good_Wall clocks,1979,0.7090355732724672
 good_Wall clocks,1980,0.7315781907772806
 good_Wall clocks,1981,0.7312463968726404
 good_Wall clocks,1982,0.6957302582408474
+good_Wall clocks,1983,0.6957302582408474
+good_Wall clocks,1984,0.6957302582408474
 good_Wall clocks,1985,0.5904047178807446
 good_Waterproof jacket or raincoats,1901,-0.06606033040004772
 good_Waterproof jacket or raincoats,1902,-0.01758954600565161
@@ -11080,6 +12285,7 @@ good_Womens boots,1942,-0.14066109686789677
 good_Womens boots,1943,-0.7578920050177678
 good_Womens boots,1944,-0.5522963418708428
 good_Womens boots,1945,-1.0208090647283288
+good_Womens boots,1946,-1.0208090647283288
 good_Womens boots,1947,-0.6710478947752675
 good_Womens boots,1948,-0.47123242326509757
 good_Womens boots,1949,-0.4805486573230251
@@ -11218,10 +12424,12 @@ good_Womens coats or jackets,1990,-1.189658947017278
 good_Womens coats or jackets,1991,-1.0828207014586828
 good_Womens coats or jackets,1992,-1.0036732329000964
 good_Womens dresses or skirts or saris or kimonos,1901,-0.44534874811585073
+good_Womens dresses or skirts or saris or kimonos,1902,-0.44534874811585073
 good_Womens dresses or skirts or saris or kimonos,1903,-0.47905941503451854
 good_Womens dresses or skirts or saris or kimonos,1904,-0.5298643945475283
 good_Womens dresses or skirts or saris or kimonos,1905,-0.5832211186147701
 good_Womens dresses or skirts or saris or kimonos,1906,-0.5401775677643895
+good_Womens dresses or skirts or saris or kimonos,1908,-0.5401775677643895
 good_Womens dresses or skirts or saris or kimonos,1909,-0.525804518288601
 good_Womens dresses or skirts or saris or kimonos,1910,-0.6870706392407024
 good_Womens dresses or skirts or saris or kimonos,1911,-0.7329669305293101
@@ -11308,11 +12516,15 @@ good_Womens dresses or skirts or saris or kimonos,1991,-1.6175985893777836
 good_Womens dresses or skirts or saris or kimonos,1992,-1.6007160451822502
 good_Womens overshoes,1902,-0.15644068691595694
 good_Womens overshoes,1903,-0.11286001536390311
+good_Womens overshoes,1904,-0.11286001536390311
 good_Womens overshoes,1905,-0.05443686240666269
+good_Womens overshoes,1906,-0.05443686240666269
+good_Womens overshoes,1908,-0.05443686240666269
 good_Womens overshoes,1909,-0.06695019966915003
 good_Womens overshoes,1910,0.02149135963131385
 good_Womens overshoes,1911,-0.0901012763664643
 good_Womens overshoes,1912,-0.033685781119624815
+good_Womens overshoes,1913,-0.033685781119624815
 good_Womens overshoes,1914,-0.37685158547527103
 good_Womens overshoes,1915,-0.5678519971504745
 good_Womens overshoes,1916,-0.3948408347033079
@@ -11343,6 +12555,8 @@ good_Womens overshoes,1940,-0.3410087334955846
 good_Womens overshoes,1941,-0.26376283821887125
 good_Womens overshoes,1942,0.13607608664919224
 good_Womens overshoes,1943,-0.12364336458221248
+good_Womens overshoes,1944,-0.12364336458221248
+good_Womens overshoes,1945,-0.12364336458221248
 good_Womens overshoes,1946,-0.3762444184790704
 good_Womens overshoes,1947,0.009501276023745675
 good_Womens overshoes,1948,0.10682699116708959
@@ -11355,13 +12569,30 @@ good_Womens overshoes,1954,0.46380736553478413
 good_Womens overshoes,1955,0.48590592434639474
 good_Womens overshoes,1956,0.5947305806689196
 good_Womens overshoes,1957,0.3989425361930984
+good_Womens overshoes,1958,0.3989425361930984
+good_Womens overshoes,1959,0.3989425361930984
 good_Womens overshoes,1960,0.2948094661394542
 good_Womens overshoes,1961,0.7735077908405116
 good_Womens overshoes,1962,0.21888576474949695
 good_Womens overshoes,1963,0.10887822614745235
 good_Womens overshoes,1964,0.07221028967935786
 good_Womens overshoes,1965,0.19717341909383085
+good_Womens overshoes,1966,0.19717341909383085
+good_Womens overshoes,1967,0.19717341909383085
+good_Womens overshoes,1968,0.19717341909383085
+good_Womens overshoes,1969,0.19717341909383085
+good_Womens overshoes,1970,0.19717341909383085
 good_Womens overshoes,1971,0.1515514679143086
+good_Womens overshoes,1972,0.1515514679143086
+good_Womens overshoes,1973,0.1515514679143086
+good_Womens overshoes,1974,0.1515514679143086
+good_Womens overshoes,1975,0.1515514679143086
+good_Womens overshoes,1976,0.1515514679143086
+good_Womens overshoes,1977,0.1515514679143086
+good_Womens overshoes,1978,0.1515514679143086
+good_Womens overshoes,1979,0.1515514679143086
+good_Womens overshoes,1980,0.1515514679143086
+good_Womens overshoes,1981,0.1515514679143086
 good_Womens overshoes,1982,0.5277112983623166
 good_Womens pajamas or nightshirts or robes,1902,0.10515200785609866
 good_Womens pajamas or nightshirts or robes,1903,0.014530125281767933
@@ -11461,6 +12692,11 @@ good_Womens sandals,1905,-0.2881189476387156
 good_Womens sandals,1906,-0.320669502674363
 good_Womens sandals,1908,-0.31104290585344957
 good_Womens sandals,1909,-0.4966127522947813
+good_Womens sandals,1910,-0.4966127522947813
+good_Womens sandals,1911,-0.4966127522947813
+good_Womens sandals,1912,-0.4966127522947813
+good_Womens sandals,1913,-0.4966127522947813
+good_Womens sandals,1914,-0.4966127522947813
 good_Womens sandals,1915,-0.7484285539061795
 good_Womens sandals,1916,-0.7427814937001449
 good_Womens sandals,1917,-0.556135022622118
@@ -11469,13 +12705,19 @@ good_Womens sandals,1919,-0.17131000018650905
 good_Womens sandals,1920,0.34808169267708183
 good_Womens sandals,1921,0.15137254995335675
 good_Womens sandals,1922,0.056667274758318495
+good_Womens sandals,1923,0.056667274758318495
+good_Womens sandals,1924,0.056667274758318495
 good_Womens sandals,1925,0.05373029798260151
 good_Womens sandals,1926,-0.010012327607953439
+good_Womens sandals,1927,-0.010012327607953439
+good_Womens sandals,1928,-0.010012327607953439
 good_Womens sandals,1929,0.09472475384443929
 good_Womens sandals,1930,-0.24428297285849154
 good_Womens sandals,1931,-0.3576007487706201
 good_Womens sandals,1932,-0.47735812944983397
+good_Womens sandals,1933,-0.47735812944983397
 good_Womens sandals,1934,0.0325673445715578
+good_Womens sandals,1935,0.0325673445715578
 good_Womens sandals,1936,0.09793393494898744
 good_Womens sandals,1937,0.22564689928114523
 good_Womens sandals,1938,0.17878440911136878
@@ -11529,6 +12771,8 @@ good_Womens sandals,1985,2.4397491309355033
 good_Womens sandals,1986,2.368179057625892
 good_Womens sandals,1987,2.5780091192398777
 good_Womens sandals,1988,2.4629891045006618
+good_Womens sandals,1989,2.4629891045006618
+good_Womens sandals,1990,2.4629891045006618
 good_Womens sandals,1991,2.844658862388143
 good_Womens sandals,1992,2.994411918013867
 good_Womens shirts or blouses,1901,0.00011106115505829067
@@ -11537,6 +12781,7 @@ good_Womens shirts or blouses,1903,-0.0797161096481473
 good_Womens shirts or blouses,1904,-0.31739898266336464
 good_Womens shirts or blouses,1905,-0.5327286778405611
 good_Womens shirts or blouses,1906,-0.6049200451554061
+good_Womens shirts or blouses,1908,-0.6049200451554061
 good_Womens shirts or blouses,1909,-0.5823875550948208
 good_Womens shirts or blouses,1910,-0.6229563665817994
 good_Womens shirts or blouses,1911,-0.6096993761718242
@@ -11713,6 +12958,7 @@ good_Womens shoes,1990,0.924872712463884
 good_Womens shoes,1991,1.0339167698117442
 good_Womens shoes,1992,1.128141294332766
 good_Womens slacks or trousers or shorts,1936,-0.18101082556182882
+good_Womens slacks or trousers or shorts,1937,-0.18101082556182882
 good_Womens slacks or trousers or shorts,1938,-0.40874103062500744
 good_Womens slacks or trousers or shorts,1939,-0.6691114076603448
 good_Womens slacks or trousers or shorts,1940,-0.6842869295624453
@@ -11863,6 +13109,7 @@ good_Womens suits,1903,0.24949302312046068
 good_Womens suits,1904,0.10069024225256998
 good_Womens suits,1905,-0.04561458494988224
 good_Womens suits,1906,0.02246674021679987
+good_Womens suits,1908,0.02246674021679987
 good_Womens suits,1909,0.09778979689367673
 good_Womens suits,1910,0.11701977560499627
 good_Womens suits,1911,0.17639575764987647
@@ -11881,6 +13128,9 @@ good_Womens suits,1923,-0.11613705325697174
 good_Womens suits,1924,-0.14340994756378328
 good_Womens suits,1925,-0.18259273197188622
 good_Womens suits,1926,-0.1238956661067574
+good_Womens suits,1927,-0.1238956661067574
+good_Womens suits,1928,-0.1238956661067574
+good_Womens suits,1929,-0.1238956661067574
 good_Womens suits,1930,-0.1541453769466948
 good_Womens suits,1931,-0.4215322372163317
 good_Womens suits,1932,-0.7253345043731598
@@ -12029,16 +13279,39 @@ good_Womens sweaters,1991,0.09827913066304406
 good_Womens sweaters,1992,0.02180212040414628
 good_Womens swimwears,1918,0.5249329405558186
 good_Womens swimwears,1919,0.7787675258150375
+good_Womens swimwears,1920,0.7787675258150375
+good_Womens swimwears,1921,0.7787675258150375
+good_Womens swimwears,1922,0.7787675258150375
+good_Womens swimwears,1923,0.7787675258150375
+good_Womens swimwears,1924,0.7787675258150375
+good_Womens swimwears,1925,0.7787675258150375
+good_Womens swimwears,1926,0.7787675258150375
 good_Womens swimwears,1927,0.7098746104676188
 good_Womens swimwears,1928,0.6014303021087053
 good_Womens swimwears,1929,0.3422282252780058
 good_Womens swimwears,1930,0.3592384490511055
 good_Womens swimwears,1931,0.25021370423662614
 good_Womens swimwears,1932,-0.17597302704605156
+good_Womens swimwears,1933,-0.17597302704605156
+good_Womens swimwears,1934,-0.17597302704605156
+good_Womens swimwears,1935,-0.17597302704605156
+good_Womens swimwears,1936,-0.17597302704605156
+good_Womens swimwears,1937,-0.17597302704605156
+good_Womens swimwears,1938,-0.17597302704605156
+good_Womens swimwears,1939,-0.17597302704605156
 good_Womens swimwears,1940,-0.02162656927611198
 good_Womens swimwears,1941,-0.08036869149613309
 good_Womens swimwears,1942,-0.41941346612178926
+good_Womens swimwears,1943,-0.41941346612178926
+good_Womens swimwears,1944,-0.41941346612178926
+good_Womens swimwears,1945,-0.41941346612178926
 good_Womens swimwears,1946,-0.4202283382615649
+good_Womens swimwears,1947,-0.4202283382615649
+good_Womens swimwears,1948,-0.4202283382615649
+good_Womens swimwears,1949,-0.4202283382615649
+good_Womens swimwears,1950,-0.4202283382615649
+good_Womens swimwears,1951,-0.4202283382615649
+good_Womens swimwears,1952,-0.4202283382615649
 good_Womens swimwears,1953,-0.7262481494362416
 good_Womens swimwears,1954,-0.9750332074757568
 good_Womens swimwears,1955,-0.8179075767528962
@@ -12164,6 +13437,8 @@ good_Wrenches,1983,1.7632250836224805
 good_Wrenches,1984,2.066909393005668
 good_Wrenches,1985,2.067059253469567
 good_Wrenches,1986,1.790384275144808
+good_Wrenches,1987,1.790384275144808
+good_Wrenches,1988,1.790384275144808
 good_Wrenches,1989,1.856725073436209
 good_Wrenches,1990,1.978657955816807
 good_Wrenches,1991,1.9593791528630953
@@ -12172,6 +13447,9 @@ good_Wrist watches,1901,-0.41398126816089964
 good_Wrist watches,1902,-0.6056063471290178
 good_Wrist watches,1903,-0.6815824924287402
 good_Wrist watches,1904,-0.6563535905755744
+good_Wrist watches,1905,-0.6563535905755744
+good_Wrist watches,1906,-0.6563535905755744
+good_Wrist watches,1908,-0.6563535905755744
 good_Wrist watches,1909,-0.798644302456083
 good_Wrist watches,1910,-0.9213954769809525
 good_Wrist watches,1911,-0.7235569555138727
@@ -12207,6 +13485,9 @@ good_Wrist watches,1940,-0.9150297350229034
 good_Wrist watches,1941,-0.9217644238938966
 good_Wrist watches,1942,-0.7905760042340582
 good_Wrist watches,1943,-1.0466496884711738
+good_Wrist watches,1944,-1.0466496884711738
+good_Wrist watches,1945,-1.0466496884711738
+good_Wrist watches,1946,-1.0466496884711738
 good_Wrist watches,1947,-1.4949434597718163
 good_Wrist watches,1948,-1.5901094464173697
 good_Wrist watches,1949,-1.8085054852718911
@@ -12251,4 +13532,5 @@ good_Wrist watches,1987,-2.1862147822934506
 good_Wrist watches,1988,-2.143169402165685
 good_Wrist watches,1989,-2.255254423396855
 good_Wrist watches,1990,-2.0490896694942817
+good_Wrist watches,1991,-2.0490896694942817
 good_Wrist watches,1992,-2.1017990786123657
