@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Explore and download quality-adjusted historical price indexes for American consumer goods, 1900–1990, from Cataloging Growth.">
+  <title>Price Index Explorer | Cataloging Growth</title>
+  <link rel="stylesheet" href="./style.css">
+  <!-- Basic Plotly bundle supports the line charts used here. Pinned to a documented release. -->
+  <script src="https://cdn.plot.ly/plotly-basic-4.1.2.min.js" defer></script>
+  <script src="./app.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to main content</a>
+  <header class="site-header">
+    <div class="shell header-inner">
+      <a class="brand" href="#top" aria-label="Cataloging Growth home"><span class="brand-mark">CG</span><span class="brand-text">CATALOGING GROWTH<span class="brand-sub">Research data companion</span></span></a>
+      <nav class="top-nav" aria-label="Page sections">
+        <a href="#overview">Overview</a>
+        <a href="#explore">Explore goods</a>
+        <a href="#methodology">Methodology</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main">
+    <section id="top" class="hero">
+      <div class="shell hero-inner">
+        <p class="eyebrow">HISTORICAL PRICE INDEXES <span aria-hidden="true">·</span> 1900–1990</p>
+        <h1>How did the quality-adjusted price of consumer goods change over the twentieth century?</h1>
+        <p class="hero-lead">Explore the hedonic price indexes from <em>Cataloging Growth: A Re-Evaluation of 1900–1990</em>, constructed using millions of product listings in historical Sears catalogs.</p>
+        <div class="hero-footer">
+          <p class="authors">Verónica Bäcker-Peral <span>and</span> Benjamin Wittenbrink <span class="affiliation">· MIT</span></p>
+          <a href="#explore" class="text-link">Explore individual goods <span aria-hidden="true">↗</span></a>
+        </div>
+      </div>
+    </section>
+
+    <div class="shell">
+      <div id="data-notice" class="notice" role="status" aria-live="polite" hidden></div>
+      <section id="overview" class="section" aria-labelledby="overview-title">
+        <div class="section-heading">
+          <div>
+            <p class="section-kicker">01 / AGGREGATE INDEX</p>
+            <h2 id="overview-title">Apparel &amp; housefurnishings</h2>
+            <p class="section-description">Our preferred quality-adjusted price index for the two sectors. The chart is normalized to 100 in the series' first observed year.</p>
+          </div>
+          <button type="button" class="button button-outline" id="download-overview" disabled>Download series <span aria-hidden="true">↓</span></button>
+        </div>
+        <div class="chart-panel">
+          <div class="chart-header">
+            <div class="chart-measure">Price index <span class="chart-unit">First observed year = 100</span></div>
+            <div id="overview-coverage" class="chart-caption"></div>
+          </div>
+          <div id="overview-chart" class="plot" role="img" aria-label="Aggregate quality-adjusted price index over time"></div>
+          <p class="chart-footnote">These are indexes of <strong>constant-quality prices</strong>, not average catalog sticker prices. A declining index indicates quality-adjusted deflation.</p>
+        </div>
+      </section>
+
+      <section id="explore" class="section" aria-labelledby="explore-title">
+        <div class="section-heading">
+          <div>
+            <p class="section-kicker">02 / INDIVIDUAL GOODS</p>
+            <h2 id="explore-title">Explore goods</h2>
+            <p class="section-description">Select one or more goods to compare price changes. Search by product name or UNSPSC code.</p>
+          </div>
+        </div>
+        <div class="explorer-layout">
+          <aside class="picker-panel" aria-label="Select series">
+            <div class="picker-title-row">
+              <h3>Select series</h3>
+              <button type="button" class="link-button" id="clear-selection">Clear</button>
+            </div>
+            <label for="search-series" class="field-label">Search goods</label>
+            <input id="search-series" class="form-input" type="search" placeholder="e.g., refrigerators" autocomplete="off">
+            <label for="sector-filter" class="field-label">Sector</label>
+            <select id="sector-filter" class="form-input"><option value="">All sectors</option></select>
+            <div class="picker-summary" id="picker-summary" aria-live="polite">No series selected</div>
+            <div id="series-picker" class="series-picker" role="group" aria-label="Available price-index series"></div>
+            <p class="picker-hint">Select up to 12 series for a legible comparison.</p>
+          </aside>
+          <div class="explorer-main">
+            <div class="control-panel">
+              <div class="control-field">
+                <label for="measure-select" class="field-label">Display</label>
+                <select id="measure-select" class="form-input">
+                  <option value="index">Price index (100 = base year)</option>
+                  <option value="inflation">Annual log inflation (%)</option>
+                </select>
+              </div>
+              <div class="control-field">
+                <label for="base-select" class="field-label">Normalize indexes</label>
+                <select id="base-select" class="form-input">
+                  <option value="common">First common observed year</option>
+                  <option value="own">First observed year for each series</option>
+                </select>
+              </div>
+            </div>
+            <div class="chart-panel explorer-chart-panel">
+              <div class="chart-header">
+                <div class="chart-measure" id="explorer-measure-label">Selected price indexes</div>
+                <div class="chart-caption" id="explorer-coverage"></div>
+              </div>
+              <div id="explorer-chart" class="plot" role="img" aria-label="Selected goods' price-index comparison"></div>
+              <p class="chart-footnote" id="explorer-footnote">Select series to display their price paths.</p>
+            </div>
+            <div class="download-row">
+              <button type="button" id="download-selected" class="button button-primary" disabled>Download selected raw series ↓</button>
+              <button type="button" id="download-displayed" class="button button-outline" disabled>Download plotted values ↓</button>
+              <a href="./data/price_indexes.csv" download="price_indexes.csv" class="button button-text">Download all data ↓</a>
+            </div>
+            <p class="download-note"><strong>Raw series</strong> are the values in the source CSV. <strong>Plotted values</strong> reflect the normalization and measure selected above.</p>
+            <details class="data-preview" id="data-preview">
+              <summary>View annual values <span class="summary-sub">(selected series)</span></summary>
+              <div id="preview-content" class="table-scroll"></div>
+            </details>
+          </div>
+        </div>
+      </section>
+
+      <section id="methodology" class="section methodology" aria-labelledby="method-title">
+        <div class="section-heading">
+          <div>
+            <p class="section-kicker">03 / ABOUT THE RESEARCH</p>
+            <h2 id="method-title">Data &amp; methodology</h2>
+            <p class="section-description">A brief overview of how the preferred hedonic series are constructed.</p>
+          </div>
+        </div>
+        <div class="method-grid">
+          <article class="method-card">
+            <span class="method-number">01</span>
+            <h3>Historical catalog data</h3>
+            <p>We digitize approximately 5.1 million product listings from Sears catalogs spanning 1900–1990. Language models extract product prices, descriptions, and characteristics such as size, materials, and functional features.</p>
+          </article>
+          <article class="method-card">
+            <span class="method-number">02</span>
+            <h3>Hedonic quality adjustment</h3>
+            <p>Within product categories, ridge regressions relate log prices to characteristics using rolling five-year windows. We identify closely comparable products across years and use estimated characteristic values to adjust prices when products differ in quality.</p>
+          </article>
+          <article class="method-card">
+            <span class="method-number">03</span>
+            <h3>Price index construction</h3>
+            <p>Quality-adjusted price relatives are combined within goods categories, then aggregated using historical consumer expenditure weights. The resulting series track price changes holding measured product quality as comparable as possible.</p>
+          </article>
+        </div>
+        <div class="method-notes">
+          <div>
+            <h3>Interpretation</h3>
+            <p>The indexes measure changes in quality-adjusted prices, not prices of individual identical models or the average price of products offered. Individual goods may enter the sample later than 1900. Missing observations are omitted, not filled with zeroes.</p>
+          </div>
+          <div>
+            <h3>Research citation</h3>
+            <p>Bäcker-Peral, Verónica, and Benjamin Wittenbrink. <em>Cataloging Growth: A Re-Evaluation of 1900–1990</em>. Working paper.</p>
+            <p class="small-note">The downloadable data reflect the selected research release. Please cite the accompanying paper when using these indexes.</p>
+          </div>
+        </div>
+      </section>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="shell footer-inner">
+      <span>© <span id="current-year">2026</span> · Cataloging Growth</span>
+      <span>Historical prices · Quality-adjusted estimates · Open data</span>
+    </div>
+  </footer>
+</body>
+</html>
